@@ -1,0 +1,15 @@
+,0
+fraudulent,157.0
+bugs,9909.0
+authentication,15151.0
+security,2169.0
+usability,3083.0
+ads_tracker,127.0
+cust_support,1031.0
+pct_fraud,0.91
+pct_bugs,14.21
+pct_auth,11.68
+pct_sec,2.69
+pct_usa,5.66
+pct_ads,0.24
+pct_cust,2.94
