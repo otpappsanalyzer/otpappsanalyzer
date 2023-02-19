@@ -11,6 +11,9 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 For more information about installing the google-play-scraper library can be found in:
 https://www.npmjs.com/package/google-play-scraper
 
+**2. Malware_analysis**.
+This folder contains scripts to check the hash value of OTP apps to virus total API. The Virus Total scanning result is stored outside this repository due to its size. The summary of the result is provided in this repo.
+
 <!--
 **otpappsanalyzer/otpappsanalyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
