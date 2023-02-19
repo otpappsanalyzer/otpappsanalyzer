@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=BC OTP, OU=BC Card, L=Seoul, ST=Seoul, C=82
+Issuer: CN=BC OTP, OU=BC Card, L=Seoul, ST=Seoul, C=82
+Serial number: 76cdda73
+Valid from: Thu Sep 25 17:28:23 AEST 2014 until: Sat Sep 01 17:28:23 AEST 2114
+Certificate fingerprints:
+	 SHA1: 27:34:F5:EA:B3:D3:30:A7:1B:47:DD:FB:16:50:DA:35:AC:1B:2D:1D
+	 SHA256: 8A:BD:BF:64:2B:45:38:1C:B8:1A:70:3A:40:25:7C:49:8C:26:45:0F:E5:18:E9:57:CF:E6:6E:30:52:D1:DB:CC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: EA 93 45 DC 4D FC B8 D9   02 FA AE F7 94 D1 BE F3  ..E.M...........
+0010: 2F 2A 6D 1B                                        /*m.
+]
+]
+
+

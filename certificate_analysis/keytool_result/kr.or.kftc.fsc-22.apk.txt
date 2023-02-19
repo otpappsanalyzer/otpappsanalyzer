@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=KFTC, OU=KFTC, L=Yoksam, ST=Seoul, C=KR
+Issuer: CN=KFTC, OU=KFTC, L=Yoksam, ST=Seoul, C=KR
+Serial number: 2fa5bd6c
+Valid from: Wed May 04 12:46:45 AEST 2016 until: Fri Apr 27 12:46:45 AEST 2046
+Certificate fingerprints:
+	 SHA1: 77:6C:0C:17:E2:90:C8:80:0C:33:34:C8:7D:99:E5:61:22:5A:45:43
+	 SHA256: 68:DC:FD:AF:63:2D:0E:F9:95:D0:E5:91:86:0A:AB:FF:F8:D4:12:59:DD:B3:7B:44:84:5A:2C:39:66:1C:87:D3
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0E 8B 76 E5 2D 07 7D 47   74 26 78 8E EB 13 EF E6  ..v.-..Gt&x.....
+0010: 57 72 F0 87                                        Wr..
+]
+]
+
+

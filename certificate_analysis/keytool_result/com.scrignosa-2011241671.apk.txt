@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Banca Popolare di Sondrio SCPA, OU=Marco Seguri, O=Banca Popolare di Sondrio SCPA, L=Sondrio, ST=Sondrio, C=IT
+Issuer: CN=Banca Popolare di Sondrio SCPA, OU=Marco Seguri, O=Banca Popolare di Sondrio SCPA, L=Sondrio, ST=Sondrio, C=IT
+Serial number: 3696e47b
+Valid from: Fri Nov 21 20:59:40 AEDT 2014 until: Tue Apr 08 19:59:40 AEST 2042
+Certificate fingerprints:
+	 SHA1: 9C:69:A0:2E:99:CF:0B:6A:06:FD:81:DB:7A:18:2D:7E:E7:22:E2:7B
+	 SHA256: 23:3E:9F:A8:F8:70:F0:6E:F5:9D:D2:C5:23:92:CD:C5:44:FC:5E:BB:48:1A:44:0B:0B:CB:81:AD:5F:AB:76:94
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AE 38 6E FC F2 EE 29 FE   AD 0B EB F7 B7 73 10 D3  .8n...)......s..
+0010: 2D 57 2C 15                                        -W,.
+]
+]
+
+

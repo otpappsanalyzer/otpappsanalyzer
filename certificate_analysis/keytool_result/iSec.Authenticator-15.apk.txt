@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="Olorunfemi ajibulu, OU=Software Development, O=Information Secure limited, L=Yaba, S=Lagos, C=ng"
+Issuer: CN="Olorunfemi ajibulu, OU=Software Development, O=Information Secure limited, L=Yaba, S=Lagos, C=ng"
+Serial number: 6427e09f
+Valid from: Fri Jun 29 02:06:38 AEST 2018 until: Sun Jun 21 02:06:38 AEST 2048
+Certificate fingerprints:
+	 SHA1: 82:E4:7D:B2:D6:8F:E1:20:2F:E5:F3:9B:51:2F:44:D9:DE:BE:C5:F0
+	 SHA256: 3D:4C:42:1A:6F:7D:43:82:36:DB:FB:A1:4F:20:85:78:36:D3:C1:78:19:67:18:E3:0C:3C:46:46:1B:D3:0D:83
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 65 18 9C 6A 0B 35 76 9A   07 C2 C4 42 AA 20 D4 7C  e..j.5v....B. ..
+0010: A5 D0 04 6F                                        ...o
+]
+]
+
+

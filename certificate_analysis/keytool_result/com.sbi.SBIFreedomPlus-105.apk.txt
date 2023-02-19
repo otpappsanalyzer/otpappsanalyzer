@@ -1,0 +1,155 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=CodeSigning for STATE BANK OF INDIA, OU=Android Code Signing, O=STATE BANK OF INDIA, L=Navi Mumbai, ST=Maharashtra, C=IN
+Issuer: CN=Symantec CA for Android, OU=Android Applications, O=Symantec Corporation, C=US
+Serial number: cf
+Valid from: Wed Mar 12 12:46:27 AEDT 2014 until: Tue Mar 08 07:24:01 AEDT 2039
+Certificate fingerprints:
+	 SHA1: D1:88:EC:44:EE:0E:23:DD:56:CF:45:3C:89:3B:04:CC:38:C2:05:10
+	 SHA256: 7A:86:D2:16:27:15:81:D9:08:E9:36:2B:C3:2D:50:E0:A0:C4:87:83:12:06:C3:B8:E0:17:DB:33:49:47:45:CE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: ocsp
+   accessLocation: URIName: http://android-ocsp.geotrust.com
+]
+]
+
+#2: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 8E 55 D1 A5 66 D0 A8 24   97 4E EC 77 D0 DC BE A0  .U..f..$.N.w....
+0010: 93 68 84 DD                                        .h..
+]
+]
+
+#3: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+#4: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://android-crl.geotrust.com/crls/android.crl]
+]]
+
+#5: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  clientAuth
+  codeSigning
+  2.16.840.1.113733.1.8.53.1
+]
+
+#6: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Non_repudiation
+  Key_Encipherment
+]
+
+#7: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B0 8C 29 B7 64 9C 99 92   A1 AD F5 34 21 27 7E 45  ..).d......4!'.E
+0010: C5 82 C2 A7                                        ....
+]
+]
+
+
+Owner: CN=Symantec CA for Android, OU=Android Applications, O=Symantec Corporation, C=US
+Issuer: CN=Symantec Root for Code Signing, O=Symantec Corporation, C=US
+Serial number: 4c4599aa185b98cb73a9c41b26d47fc
+Valid from: Thu Apr 05 10:00:00 AEST 2012 until: Fri Dec 31 10:59:59 AEDT 2049
+Certificate fingerprints:
+	 SHA1: 17:72:90:DE:21:54:B1:F8:BA:58:36:A7:28:F3:82:09:AB:9F:7E:D5
+	 SHA256: A6:E2:86:FB:2C:53:C6:42:83:12:BD:A5:56:F5:27:A4:34:A2:6F:68:D0:59:C1:1A:95:C8:A9:76:0A:40:71:C7
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: C3 17 D4 C1 82 03 D3 47   62 8C 76 08 8D 96 0E E6  .......Gb.v.....
+0010: 20 55 4A 9B                                         UJ.
+]
+]
+
+#2: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:0
+]
+
+#3: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.geotrust.com/crls/symccodesigningroot.crl]
+]]
+
+#4: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+#5: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8E 55 D1 A5 66 D0 A8 24   97 4E EC 77 D0 DC BE A0  .U..f..$.N.w....
+0010: 93 68 84 DD                                        .h..
+]
+]
+
+
+Owner: CN=Symantec Root for Code Signing, O=Symantec Corporation, C=US
+Issuer: CN=Symantec Root for Code Signing, O=Symantec Corporation, C=US
+Serial number: 6ede6f254943dcd25265c651e5e20df1
+Valid from: Thu Apr 05 10:00:00 AEST 2012 until: Sat Jan 01 10:59:59 AEDT 2050
+Certificate fingerprints:
+	 SHA1: 5F:80:65:78:25:A4:80:F6:FA:34:AB:7A:D8:EB:F8:0F:61:3D:3E:FE
+	 SHA256: 7C:57:9E:67:BB:F0:EB:B5:EA:D2:E2:C4:69:B4:96:7D:FE:00:FB:36:B1:FE:75:91:08:56:BC:7C:CC:4E:8B:10
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#2: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+#3: ObjectId: 2.5.29.17 Criticality=false
+SubjectAlternativeName [
+  CN=MPKI-4096-202
+]
+
+#4: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C3 17 D4 C1 82 03 D3 47   62 8C 76 08 8D 96 0E E6  .......Gb.v.....
+0010: 20 55 4A 9B                                         UJ.
+]
+]
+
+

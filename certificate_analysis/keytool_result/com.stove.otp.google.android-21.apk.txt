@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=stove
+Issuer: CN=stove
+Serial number: 1210eb86
+Valid from: Mon Apr 03 15:36:36 AEST 2017 until: Fri Mar 28 16:36:36 AEDT 2042
+Certificate fingerprints:
+	 SHA1: 8D:0E:DB:E4:86:37:4D:06:1A:D8:C2:1B:BA:F1:51:FD:01:C0:6F:EF
+	 SHA256: F0:E0:92:6A:24:5A:88:B9:33:0D:BE:9E:F0:5F:34:7C:7A:1A:A8:8C:CF:57:F6:CF:8D:BB:20:12:47:48:61:D6
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 21 20 F8 20 A9 08 91 28   1D 6F AF 4C 9A 70 60 85  ! . ...(.o.L.p`.
+0010: AF DB 4E 09                                        ..N.
+]
+]
+
+

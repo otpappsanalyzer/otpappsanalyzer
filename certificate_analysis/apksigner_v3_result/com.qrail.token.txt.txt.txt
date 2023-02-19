@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=EZMCOM Inc., OU=Engineering, O=EZMCOM Inc., L=Santa Clara, ST=California, C=US
+Signer #1 certificate SHA-256 digest: 715a287a15050261efce0ce62f16e4076c68ae5b08eee745b10430e11f2ceb7d
+Signer #1 certificate SHA-1 digest: c14469970a21b67f6b4298848f623e2688b98749
+Signer #1 certificate MD5 digest: 0ed3d59226f54d8ea3c45afa59f717a4
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: d56506f3704e3bb58c9226bd3ef00d479d5a2849447ed327b0bda29f75464749
+Signer #1 public key SHA-1 digest: f4c0823446755ba65b9c40efefebaa3844f315a3
+Signer #1 public key MD5 digest: 9caba7b586d32721ba59481249608b33

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Viafirma, OU=Viafirma, O=Viafirma, L=Viafirma, C=es
+Issuer: CN=Viafirma, OU=Viafirma, O=Viafirma, L=Viafirma, C=es
+Serial number: 4eca5ca3
+Valid from: Tue Nov 22 01:13:55 AEDT 2011 until: Sat Nov 15 01:13:55 AEDT 2036
+Certificate fingerprints:
+	 SHA1: B0:FD:D9:B7:11:33:86:C9:36:45:97:4E:29:28:78:46:49:C0:78:61
+	 SHA256: B3:1A:6F:01:E6:78:C0:CA:F7:8B:DE:4A:D0:4E:26:32:AC:F8:70:CD:B9:AB:A2:F8:C0:55:97:1F:10:2C:67:9D
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

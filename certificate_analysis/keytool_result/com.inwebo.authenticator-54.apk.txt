@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=IN-WEBO TECHNOLOGIES, OU=IN-WEBO, O=IN-WEBO TECHNOLOGIES, L=PARIS, ST=Ile de France, C=FR
+Issuer: CN=IN-WEBO TECHNOLOGIES, OU=IN-WEBO, O=IN-WEBO TECHNOLOGIES, L=PARIS, ST=Ile de France, C=FR
+Serial number: 4d08f389
+Valid from: Thu Dec 16 03:57:45 AEDT 2010 until: Mon May 03 02:57:45 AEST 2038
+Certificate fingerprints:
+	 SHA1: 19:33:90:7A:56:7D:D5:72:8E:58:59:62:62:91:E2:C2:6D:A7:EC:23
+	 SHA256: C2:99:AD:E5:B5:8A:75:09:2D:7F:2E:45:00:8D:1D:E3:81:6D:36:78:4D:E7:DD:5E:F9:D4:C9:3D:8E:BD:EC:08
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

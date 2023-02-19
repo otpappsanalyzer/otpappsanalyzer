@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Entrust IdentityGuard Mobile, O=Entrust, C=ca
+Issuer: CN=Entrust IdentityGuard Mobile, O=Entrust, C=ca
+Serial number: 4ca2260b
+Valid from: Wed Sep 29 03:29:47 AEST 2010 until: Sat Nov 10 04:29:47 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 93:DF:91:2D:AF:DE:C7:E1:F6:FD:81:F6:34:FB:CF:28:C7:5A:0E:00
+	 SHA256: 1E:0A:8A:6B:4A:2D:7B:EF:88:6A:95:80:5D:54:18:44:6A:EA:7B:17:8C:EC:BD:B8:9A:57:9E:9A:D3:E6:D8:F9
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

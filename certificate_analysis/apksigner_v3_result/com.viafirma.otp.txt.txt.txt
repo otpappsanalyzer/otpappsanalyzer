@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Viafirma, OU=Viafirma, O=Viafirma, L=Viafirma, C=es
+Signer #1 certificate SHA-256 digest: b31a6f01e678c0caf78bde4ad04e2632acf870cdb9aba2f8c055971f102c679d
+Signer #1 certificate SHA-1 digest: b0fdd9b7113386c93645974e2928784649c07861
+Signer #1 certificate MD5 digest: 99378b20f8353af07aa1d2cb85de971d
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 27f34799570c286b8e685e6e9c7fdef215abcc58636117ac253f8736fa218f64
+Signer #1 public key SHA-1 digest: fd2860ac31f5f2af5a29bbc14a9242cc0c19bf55
+Signer #1 public key MD5 digest: 3f02db9195b1cb109b6615f5621dd0f0

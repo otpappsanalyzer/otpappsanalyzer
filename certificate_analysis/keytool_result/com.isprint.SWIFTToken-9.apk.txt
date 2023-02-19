@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=wangjun, OU=isprint, O=isprint, L=zhuhai, ST=guangdong, C=CN
+Issuer: CN=wangjun, OU=isprint, O=isprint, L=zhuhai, ST=guangdong, C=CN
+Serial number: 52846b75
+Valid from: Thu Nov 14 17:19:33 AEDT 2013 until: Fri Aug 17 16:19:33 AEST 2068
+Certificate fingerprints:
+	 SHA1: 67:5C:60:6E:1E:49:55:1C:97:6F:D0:91:14:39:F1:AC:04:9F:94:56
+	 SHA256: 6A:7D:9B:A0:72:4A:B6:19:A5:51:67:43:9E:59:0C:28:B0:BB:D8:34:49:23:69:FA:45:E8:67:D4:A9:A2:48:CD
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

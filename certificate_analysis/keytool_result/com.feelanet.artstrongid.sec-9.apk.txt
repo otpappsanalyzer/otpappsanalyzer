@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=feelanet
+Issuer: O=feelanet
+Serial number: 799c0131
+Valid from: Mon Feb 03 12:05:39 AEDT 2020 until: Fri Jan 27 12:05:39 AEDT 2045
+Certificate fingerprints:
+	 SHA1: A1:65:33:A1:10:63:F6:47:1D:CB:A0:44:86:0D:35:EC:4F:BF:4C:0F
+	 SHA256: 7D:AA:B0:B8:C6:4B:61:8E:85:A9:1E:32:55:7F:15:38:86:77:E9:12:1E:FD:BF:AC:E0:0B:FA:DC:B1:39:27:B3
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 43 53 4F E4 51 02 58 29   7E DA 28 BF C2 45 20 00  CSO.Q.X)..(..E .
+0010: 1C 5F E7 93                                        ._..
+]
+]
+
+

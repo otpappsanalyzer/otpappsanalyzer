@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Henry Jiang, OU=Bank of America Consumer, O=Enterprise Signing, L=Boston, ST=MA, C=US
+Issuer: CN=Henry Jiang, OU=Bank of America Consumer, O=Enterprise Signing, L=Boston, ST=MA, C=US
+Serial number: 6327bbb6
+Valid from: Thu Aug 01 06:11:49 AEST 2019 until: Tue Jul 22 06:11:49 AEST 2059
+Certificate fingerprints:
+	 SHA1: 6A:4F:79:7B:E8:AF:AC:58:1C:6F:6E:D5:AC:60:AF:F0:D3:65:76:AC
+	 SHA256: 1B:02:F7:62:C3:D0:7F:AA:1A:F9:55:C4:95:09:CC:6E:D7:AB:7E:69:25:89:9D:FE:20:26:1D:E8:EE:9A:27:D3
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3B A5 E7 D8 35 24 EA A8   51 32 94 1A 8C 62 03 E1  ;...5$..Q2...b..
+0010: 39 13 1B 0E                                        9...
+]
+]
+
+

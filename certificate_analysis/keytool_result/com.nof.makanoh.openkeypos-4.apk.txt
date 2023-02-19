@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=h, OU=hh, O=hj, L=hj, ST=hjh, C=j
+Issuer: CN=h, OU=hh, O=hj, L=hj, ST=hjh, C=j
+Serial number: 71adbc5d
+Valid from: Mon Mar 27 22:07:40 AEDT 2017 until: Fri Mar 21 22:07:40 AEDT 2042
+Certificate fingerprints:
+	 SHA1: CF:F0:C2:0E:33:4F:5C:EA:C4:97:47:37:B4:D9:1F:40:3A:B1:45:63
+	 SHA256: E0:79:94:1E:EB:35:7A:1B:5C:FA:E1:6D:99:0B:42:AB:69:FE:77:DA:7D:3D:EF:21:CB:7A:0C:4F:A3:8C:FD:53
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9C 59 99 D3 3F F0 C3 0C   25 95 0E 7E 79 D8 D7 F6  .Y..?...%...y...
+0010: 23 88 22 61                                        #."a
+]
+]
+
+

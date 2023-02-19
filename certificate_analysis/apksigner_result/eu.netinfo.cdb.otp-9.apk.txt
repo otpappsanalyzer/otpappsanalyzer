@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Constantinos Eliodorou, OU=IT UNIT, O=CDBBANK, L=Nicosia, ST=Nicosia, C=CY
+Signer #1 certificate SHA-256 digest: 32d2a16ff06854000e0bcee562cb46cda64230753aee2eda777f4590e63f24df
+Signer #1 certificate SHA-1 digest: d6513849ae5b7a448195d112ae8fc2fc940b7575
+Signer #1 certificate MD5 digest: a5f2fe87fdde598a49e88d62f36c3620
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 6bd302b5f942bed2c76de3bb0a6e2d451eb7c20b26cd3c8d152c90f061ac8f12
+Signer #1 public key SHA-1 digest: 774c1f54cc08f3a415fca37b37808a143b2ea537
+Signer #1 public key MD5 digest: 4e4d32fc74fd123f0d43b86cbef20f05

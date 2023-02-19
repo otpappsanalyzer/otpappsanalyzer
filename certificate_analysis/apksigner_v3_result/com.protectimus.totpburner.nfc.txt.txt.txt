@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Maxim Oliynyk, OU=com, O=Protectimus, L=Kharkiv, ST=Kharkiv, C=UA
+Signer #1 certificate SHA-256 digest: e1ba4f8b276db68b23633e4112856dad56d044940b85b97eb4c7e5e2e967a748
+Signer #1 certificate SHA-1 digest: 528ac2a991ac558424babf988dc9e3955ad40fa1
+Signer #1 certificate MD5 digest: 638a79e7f8894bb37c2456342b0af3c5
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 803cfd395011b5e9ad92da10f30c49980b1cff2f78c15975f0108a7b91bf3b80
+Signer #1 public key SHA-1 digest: 979714cfbfc7ca9963ef4387b01f1852a8fad576
+Signer #1 public key MD5 digest: 772e478ad39e72666740393f859bb895

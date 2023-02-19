@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=LuxTrust Mobile, OU=LuxTrust IT, O=LuxTrust S.A., L=Capellen, ST=Unknown, C=LU
+Issuer: CN=LuxTrust Mobile, OU=LuxTrust IT, O=LuxTrust S.A., L=Capellen, ST=Unknown, C=LU
+Serial number: 452dacaa
+Valid from: Fri Jul 24 01:22:21 AEST 2015 until: Tue Dec 09 02:22:21 AEDT 2042
+Certificate fingerprints:
+	 SHA1: E4:F6:11:54:5F:7A:6F:07:67:D3:97:12:FF:AD:F1:11:9C:D9:16:58
+	 SHA256: BC:E4:FA:66:B3:EA:BB:CE:79:4B:46:3A:3E:8C:39:AE:D2:5F:B1:02:C6:C0:E2:00:5C:35:CD:6B:7B:61:52:CC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 80 FB 26 5E 93 DE A7 A8   B9 04 6B F4 9C 97 34 F4  ..&^......k...4.
+0010: 0C 04 13 21                                        ...!
+]
+]
+
+

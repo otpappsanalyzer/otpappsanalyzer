@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Amir Hussein, OU=Technology Department, O=Maldives Islamic Bank, L=Male' City, ST=North Central Province, C=MV
+Signer #1 certificate SHA-256 digest: 4eb8e8488bb1281e0502835b518588e993de9f7df6e87ae2682ecb6bfb7186bb
+Signer #1 certificate SHA-1 digest: 3a785b62ac730864bc9511f68f341955620e5010
+Signer #1 certificate MD5 digest: 067254a93db4ed0c0816619f606062d6
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 30b6ccf036fddea7e8c74c7b5c33a1ef440cb6a84de3db8b82f62c488bdfa59f
+Signer #1 public key SHA-1 digest: 24d05af88da0197c403614ff6955690c0a7f193d
+Signer #1 public key MD5 digest: b359bf05183209bbf05af1c0e23a1289

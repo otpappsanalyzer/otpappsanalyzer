@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Speshe Auth, OU=Android App, O=Worktable, L=Singapore, ST=Singapore, C=SG
+Issuer: CN=Speshe Auth, OU=Android App, O=Worktable, L=Singapore, ST=Singapore, C=SG
+Serial number: 13323fca
+Valid from: Fri Jan 10 13:43:33 AEDT 2020 until: Tue Jan 03 13:43:33 AEDT 2045
+Certificate fingerprints:
+	 SHA1: 5F:D1:68:F6:31:FE:17:80:AA:9A:D5:34:00:C2:39:82:72:45:A5:23
+	 SHA256: 53:1D:FB:01:E7:21:1D:53:9E:C4:53:E6:79:1A:FC:32:13:39:FC:72:ED:CA:EF:4E:E4:72:AB:74:66:0E:82:65
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 63 26 E1 B0 01 51 3D AA   DD CE 42 40 03 5E A3 C5  c&...Q=...B@.^..
+0010: F0 E3 92 22                                        ..."
+]
+]
+
+

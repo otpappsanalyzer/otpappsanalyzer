@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Gemalto Pte Ltd, OU=R&D, O=Gemalto, L=Singapore, ST=Singapore, C=65
+Issuer: CN=Gemalto Pte Ltd, OU=R&D, O=Gemalto, L=Singapore, ST=Singapore, C=65
+Serial number: 520dd04b
+Valid from: Fri Aug 16 17:10:03 AEST 2013 until: Tue Aug 10 17:10:03 AEST 2038
+Certificate fingerprints:
+	 SHA1: 2C:42:1B:69:45:24:CC:93:11:BD:2C:4F:A1:EC:2C:C7:1F:CD:5E:BA
+	 SHA256: 31:DC:0F:75:EA:3F:D5:6C:1C:0A:5D:31:E2:FD:5D:69:FE:20:64:6D:D4:86:B9:04:A1:D5:1C:A5:1A:A7:EF:96
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,163 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Microsoft Corporation Third Party Marketplace (Do Not Trust), OU=Microsoft Azure Authenticator for Android, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Issuer: CN=Microsoft Corporation Third Party Marketplace PCA, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Serial number: 330000003e28a6e0b3b87c74e500000000003e
+Valid from: Thu Nov 06 04:46:26 AEDT 2014 until: Tue Sep 26 03:46:26 AEST 2034
+Certificate fingerprints:
+	 SHA1: 86:8D:38:D1:2D:DF:7D:99:26:C6:AB:50:AD:2C:29:4D:53:A7:F6:BD
+	 SHA256: EE:BD:0F:16:E6:29:AF:8B:83:81:BF:ED:FD:D6:49:60:5F:E9:0F:76:3F:5C:B7:BA:47:3E:B9:EE:F9:4D:9A:F1
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: caIssuers
+   accessLocation: URIName: http://www.microsoft.com/pki/certs/MicCorThiParMarPCA_2010-10-05.crt
+]
+]
+
+#2: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: AE 91 E4 60 9F 98 C0 0B   DF 1A 0B 6B F0 56 33 27  ...`.......k.V3'
+0010: 47 AC C7 C7                                        G...
+]
+]
+
+#3: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+#4: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.microsoft.com/pki/crl/products/MicCorThiParMarPCA_2010-10-05.crl]
+]]
+
+#5: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  1.3.6.1.4.1.311.76.2.1
+]
+
+#6: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3C F1 87 C2 2E 58 60 7B   F9 7B B0 80 FD 24 85 62  <....X`......$.b
+0010: 9E B2 07 41                                        ...A
+]
+]
+
+
+Owner: CN=Microsoft Corporation Third Party Marketplace PCA, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Issuer: CN=Microsoft Corporation Third Party Marketplace Root, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Serial number: 61362ca7000000000002
+Valid from: Sat Oct 09 10:15:35 AEDT 2010 until: Mon Oct 09 10:25:35 AEDT 2034
+Certificate fingerprints:
+	 SHA1: 15:5D:43:4F:0E:34:F1:40:A7:95:A4:86:4A:25:31:13:3E:52:8F:3A
+	 SHA256: B1:7E:82:01:B1:28:E1:E7:4C:C0:23:51:0A:B7:EA:03:AC:27:DD:E5:0D:32:D8:10:EA:15:77:75:8F:1C:C0:98
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.4.1.311.20.2 Criticality=false
+0000: 1E 0A 00 53 00 75 00 62   00 43 00 41              ...S.u.b.C.A
+
+
+#2: ObjectId: 1.3.6.1.4.1.311.21.1 Criticality=false
+0000: 02 01 00                                           ...
+
+
+#3: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: caIssuers
+   accessLocation: URIName: http://www.microsoft.com/pki/certs/MicCorThiParMarRoo_2010-10-05.crt
+]
+]
+
+#4: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 45 66 52 43 E1 7E 58 11   BF D6 4E 9E 23 55 08 3B  EfRC..X...N.#U.;
+0010: 3A 22 6A A8                                        :"j.
+]
+]
+
+#5: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#6: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://crl.microsoft.com/pki/crl/products/MicCorThiParMarRoo_2010-10-05.crl]
+]]
+
+#7: ObjectId: 2.5.29.15 Criticality=false
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+#8: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AE 91 E4 60 9F 98 C0 0B   DF 1A 0B 6B F0 56 33 27  ...`.......k.V3'
+0010: 47 AC C7 C7                                        G...
+]
+]
+
+
+Owner: CN=Microsoft Corporation Third Party Marketplace Root, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Issuer: CN=Microsoft Corporation Third Party Marketplace Root, O=Microsoft Corporation, L=Redmond, ST=Washington, C=US
+Serial number: 33959c19504871914238df73d3b49a3d
+Valid from: Wed Oct 06 09:02:28 AEDT 2010 until: Sat Oct 06 08:09:33 AEST 2035
+Certificate fingerprints:
+	 SHA1: 05:86:1F:DE:0C:CA:CD:6E:EC:8D:91:DB:6E:0F:22:C2:57:74:85:32
+	 SHA256: 28:48:36:1A:9C:1E:32:DF:1D:3E:2E:D6:A7:B9:E6:7A:52:5C:F8:A1:3B:16:4F:80:06:C9:47:95:78:F7:46:DE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 1.3.6.1.4.1.311.21.1 Criticality=false
+0000: 02 01 00                                           ...
+
+
+#2: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#3: ObjectId: 2.5.29.15 Criticality=false
+KeyUsage [
+  DigitalSignature
+  Key_CertSign
+  Crl_Sign
+]
+
+#4: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 45 66 52 43 E1 7E 58 11   BF D6 4E 9E 23 55 08 3B  EfRC..X...N.#U.;
+0010: 3A 22 6A A8                                        :"j.
+]
+]
+
+

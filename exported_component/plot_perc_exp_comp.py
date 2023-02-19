@@ -4,7 +4,7 @@ import os
 import csv
 from matplotlib import pyplot as plt
 
-
+# Change the working directory when you clone this repo
 exp_path = '/home/budi/OTP_project/OTP_code/exported_component/'
 
 file_path = exp_path+'exported_component_result.csv'

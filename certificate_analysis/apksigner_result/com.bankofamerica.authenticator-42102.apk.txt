@@ -1,0 +1,15 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Henry Jiang, OU=Bank of America Consumer, O=Enterprise Signing, L=Boston, ST=MA, C=US
+Signer #1 certificate SHA-256 digest: 1b02f762c3d07faa1af955c49509cc6ed7ab7e6925899dfe20261de8ee9a27d3
+Signer #1 certificate SHA-1 digest: 6a4f797be8afac581c6f6ed5ac60aff0d36576ac
+Signer #1 certificate MD5 digest: 091dd4d5427ee20b1896d68118687c5b
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 1d8dd73978079353cb260b9dd91df3c3a848f25a8e636681b405c6b2823e333c
+Signer #1 public key SHA-1 digest: 98ec1eeae3a06a268cf83ba588cde71405d48f04
+Signer #1 public key MD5 digest: 66351d7579da335def112807e21782e7
+WARNING: JAR signer BOFA_AUT.RSA: JAR signature META-INF/BOFA_AUT.SF references unknown APK signature scheme ID: 3
+WARNING: APK Signature Scheme v2 signer #1: Unknown signature algorithm: 0x421

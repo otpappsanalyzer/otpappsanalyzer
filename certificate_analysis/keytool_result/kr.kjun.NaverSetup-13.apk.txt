@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=강준
+Issuer: CN=강준
+Serial number: 24fc5622
+Valid from: Sun Apr 02 02:16:03 AEDT 2017 until: Tue Mar 26 02:16:03 AEDT 2047
+Certificate fingerprints:
+	 SHA1: FB:C8:95:47:DA:8F:21:64:EB:FD:31:B9:D3:9F:99:B3:8C:D8:43:8C
+	 SHA256: D4:6C:5B:F7:65:56:EB:F4:5A:67:B9:39:19:5D:98:9F:A7:0B:3C:ED:94:FC:37:25:BE:F4:AE:69:E2:27:45:D4
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 0C A1 7F 0F 1C 04 61 63   65 45 7D F3 1E F1 62 70  ......aceE....bp
+0010: 47 C5 D3 97                                        G...
+]
+]
+
+

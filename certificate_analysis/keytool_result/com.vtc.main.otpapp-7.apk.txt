@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Nham Ha, OU=500, O=Cong ty VTC Cong nghe va Noi dung so, L=HaNoi, ST=10000, C=84
+Issuer: CN=Nham Ha, OU=500, O=Cong ty VTC Cong nghe va Noi dung so, L=HaNoi, ST=10000, C=84
+Serial number: 52a2cb1e
+Valid from: Sat Dec 07 18:15:42 AEDT 2013 until: Wed Dec 01 18:15:42 AEDT 2038
+Certificate fingerprints:
+	 SHA1: E3:38:36:4C:0D:6D:7C:3E:CD:69:7A:22:4B:6B:07:19:B0:31:6A:58
+	 SHA256: A0:C8:A6:CE:62:C0:CE:F5:3A:F5:64:8D:D2:24:AB:4D:E0:A7:7D:B7:0F:A2:1F:69:AC:67:A5:72:24:D4:CA:A6
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

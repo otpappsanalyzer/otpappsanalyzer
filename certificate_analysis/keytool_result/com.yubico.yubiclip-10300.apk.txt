@@ -1,0 +1,40 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Android code signing, O=Yubico AB
+Issuer: CN=Android code signing, O=Yubico AB
+Serial number: f821b31f4c97f2c3
+Valid from: Thu Mar 08 23:48:31 AEDT 2012 until: Mon Mar 02 23:48:31 AEDT 2037
+Certificate fingerprints:
+	 SHA1: C6:36:F4:8C:B0:0B:49:33:7B:6D:CE:95:88:70:43:3F:28:9C:82:7A
+	 SHA256: 3E:21:DA:5A:CA:A8:D4:9C:E5:15:B1:C6:D2:A1:90:3B:AE:29:8D:09:11:43:2C:55:E7:5A:19:61:99:F2:B9:A0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 3A DC 3F 79 6B 53 4D EC   2D EA 38 88 DE 92 BA D1  :.?ykSM.-.8.....
+0010: EA D9 EC BD                                        ....
+]
+]
+
+#2: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#3: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3A DC 3F 79 6B 53 4D EC   2D EA 38 88 DE 92 BA D1  :.?ykSM.-.8.....
+0010: EA D9 EC BD                                        ....
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AirCUVE
+Issuer: CN=AirCUVE
+Serial number: 556518c5
+Valid from: Wed May 27 11:07:17 AEST 2015 until: Thu May 14 11:07:17 AEST 2065
+Certificate fingerprints:
+	 SHA1: C8:15:CD:83:80:C8:85:65:82:B4:43:17:D3:B3:BC:BF:C0:A6:07:A9
+	 SHA256: 3F:32:79:87:2F:9E:E4:6C:D4:4B:4B:79:21:0E:46:74:51:91:B8:B3:26:48:0E:B4:DF:90:D2:F8:93:70:68:F0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

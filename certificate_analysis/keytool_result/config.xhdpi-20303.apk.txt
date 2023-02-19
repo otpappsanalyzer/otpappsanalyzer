@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Unknown, O=Buypass, L=Oslo, ST=Unknown, C=NO
+Issuer: CN=Unknown, OU=Unknown, O=Buypass, L=Oslo, ST=Unknown, C=NO
+Serial number: 4d2bf7b3
+Valid from: Tue Jan 11 17:24:51 AEDT 2011 until: Sat May 29 16:24:51 AEST 2038
+Certificate fingerprints:
+	 SHA1: C4:16:56:43:40:FD:4A:7F:D3:2C:84:77:70:29:E3:C6:20:5B:FB:C2
+	 SHA256: B0:1B:06:19:09:E7:1A:03:03:9E:CB:8F:67:AC:9C:66:FD:3A:0B:A3:29:38:AA:81:75:7F:5E:EC:67:66:E2:9D
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

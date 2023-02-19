@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="Cooperativa  Juventud Ecuatoriana Progresista", OU=Cooperativa JEP, O=JEP, L=Cuenca, ST=Azuay
+Issuer: CN="Cooperativa  Juventud Ecuatoriana Progresista", OU=Cooperativa JEP, O=JEP, L=Cuenca, ST=Azuay
+Serial number: 33d9fd43
+Valid from: Thu Aug 03 03:33:08 AEST 2017 until: Fri Jul 10 03:33:08 AEST 2116
+Certificate fingerprints:
+	 SHA1: B7:49:84:26:96:9E:49:DC:C6:4C:AD:75:D4:78:8F:C0:6F:C6:39:15
+	 SHA256: 8B:23:B6:74:CA:0E:A4:E0:C1:FF:C4:FB:F0:9F:0A:FF:BF:7C:12:EF:E6:94:A3:95:03:1A:10:1D:C2:77:CD:46
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: DA 61 81 A7 03 73 C1 9F   22 83 7E A0 48 6C C8 B8  .a...s.."...Hl..
+0010: 04 F7 C5 98                                        ....
+]
+]
+
+

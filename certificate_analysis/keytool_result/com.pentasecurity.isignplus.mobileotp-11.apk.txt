@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=kang, O=pentasecurity
+Issuer: CN=kang, O=pentasecurity
+Serial number: 60e43246
+Valid from: Thu Oct 15 19:29:56 AEDT 2015 until: Mon Sep 30 18:29:56 AEST 2075
+Certificate fingerprints:
+	 SHA1: 3F:7E:25:BF:07:D6:3E:AC:0E:82:DF:E2:DB:A4:9D:2B:7D:9E:F4:6E
+	 SHA256: 8D:58:5C:80:AA:5E:4A:A7:5B:3D:08:9C:AC:B1:03:E5:C3:B9:D4:05:5F:80:45:17:61:4D:0C:F5:42:C3:81:80
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 1F A8 31 FD BD 07 10 32   E7 F4 EA B6 EE AD EE D8  ..1....2........
+0010: E1 DC 7B 0C                                        ....
+]
+]
+
+

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=marinits.net
+Issuer: O=marinits.net
+Serial number: 4cf68b4c
+Valid from: Thu Dec 02 04:52:12 AEDT 2010 until: Sat Nov 08 04:52:12 AEDT 2110
+Certificate fingerprints:
+	 SHA1: E0:31:0A:A0:A2:17:CD:F9:49:5F:4B:46:C7:6A:CC:6F:52:C9:37:BE
+	 SHA256: 78:4C:09:81:87:3A:C0:4C:57:97:F9:72:92:6D:39:A4:03:31:2E:37:9C:B1:EA:39:49:07:03:48:83:C1:A6:0B
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

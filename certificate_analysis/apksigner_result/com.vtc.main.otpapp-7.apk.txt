@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Nham Ha, OU=500, O=Cong ty VTC Cong nghe va Noi dung so, L=HaNoi, ST=10000, C=84
+Signer #1 certificate SHA-256 digest: a0c8a6ce62c0cef53af5648dd224ab4de0a77db70fa21f69ac67a57224d4caa6
+Signer #1 certificate SHA-1 digest: e338364c0d6d7c3ecd697a224b6b0719b0316a58
+Signer #1 certificate MD5 digest: 7541cb641a7679c5227d62e2ed7cb338
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 22a58c643a47632d0c3df560cbe96ea2ee3aee89bc6056da9b5e147ec884272e
+Signer #1 public key SHA-1 digest: 3bc37051e1f6e6ff2b27ce17ff3d3818aff194da
+Signer #1 public key MD5 digest: 84d56c94bb6df45efd7aa9f89fe9303a

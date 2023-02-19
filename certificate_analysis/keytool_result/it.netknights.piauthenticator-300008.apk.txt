@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Netknights GmbH, L=Kassel, ST=Hessen, C=DE
+Issuer: O=Netknights GmbH, L=Kassel, ST=Hessen, C=DE
+Serial number: 76050384
+Valid from: Mon Nov 27 21:09:37 AEDT 2017 until: Fri Nov 21 21:09:37 AEDT 2042
+Certificate fingerprints:
+	 SHA1: 29:E4:EA:1C:41:A0:67:76:2A:20:39:A1:DA:47:8D:35:74:69:D4:38
+	 SHA256: EF:2B:9A:F4:D0:3D:45:6F:4B:DB:D1:4B:35:10:90:8E:DA:21:96:F7:19:ED:D1:54:0C:8D:C2:A6:70:AC:D1:A8
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B2 E4 17 A8 A5 8E D1 2C   7E 8B 74 DF C4 B6 1B E8  .......,..t.....
+0010: A3 10 C2 9E                                        ....
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Bank ABC OTP, OU=Bank ABC, O=Bank ABC, L=Manama, ST=Manama, C=BH
+Issuer: CN=Bank ABC OTP, OU=Bank ABC, O=Bank ABC, L=Manama, ST=Manama, C=BH
+Serial number: 2fb6a9cd
+Valid from: Wed Feb 08 00:50:15 AEDT 2017 until: Sat Jun 25 23:50:15 AEST 2044
+Certificate fingerprints:
+	 SHA1: 90:75:66:CF:1F:BB:B1:7B:12:29:37:6E:3C:9F:B9:29:33:30:A3:F0
+	 SHA256: 6D:84:0A:3F:AD:59:EF:71:98:6E:65:21:D3:A2:37:76:09:4A:CD:47:82:D5:3B:81:96:A5:13:B3:FD:05:03:9E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4D FE AC EF C9 CC 04 79   E2 9D A0 34 EE 08 A0 5B  M......y...4...[
+0010: 8E 3E BE B9                                        .>..
+]
+]
+
+

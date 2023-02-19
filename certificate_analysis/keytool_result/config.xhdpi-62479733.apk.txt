@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=RCDevs, OU=RCDevs, O=RCDevs, L=Belval, ST=Luxembourg, C=35
+Issuer: CN=RCDevs, OU=RCDevs, O=RCDevs, L=Belval, ST=Luxembourg, C=35
+Serial number: 536e8ba5
+Valid from: Tue Aug 23 00:39:51 AEST 2016 until: Sat Aug 17 00:39:51 AEST 2041
+Certificate fingerprints:
+	 SHA1: B0:95:8C:D0:D0:BA:29:AC:80:38:8F:13:95:51:1B:45:BC:DC:9B:F5
+	 SHA256: 9B:52:EA:CE:75:C2:E3:CE:55:1B:76:A7:86:D7:E5:44:AA:83:D2:22:E1:E8:99:E3:0D:3B:EB:55:76:93:40:FF
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 93 8F 15 88 8F C9 8E FA   02 32 FF F0 12 2A E9 B8  .........2...*..
+0010: 9D 9D D8 D5                                        ....
+]
+]
+
+

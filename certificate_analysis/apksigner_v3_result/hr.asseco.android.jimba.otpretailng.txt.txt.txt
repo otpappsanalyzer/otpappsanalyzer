@@ -1,0 +1,20 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: OU=Mobile Solutions, O=Asseco SEE, C=hr
+Signer #1 certificate SHA-256 digest: 84c5709bdc0edc5cdc905c18e4c2654c14342af5afe96952d2562dce3af2323f
+Signer #1 certificate SHA-1 digest: caa90d4f2e34fe20669799f1346e2dbffb4a146d
+Signer #1 certificate MD5 digest: 39e3f62959cd0cf9f3861b35d12a076b
+Signer #1 key algorithm: DSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: a25e9cd9213a9147c9f068878dc33676f8d8c9c080c5ce8fede56326414f3954
+Signer #1 public key SHA-1 digest: d65922856a4462bebbd133b5457a304328fccd7a
+Signer #1 public key MD5 digest: c13c3eb01926e4ca8e7826a0902239a3
+WARNING: META-INF/com.android.support_support-compat.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-core-ui.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-core-utils.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-fragment.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-media-compat.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-v4.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

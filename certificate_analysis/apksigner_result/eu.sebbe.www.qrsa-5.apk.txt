@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Sebastian Nielsen, L=Goteborg, ST=Vastra Gotaland, C=SE
+Signer #1 certificate SHA-256 digest: 793c2fea27c462f46c9d7873104105f64f4d586d68732a44efbfb2d83630305f
+Signer #1 certificate SHA-1 digest: 7d768bbdf9fa0e30e5a7b6ec8cf991b3b6648480
+Signer #1 certificate MD5 digest: f514d1cd807fa3c9fc619304f55cf249
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: d96671f0d3417c57532ed24d61097dad17233ddfe54079e842375225b4771704
+Signer #1 public key SHA-1 digest: 966a0aefdcc7192c4b75a0aeb4943c8c26689166
+Signer #1 public key MD5 digest: ac6aa4b77d4019fa921d193e6154b7a7

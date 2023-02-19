@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Android Developer, OU=Engineering, O=Arcot Systems, L=Sunnyvale, ST=CA, C=US
+Signer #1 certificate SHA-256 digest: 7cf46be491a17bb50cd869b11c6921f802bcfd505d15564f91edb63d8eb20583
+Signer #1 certificate SHA-1 digest: c4cab0b481770dbbe4dbe07a907855acc5004a1b
+Signer #1 certificate MD5 digest: 0a489944ca2c67b4ae45bf10cdfd00a7
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: bf41d1e143ba784f9d0e3184b9c87b5278dca3375ac1da04002b90c016e75b4f
+Signer #1 public key SHA-1 digest: ee6ab6cfcb474810572f507fd98ccebcf8f42fe1
+Signer #1 public key MD5 digest: a208f7ca59097b24eb0bb3c6f7e40da3

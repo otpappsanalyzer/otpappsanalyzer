@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Development, O=18 Degrees Lab PTE LTD, L=Singapore, ST=Singapore, C=65
+Issuer: OU=Development, O=18 Degrees Lab PTE LTD, L=Singapore, ST=Singapore, C=65
+Serial number: 41671fdb
+Valid from: Tue Mar 31 14:50:47 AEDT 2015 until: Sat Mar 24 14:50:47 AEDT 2040
+Certificate fingerprints:
+	 SHA1: BF:89:55:BD:00:66:F6:84:73:0B:AD:29:1C:92:4A:DB:8A:17:6B:96
+	 SHA256: 19:52:6C:33:FC:F2:DB:E7:C2:D9:BD:FF:2B:BE:1A:E1:29:03:42:11:96:30:0B:C4:AE:47:42:3E:9D:A1:D6:76
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7A D3 5E C1 6F B0 92 3D   10 9A 02 CF C3 46 44 5B  z.^.o..=.....FD[
+0010: 8C 1C 4E 11                                        ..N.
+]
+]
+
+

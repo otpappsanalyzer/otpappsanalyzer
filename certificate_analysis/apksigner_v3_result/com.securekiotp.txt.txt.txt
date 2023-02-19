@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=secureki
+Signer #1 certificate SHA-256 digest: f3760e5065259be282a49a4a68d4757a93e6cd1369da02442821ee39012bd2f6
+Signer #1 certificate SHA-1 digest: f16f97a62e73f461479e3d0d00cde1869dcffa4e
+Signer #1 certificate MD5 digest: 958e34640599174cd144a6cfab813cea
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: ff0fd848cc64334c50cf4840a4bc4ad0953f51756878b94412ede85fffd4e736
+Signer #1 public key SHA-1 digest: 9eb0351edb2db35833c43fb0b9775fec4adcc136
+Signer #1 public key MD5 digest: 2cf43820f5b232ee160f520f9e6f0b2c

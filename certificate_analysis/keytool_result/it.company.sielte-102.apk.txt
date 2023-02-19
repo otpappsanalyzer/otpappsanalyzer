@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="Sielte SpA, OU=IT, O=Sielte SpA, L=San Gregorio di Catania, S=Catania, C=IT"
+Issuer: CN="Sielte SpA, OU=IT, O=Sielte SpA, L=San Gregorio di Catania, S=Catania, C=IT"
+Serial number: 193d22f3
+Valid from: Wed Nov 23 01:56:58 AEDT 2016 until: Fri Nov 16 01:56:58 AEDT 2046
+Certificate fingerprints:
+	 SHA1: 3C:81:04:10:83:EF:15:D1:39:E0:D4:12:53:04:29:62:8E:D3:5D:F3
+	 SHA256: 20:15:0C:3C:E8:55:63:13:6D:8C:89:F5:44:77:4E:45:09:BC:CC:7F:41:16:06:BE:01:0F:2C:9D:90:E9:1F:7B
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 15 D8 06 77 D0 D8 4F A0   F5 60 75 2B 62 A6 C9 BE  ...w..O..`u+b...
+0010: CE 2C 66 65                                        .,fe
+]
+]
+
+

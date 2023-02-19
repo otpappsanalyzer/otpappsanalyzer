@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Authentication Development Team, O=mobilians
+Issuer: OU=Authentication Development Team, O=mobilians
+Serial number: 4c218d4f
+Valid from: Wed Jun 23 14:27:59 AEST 2010 until: Fri Jun 15 14:27:59 AEST 2040
+Certificate fingerprints:
+	 SHA1: 26:B5:66:46:31:29:F4:D9:FA:AC:5B:C2:BB:C9:13:77:F6:9A:D3:9D
+	 SHA256: 33:41:9D:4D:A7:B6:EE:0F:07:3C:FD:FB:BD:66:7C:D7:6A:66:BA:32:FF:1E:23:23:1D:27:EA:33:4C:0B:8E:3D
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Okechukwu Agufuobi, OU=Infotech Software Development, O=Zenith Bank Plc, L=Victoria Island, ST=Lagos, C=NG
+Issuer: CN=Okechukwu Agufuobi, OU=Infotech Software Development, O=Zenith Bank Plc, L=Victoria Island, ST=Lagos, C=NG
+Serial number: a528e63
+Valid from: Tue Jan 21 08:43:29 AEDT 2020 until: Sun May 24 07:43:29 AEST 3018
+Certificate fingerprints:
+	 SHA1: A6:63:4A:C8:92:37:F2:68:D6:5A:27:D6:1B:6B:49:9B:BC:9D:E6:92
+	 SHA256: E2:1A:8E:35:F6:0D:7D:53:DA:D2:82:D3:32:35:22:F3:C1:BE:63:F8:CF:D0:10:0E:F8:A3:D3:41:5E:84:B4:EE
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D5 E3 5F 47 1B 18 28 58   20 98 2D 93 08 15 CC 8E  .._G..(X .-.....
+0010: 0A 4D A5 47                                        .M.G
+]
+]
+
+

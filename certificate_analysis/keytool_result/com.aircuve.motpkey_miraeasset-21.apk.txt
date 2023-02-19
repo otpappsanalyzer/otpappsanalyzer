@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AirCUVE
+Issuer: CN=AirCUVE
+Serial number: 4ef1125
+Valid from: Tue Jul 01 11:39:35 AEST 2014 until: Sat Jun 25 11:39:35 AEST 2039
+Certificate fingerprints:
+	 SHA1: DB:D3:8E:7B:66:E3:97:C9:22:6D:11:66:84:03:03:E8:28:45:8D:EA
+	 SHA256: B7:6C:20:CC:61:28:36:E2:31:1B:09:C9:7D:6C:EF:71:C2:AA:CD:76:F0:03:9C:3B:49:93:D2:86:37:D3:02:97
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 06 1D BB 48 F2 FA E0 20   69 DA 6C 09 14 06 10 D1  ...H... i.l.....
+0010: BF 79 2F 28                                        .y/(
+]
+]
+
+

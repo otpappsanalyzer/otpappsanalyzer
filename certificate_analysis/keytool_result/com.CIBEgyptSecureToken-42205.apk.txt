@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=myfirst mylast, OU=myorgunit, O=vdsi, L=brussels, ST=Unknown, C=BE
+Issuer: CN=myfirst mylast, OU=myorgunit, O=vdsi, L=brussels, ST=Unknown, C=BE
+Serial number: 4f44daaf
+Valid from: Wed Feb 22 23:08:15 AEDT 2012 until: Sun Jul 10 22:08:15 AEST 2039
+Certificate fingerprints:
+	 SHA1: C5:93:2D:A1:1C:D4:E1:CC:9F:AB:B2:10:8F:B2:25:95:A6:7F:1E:45
+	 SHA256: 27:3B:7E:6E:AB:CD:66:48:32:10:04:FA:C0:58:0E:10:32:DC:35:0C:D5:1C:9B:12:91:50:33:80:96:6F:1A:89
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

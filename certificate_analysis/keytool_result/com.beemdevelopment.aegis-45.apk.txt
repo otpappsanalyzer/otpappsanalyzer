@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Beem Development
+Issuer: CN=Beem Development
+Serial number: 172380c
+Valid from: Sun Feb 10 00:05:49 AEDT 2019 until: Thu Feb 04 00:05:49 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 59:FB:63:B7:1F:CE:95:74:6C:EB:1E:1A:CB:2C:2E:45:E5:FF:13:50
+	 SHA256: C6:DB:80:A8:E1:4E:52:30:C1:DE:84:15:EF:82:0D:13:DC:90:1D:8F:E3:3C:F3:AC:B5:7B:68:62:D8:58:A8:23
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D8 91 38 77 4F EB 21 39   86 F1 15 90 08 38 76 0B  ..8wO.!9.....8v.
+0010: 3C 8E 3F 80                                        <.?.
+]
+]
+
+

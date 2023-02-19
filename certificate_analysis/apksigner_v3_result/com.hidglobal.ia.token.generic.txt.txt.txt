@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=HIDAND2040S, OU=Engineering, O=HID Global Corporation, L=Irvine, ST=California, C=US
+Signer #1 certificate SHA-256 digest: a982f95104cc6c92bd45bd1debb61041412c3383d34cc21276366877416847c6
+Signer #1 certificate SHA-1 digest: 466afa87c0617b1d67d5bee7036adfec65c1f85e
+Signer #1 certificate MD5 digest: 472b990fb57f471f9144b2487db99669
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 4b2fd282352f3b51f2e9c4e4a55f6036d441a83fcb662a8a7748ac98aeba9f1b
+Signer #1 public key SHA-1 digest: cff1e4a08c607862b3280d53b2c6ed36ab074155
+Signer #1 public key MD5 digest: b29adbc7c8a7fbb1175e2394f6cbca84

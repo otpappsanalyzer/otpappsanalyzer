@@ -1,0 +1,365 @@
+file_name;signature;key_length
+com.mollatech.android.apps.authenticators; SHA256 + RSA;" 2048-bit RSA key
+"
+com.sophos.sophtoken; SHA256 + RSA;" 2048-bit RSA key
+"
+com.atsolution.android.uotp2; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+it.netknights.piauthenticator; SHA256 + RSA;" 2048-bit RSA key
+"
+dev.cat.coffee.authenticator; SHA256 + RSA;" 4096-bit RSA key
+"
+jp.konami.android.otp_token; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.protectimus.android; SHA256 + RSA;" 2048-bit RSA key
+"
+eu.netinfo.cdb.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+vn.com.eximbank.softotp; SHA256 + RSA;" 2048-bit RSA key
+"
+hr.asseco.android.jimba.otpretailng; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+oracle.idm.mobile.authenticator; SHA256 + RSA;" 4096-bit RSA key
+"
+com.cbcapp.otp.activity; SHA256 + RSA;" 4096-bit RSA key
+"
+br.com.voegol.tokenagenciasgol; SHA256 + RSA;" 4096-bit RSA key
+"
+com.ftsafe.otp.activity; SHA256 + RSA;" 4096-bit RSA key
+"
+me.jmh.authenticatorpro; SHA256 + RSA;" 4096-bit RSA key
+"
+no.SpareBank1.MobileOTP; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+org.arcon.pam.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+vietcombank.itcenter.vcbsmartoptv10; SHA256 + RSA;" 2048-bit RSA key
+"
+com.square_enix_software_token; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+eu.netinfo.bcb.otp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.sgn.secureguardotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.pacifico.pacificid; SHA256 + RSA;" 2048-bit RSA key
+"
+at.tugraz.iaik.signapp; SHA256 + RSA;" 4096-bit RSA key
+"
+ro.len.mobile; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+nh.smart.signone; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+de.sbeh.rdp_otp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.feelanet.artstrongid.sec; SHA256 + RSA;" 2048-bit RSA key
+"
+com.pozitron.qib; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.mobilians.motp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.vpbank.vpbanksmartotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.ca.sec.aa.authenticator; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com18deglab.cylocklite; SHA256 + RSA;" 2048-bit RSA key
+"
+com.sbi.SBISecure; SHA256 + RSA;" 4096-bit RSA key
+"
+com.lpb.softotp; SHA256 + RSA;" 4096-bit RSA key
+"
+org.cry.otp; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+com.net2recharge.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.sgn.sgotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.entrust.identityGuard.mobile; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.lenovo.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+hr.asseco.android.mtoken.ht.test; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+kr.co.neople.neopleotp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.novoload.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.inwebo.authenticator; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+otl.snkl.SnorkelOTP; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.changingtec.motp.pro; MD5 + RSA (disabled);" 1024-bit RSA key (weak)
+"
+com.atsolution.android.bcotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.hidglobal.ia.token.generic; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+br.gov.caixa.codigocaixa; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.authenticator.authservice2; SHA256 + RSA;" 2048-bit RSA key
+"
+com.portwise.mid.clients.android; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.pentasecurity.isignplus.mobileotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.sbi.SBIFreedomPlus; SHA256 + RSA;" 4096-bit RSA key
+"
+it.previnet.authenticator; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.trumotp.club; SHA256 + RSA;" 4096-bit RSA key
+"
+com.goldtime.authy; SHA256 + RSA;" 4096-bit RSA key
+"
+ru.yandex.key; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+com.qrail.token; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+ar.gob.afip.mobile.android.internal.seginfo; SHA256 + RSA;" 2048-bit RSA key
+"
+com.LuxTrustMobile; SHA256 + RSA;" 2048-bit RSA key
+"
+net.secuwiz.prudentialotp; SHA256 + RSA;" 2048-bit RSA key
+"
+hr.asseco.android.intesa.isbd.alex; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+com.sgn.sgotp.lotte; SHA256 + RSA;" 2048-bit RSA key
+"
+com.ocb.iotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.u2fa.secur; SHA256 + RSA;" 4096-bit RSA key
+"
+com.zenithbank.zenithetoken; SHA256 + RSA;" 2048-bit RSA key
+"
+com.eset.esa; SHA1 + RSA (weak);" 4096-bit RSA key
+"
+com.kmcert.myotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.viafirma.otp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.ncs.secureconnect.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.GlowOTP; SHA256 + RSA;" 2048-bit RSA key
+"
+tm.asmanoky.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+it.uiv.uivotp; SHA256 + RSA;" 4096-bit RSA key
+"
+otl.snkl.HDFCSnorkelOTP; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+it.aruba.pec.mobile.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+org.kamrul.android.myauth; SHA256 + RSA;" 4096-bit RSA key
+"
+sk.otp.viamo; SHA256 + RSA;" 2048-bit RSA key
+"
+eu.sia.siaotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.vn.vib.smeotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.dreammirae.anyauth.android; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.mts.opt2; SHA256 + RSA;" 4096-bit RSA key
+"
+vn.savis.smartid; SHA256 + RSA;" 4096-bit RSA key
+"
+vn.funtap.smartotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.namirial.android.virtualotp; SHA256 + RSA;" 2048-bit RSA key
+"
+hr.asseco.android.otp; SHA1 + DSA (weak);" 1024-bit DSA key (weak)
+"
+eu.sebbe.www.qrsa; SHA256 + RSA;" 2048-bit RSA key
+"
+kr.kjun.NaverSetup; SHA256 + RSA;" 2048-bit RSA key
+"
+com.bankofamerica.authenticator; SHA256 + RSA;" 2048-bit RSA key
+"
+vn.tpb.token.baseotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.arcot.otp1; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.aff.otpdirekt; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.andxor.mobile.jsotp.piteco; SHA1 + RSA (weak);" 4096-bit RSA key
+"
+com.BankMisrSoftToken; SHA256 + RSA;" 2048-bit RSA key
+"
+com.canopus.otpmacgenerator; SHA256 + RSA;" 4096-bit RSA key
+"
+eu.netinfo.netteller.cqur.motp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.kiwoom.unitycert; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+br.com.powersoftware.otpsafe; SHA256 + RSA;" 4096-bit RSA key
+"
+com.systemat.SeeZam_OTP; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+vn.unlimit.magicauth; SHA256 + RSA;" 4096-bit RSA key
+"
+com.jeptoken; SHA256 + RSA;" 2048-bit RSA key
+"
+ua.com.cs.ifobs.mobile.android.otp; SHA256 + RSA;" 2048-bit RSA key
+"
+net.marinits.android.droidotp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.egypt.ais.masriacard.mcmotp; SHA256 + RSA;" 4096-bit RSA key
+"
+io.faceotp.faceotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.aircuve.aircuvemobile; SHA256 + RSA;" 2048-bit RSA key
+"
+com.netfiles.netfilesotp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.aircuve.airotp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+org.shadowice.flocke.andotp; SHA256 + RSA;" 4096-bit RSA key
+"
+sg.worktable.pingoauth; SHA256 + RSA;" 2048-bit RSA key
+"
+tdb.otp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.ncb.bank.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.gemalto.idprove; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.kienlongbank.etoken; SHA256 + RSA;" 4096-bit RSA key
+"
+vn.com.bidv.softotp; SHA256 + RSA;" 4096-bit RSA key
+"
+de.otp.main; SHA256 + RSA;" 2048-bit RSA key
+"
+com.nhn.hangameotp; SHA256 + RSA;" 2048-bit RSA key
+"
+cy.com.netinfo.crdbotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.ideasventure.otptoken; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.canopus.otpmacgenerator.finductive; SHA256 + RSA;" 4096-bit RSA key
+"
+cy.nbg.nbgcyotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.rcdevs.auth; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.protectimus.totpburner.nfc; SHA256 + RSA;" 2048-bit RSA key
+"
+com.khla.otpapp.callhttpclient; SHA256 + RSA;" 4096-bit RSA key
+"
+it.aruba.pec.mobile.otpfvg; SHA256 + RSA;" 4096-bit RSA key
+"
+com.google.android.apps.authenticator2; MD5 + RSA (disabled);" 2048-bit RSA key
+"
+org.arcon.arcos.otp1; SHA256 + RSA;" 2048-bit RSA key
+"
+com.vietinbank.softotp; SHA256 + RSA;" 2048-bit RSA key
+"
+token.security.m2m.com.generateotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.deepnet.andmob5; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.azure.authenticator; SHA256 + RSA;" 4096-bit RSA key
+"
+ngn.com.vn.totp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.scrignosa; SHA256 + RSA;" 2048-bit RSA key
+"
+it.company.sielte; SHA256 + RSA;" 2048-bit RSA key
+"
+com.authy.authy; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.securekiotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.ADIBSDIGIPASS; SHA256 + RSA;" 4096-bit RSA key
+"
+com.isprint.SWIFTToken; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.cibcorptoken; SHA256 + RSA;" 4096-bit RSA key
+"
+com.mds.canarabankapp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.bncr.detectid_otp; SHA256 + RSA;" 4096-bit RSA key
+"
+vn.mk.token.baseotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.BANKABC; SHA256 + RSA;" 2048-bit RSA key
+"
+netinfo.eu.symantec; SHA256 + RSA;" 4096-bit RSA key
+"
+com.ws.a.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+iSec.Authenticator; SHA256 + RSA;" 2048-bit RSA key
+"
+jp.co.nttdata.onetimepassworda; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.mdmobiasbancadigipass; SHA256 + RSA;" 4096-bit RSA key
+"
+com.vivokey.vivoauth; SHA256 + RSA;" 4096-bit RSA key
+"
+com.beemdevelopment.aegis; SHA256 + RSA;" 2048-bit RSA key
+"
+wibmo.com.wibmoAuthApp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.halcom.ng.mobile.puppaltr; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.dxc.ipwr; SHA256 + RSA;" 4096-bit RSA key
+"
+com.stove.otp.google.android; SHA256 + RSA;" 2048-bit RSA key
+"
+com.Sigma; SHA256 + RSA;" 2048-bit RSA key
+"
+com.yubico.yubioath; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.ezmcom.cimb.softtoken.ezidv4; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+club.nagavip.otp; SHA256 + RSA;" 4096-bit RSA key
+"
+org.fedorahosted.freeotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.aircuve.motpkey_miraeasset; SHA256 + RSA;" 2048-bit RSA key
+"
+no.buypass.mobile.bpcode.bp; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.yubico.yubiclip; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+com.mastersam.android.mastersamotp; SHA256 + RSA;" 2048-bit RSA key
+"
+kr.or.kftc.fsc; SHA256 + RSA;" 2048-bit RSA key
+"
+com.FAISATOKEN; SHA256 + RSA;" 2048-bit RSA key
+"
+org.liberty.android.freeotpplus; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.egypt.ais.aismotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.pvcombank.smartotp; SHA256 + RSA;" 2048-bit RSA key
+"
+teakwang.tsis.motp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+org.juanjcsr.newcloudotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.bitrixsoft.otp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.dreammirae.otp.android.mirae; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.sitin.sitinotp; SHA256 + RSA;" 4096-bit RSA key
+"
+com.vtc.main.otpapp; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+net.aftnet.OTPManager; SHA256 + RSA;" 4096-bit RSA key
+"
+com.CIBEgyptSecureToken; SHA1 + RSA (weak);" 2048-bit RSA key
+"
+two.factor.secure.otp.authentication; SHA256 + RSA;" 4096-bit RSA key
+"
+vn.com.sacombank.msign; SHA256 + RSA;" 4096-bit RSA key
+"
+com.nof.makanoh.openkeypos; SHA256 + RSA;" 2048-bit RSA key
+"
+com.gstotpauthenticator; SHA256 + RSA;" 4096-bit RSA key
+"
+com.hpe.icewall.smartotp; SHA256 + RSA;" 2048-bit RSA key
+"
+com.dreammirae.otp.android.mirae.multiid.market; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.forgerock.authenticator; SHA1 + RSA (weak);" 1024-bit RSA key (weak)
+"
+com.techcombank.stk.corp; SHA256 + RSA;" 4096-bit RSA key
+"

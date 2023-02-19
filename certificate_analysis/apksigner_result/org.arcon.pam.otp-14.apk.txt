@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=ARCOS OTP, OU=ARCON, O=ARCON, L=MUM, ST=MH, C=IN
+Signer #1 certificate SHA-256 digest: 6de18ffb953d4e05a60d76c6c54228c122bf44fddbcaff5e494dbe684ee96082
+Signer #1 certificate SHA-1 digest: 99e41aae9e026d0a92e283571b5755467903420c
+Signer #1 certificate MD5 digest: 962a7988fe60f02d207885ab8a36a737
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 7cb2c77a78fe1d05af6f9a7690acdfccdf4e23ef424991d74ca29e60a84cade8
+Signer #1 public key SHA-1 digest: b5f6c5a4233275766c969d77353a913d0d3b19b4
+Signer #1 public key MD5 digest: d3596c49c47ba0e82b55ef48949cd9d3

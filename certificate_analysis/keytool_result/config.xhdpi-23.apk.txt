@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=CM, OU=Dev, O=PortWise, L=Stockholm, ST=Svealand, C=SE
+Issuer: CN=CM, OU=Dev, O=PortWise, L=Stockholm, ST=Svealand, C=SE
+Serial number: 4b9e53cb
+Valid from: Tue Mar 16 02:35:39 AEDT 2010 until: Wed Dec 17 02:35:39 AEDT 2064
+Certificate fingerprints:
+	 SHA1: 6F:FA:4E:EB:1B:81:5A:D4:1B:98:4C:BF:D3:A4:E9:E2:59:E3:2F:8B
+	 SHA256: F5:1E:F1:B0:5D:F9:DF:6A:BE:20:5F:C0:3A:57:9D:5F:DB:DD:C5:C8:2A:BB:EA:32:82:3A:4F:90:71:F4:5A:A8
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

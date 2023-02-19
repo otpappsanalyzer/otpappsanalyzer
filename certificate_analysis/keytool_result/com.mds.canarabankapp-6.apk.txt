@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=manipal
+Issuer: CN=manipal
+Serial number: 3a2db748
+Valid from: Wed Mar 28 22:19:56 AEDT 2018 until: Sun Mar 22 22:19:56 AEDT 2043
+Certificate fingerprints:
+	 SHA1: 59:65:FD:54:6E:B8:F0:BE:6B:EE:FD:A3:03:52:51:F8:0B:2D:55:E9
+	 SHA256: 3D:ED:89:FA:C9:D6:69:51:FA:B0:88:FB:10:57:52:0A:BA:56:BF:0F:53:6C:4E:F2:2F:40:9A:3B:0A:BE:EC:22
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6F 34 93 B9 6E C0 27 07   8B ED 40 A4 1F 84 36 E4  o4..n.'...@...6.
+0010: B4 E6 BF D4                                        ....
+]
+]
+
+

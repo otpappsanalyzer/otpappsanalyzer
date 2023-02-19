@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Piteco OTP android, O=PITECO S.p.A., L=Milano, C=IT
+Issuer: CN=Piteco OTP android, O=PITECO S.p.A., L=Milano, C=IT
+Serial number: 542d5045
+Valid from: Thu Oct 02 23:16:53 AEST 2014 until: Wed Oct 03 23:16:53 AEST 2114
+Certificate fingerprints:
+	 SHA1: D8:41:13:36:38:A7:A9:0C:83:26:17:BD:84:3A:45:EE:F8:97:AE:79
+	 SHA256: 90:00:17:31:A2:93:E2:C3:34:68:B2:83:78:74:D7:BB:94:41:AD:1F:B4:C1:6C:AA:1F:56:18:B0:65:E2:45:A0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+

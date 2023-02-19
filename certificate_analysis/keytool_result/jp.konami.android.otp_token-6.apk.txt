@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="Konami Digital Entertainment Co., Ltd.", OU=Android Application, O="Konami Digital Entertainment Co., Ltd.", L=Minato-ku, ST=Tokyo, C=JP
+Issuer: CN="Konami Digital Entertainment Co., Ltd.", OU=Android Application, O="Konami Digital Entertainment Co., Ltd.", L=Minato-ku, ST=Tokyo, C=JP
+Serial number: 4f307f52
+Valid from: Tue Feb 07 12:33:06 AEDT 2012 until: Thu Jan 30 12:33:06 AEDT 2042
+Certificate fingerprints:
+	 SHA1: 7D:29:CB:5A:04:2A:4A:61:18:DE:60:AE:CD:31:30:5A:58:79:CD:04
+	 SHA256: 6C:D1:06:94:7C:3D:7F:E9:DC:5B:4C:3D:01:1A:31:DE:12:55:33:96:39:4D:63:B0:31:43:F2:06:A1:A6:69:D5
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

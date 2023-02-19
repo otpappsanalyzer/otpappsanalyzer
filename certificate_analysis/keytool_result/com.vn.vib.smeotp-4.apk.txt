@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=VIB Bank
+Issuer: CN=VIB Bank
+Serial number: 394141a4
+Valid from: Fri Nov 21 18:35:26 AEDT 2014 until: Thu Mar 24 18:35:26 AEDT 3014
+Certificate fingerprints:
+	 SHA1: C7:29:F0:89:8A:25:BB:02:75:41:66:5E:64:54:9B:7E:07:34:D7:DF
+	 SHA256: 4D:3E:64:A2:D2:82:4A:6D:F7:10:07:27:65:B4:E2:DF:42:5F:D5:B4:44:47:45:54:E3:C0:5B:CD:C1:8B:13:38
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6C 9F FB 87 31 4E 1B A3   D6 CE 5F 95 0D AE 96 2B  l...1N...._....+
+0010: 57 EB 76 5A                                        W.vZ
+]
+]
+
+

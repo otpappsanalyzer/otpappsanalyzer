@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: O=marinits.net
+Signer #1 certificate SHA-256 digest: 784c0981873ac04c5797f972926d39a403312e379cb1ea394907034883c1a60b
+Signer #1 certificate SHA-1 digest: e0310aa0a217cdf9495f4b46c76acc6f52c937be
+Signer #1 certificate MD5 digest: b01cee03d9c78cf3c5d155264bd60c6d
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: bf39e3187e13804f6d6c10823f0ce75e89df730ca362925acb707125e0c376f4
+Signer #1 public key SHA-1 digest: 832695f2d112ed12dbc8f09004ca961741c4d45c
+Signer #1 public key MD5 digest: 506e65391df250e0b11131128ebd2767
+WARNING: META-INF/services/javax.annotation.processing.Processor not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

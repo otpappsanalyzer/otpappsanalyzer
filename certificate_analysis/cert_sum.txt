@@ -1,0 +1,17 @@
+signature & count  \\ 
+ MD5 + RSA (disabled) & 2\\ 
+ SHA1 + DSA (weak) & 6\\ 
+ SHA1 + RSA (weak) & 52\\ 
+ SHA256 + RSA & 122\\ 
+----------------------  
+key length & count \\ 
+ 1024-bit DSA key (weak) & 6\\  
+ 1024-bit RSA key (weak) & 40\\  
+ 2048-bit RSA key & 75\\  
+ 4096-bit RSA key & 61\\  
+----------------------  
+version1 & version2 & version3 & count \\ 
+True & False & False & 51\\  
+True & False & True & 2\\  
+True & True & False & 73\\  
+True & True & True & 55\\  

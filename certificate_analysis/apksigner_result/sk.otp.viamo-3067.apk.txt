@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Juraj Jurci, O=ZENTITY Slovakia s. r. o., L=Bratislava, ST=Slovakia
+Signer #1 certificate SHA-256 digest: 5c613afce93e63391db8f7d1c7e8c98533d49da7f187a4bdcfcf3db4d2069aa0
+Signer #1 certificate SHA-1 digest: bcf8e54e5b59b8c7afa3190a3cb4c600d0c6956d
+Signer #1 certificate MD5 digest: b1061a1a176dfd1fc3a079811479f691
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: b0928ed1007aff8e6049739021015215363a018c029dc40819ae20c42ab6d218
+Signer #1 public key SHA-1 digest: affbb812f3049c361a810448fbb0179d2141336f
+Signer #1 public key MD5 digest: 1be0dd42c1122066c9657c9b0193f371

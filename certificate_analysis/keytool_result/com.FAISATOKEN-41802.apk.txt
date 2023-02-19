@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Amir Hussein, OU=Technology Department, O=Maldives Islamic Bank, L=Male' City, ST=North Central Province, C=MV
+Issuer: CN=Amir Hussein, OU=Technology Department, O=Maldives Islamic Bank, L=Male' City, ST=North Central Province, C=MV
+Serial number: 75e7a060
+Valid from: Mon Feb 02 16:42:48 AEDT 2015 until: Fri Jun 20 15:42:48 AEST 2042
+Certificate fingerprints:
+	 SHA1: 3A:78:5B:62:AC:73:08:64:BC:95:11:F6:8F:34:19:55:62:0E:50:10
+	 SHA256: 4E:B8:E8:48:8B:B1:28:1E:05:02:83:5B:51:85:88:E9:93:DE:9F:7D:F6:E8:7A:E2:68:2E:CB:6B:FB:71:86:BB
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 50 48 6D 2E 75 14 33 82   66 7E CC C2 D3 7D F0 18  PHm.u.3.f.......
+0010: 0C CB 58 3B                                        ..X;
+]
+]
+
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=PV, OU=Bank, O=PVCombank, L=Hanoi, ST=Vietnam, C=84
+Issuer: CN=PV, OU=Bank, O=PVCombank, L=Hanoi, ST=Vietnam, C=84
+Serial number: 7eeaba6d
+Valid from: Wed Jan 07 13:41:32 AEDT 2015 until: Fri Dec 14 13:41:32 AEDT 2114
+Certificate fingerprints:
+	 SHA1: F3:7F:51:1C:79:1A:40:40:37:98:F6:62:E8:0D:AA:0A:45:15:AC:07
+	 SHA256: EB:C1:44:9D:C6:35:38:EE:BE:C3:CE:14:BD:9C:39:91:4B:B9:56:21:B0:D0:7E:D9:47:40:B4:1B:1C:D7:A3:E3
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 5E 61 2C 6C 64 4C 1B 1E   D2 43 13 50 A9 3A 1A 8A  ^a,ldL...C.P.:..
+0010: 49 DB 7F 2F                                        I../
+]
+]
+
+

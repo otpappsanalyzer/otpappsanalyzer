@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=square_enix, OU=square_enix, O=square_enix, L=tokyo, ST=tokyo, C=jp
+Signer #1 certificate SHA-256 digest: 3d3b0559cb8411aea827cd006455bfd922cd985c53880b090ffbc41a5f7e42e3
+Signer #1 certificate SHA-1 digest: 1b309b163c25a5af2a02a265d43a4cde81fba068
+Signer #1 certificate MD5 digest: 5a78f1624348a24886e31164b2d5ad0e
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 8ba8087dcc35dea6dd89c3b60126d3bebc28498cb454966d9439ed52dfaffc15
+Signer #1 public key SHA-1 digest: 80a26c9fb6ab7da5f1452096831dcd203024eac9
+Signer #1 public key MD5 digest: b6f577444439b90401d187b4c5c8a62f

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=MAUBANK, OU=SI, O=MAUBANK, L=EBENE, C=MU
+Issuer: CN=MAUBANK, OU=SI, O=MAUBANK, L=EBENE, C=MU
+Serial number: cc61d6d
+Valid from: Tue May 16 19:54:18 AEST 2017 until: Sat May 10 19:54:18 AEST 2042
+Certificate fingerprints:
+	 SHA1: 65:32:C7:1C:C7:DE:79:31:9F:06:F0:E6:B0:B0:A4:4B:D3:A0:E1:25
+	 SHA256: 95:F0:64:7E:B6:48:21:F4:84:DB:F7:0D:E7:F9:3D:F5:8B:C5:57:3A:B3:F7:95:82:55:AD:31:72:40:27:4C:73
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E6 88 5F DD 20 C8 9A 54   7A 75 44 3F EE 63 DC 8D  .._. ..TzuD?.c..
+0010: BE EB 37 EB                                        ..7.
+]
+]
+
+

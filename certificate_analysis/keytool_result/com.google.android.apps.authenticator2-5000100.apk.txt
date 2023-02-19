@@ -1,0 +1,42 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Issuer: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Serial number: c2e08746644a308d
+Valid from: Fri Aug 22 09:13:34 AEST 2008 until: Tue Jan 08 10:13:34 AEDT 2036
+Certificate fingerprints:
+	 SHA1: 38:91:8A:45:3D:07:19:93:54:F8:B1:9A:F0:5E:C6:56:2C:ED:57:88
+	 SHA256: F0:FD:6C:5B:41:0F:25:CB:25:C3:B5:33:46:C8:97:2F:AE:30:F8:EE:74:11:DF:91:04:80:AD:6B:2D:60:DB:83
+Signature algorithm name: MD5withRSA (disabled)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: C7 7D 8C C2 21 17 56 25   9A 7F D3 82 DF 6B E3 98  ....!.V%.....k..
+0010: E4 D7 86 A5                                        ....
+]
+[CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US]
+SerialNumber: [    c2e08746 644a308d]
+]
+
+#2: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+#3: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: C7 7D 8C C2 21 17 56 25   9A 7F D3 82 DF 6B E3 98  ....!.V%.....k..
+0010: E4 D7 86 A5                                        ....
+]
+]
+
+

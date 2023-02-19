@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: OU=Authentication Development Team, O=mobilians
+Signer #1 certificate SHA-256 digest: 33419d4da7b6ee0f073cfdfbbd667cd76a66ba32ff1e23231d27ea334c0b8e3d
+Signer #1 certificate SHA-1 digest: 26b566463129f4d9faac5bc2bbc91377f69ad39d
+Signer #1 certificate MD5 digest: 04458625dacc4796342e9a6ee2bc4f83
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: daaa6b90b0723ed98639a81dc29ceb5f914b44c81a2ccbc7708864f8635368a8
+Signer #1 public key SHA-1 digest: 843d5ca12d153dd4bd4d5d7a515d15dcdecf43f6
+Signer #1 public key MD5 digest: 005e8cf1011a103b62cd18920671e2d9
+WARNING: APK Signature Scheme v2 signer #1: Unknown signature algorithm: 0x421

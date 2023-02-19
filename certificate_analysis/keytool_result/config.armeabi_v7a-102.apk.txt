@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=POZITRON, OU=POZITRON, O=POZITRON, L=ISTANBUL, ST=ISTANBUL, C=TR
+Issuer: CN=POZITRON, OU=POZITRON, O=POZITRON, L=ISTANBUL, ST=ISTANBUL, C=TR
+Serial number: 4fabbf17
+Valid from: Thu May 10 23:13:59 AEST 2012 until: Mon Sep 26 23:13:59 AEST 2039
+Certificate fingerprints:
+	 SHA1: F5:5F:20:69:3D:0D:53:DF:25:39:08:77:6B:AA:1A:6D:1E:71:48:CF
+	 SHA256: 24:8E:EB:19:13:37:F5:70:7E:A1:E4:44:B6:F8:CE:4E:40:6A:CA:49:29:D1:C5:C6:67:71:1D:BF:94:35:83:8D
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

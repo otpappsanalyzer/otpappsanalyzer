@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Michael Miceli, OU=Miceli Bros., O=Miceli Bros., L=Slidell, ST=Louisiana, C=US
+Issuer: CN=Michael Miceli, OU=Miceli Bros., O=Miceli Bros., L=Slidell, ST=Louisiana, C=US
+Serial number: 4b384144
+Valid from: Mon Dec 28 16:25:24 AEDT 2009 until: Fri May 15 15:25:24 AEST 2037
+Certificate fingerprints:
+	 SHA1: C9:F6:4D:48:C1:03:BE:31:61:05:02:67:7A:4E:66:F2:14:FF:D3:F9
+	 SHA256: 23:38:8A:1C:D1:2F:B8:7C:90:D6:63:ED:3A:82:07:68:4B:9B:19:F0:53:82:5E:E9:EF:8C:1D:61:86:33:FD:AA
+Signature algorithm name: SHA1withDSA (weak)
+Subject Public Key Algorithm: 1024-bit DSA key (weak)
+Version: 3
+

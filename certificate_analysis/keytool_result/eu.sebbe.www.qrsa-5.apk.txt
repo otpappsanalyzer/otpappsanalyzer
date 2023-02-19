@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Sebastian Nielsen, L=Goteborg, ST=Vastra Gotaland, C=SE
+Issuer: CN=Sebastian Nielsen, L=Goteborg, ST=Vastra Gotaland, C=SE
+Serial number: 46374aba
+Valid from: Wed Jun 08 16:05:05 AEST 2016 until: Sun Jun 02 16:05:05 AEST 2041
+Certificate fingerprints:
+	 SHA1: 7D:76:8B:BD:F9:FA:0E:30:E5:A7:B6:EC:8C:F9:91:B3:B6:64:84:80
+	 SHA256: 79:3C:2F:EA:27:C4:62:F4:6C:9D:78:73:10:41:05:F6:4F:4D:58:6D:68:73:2A:44:EF:BF:B2:D8:36:30:30:5F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 98 34 F7 3A D6 35 0C 85   3D 96 31 40 E6 8A C9 0E  .4.:.5..=.1@....
+0010: 5C E0 C8 CA                                        \...
+]
+]
+
+

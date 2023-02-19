@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=tsis
+Issuer: CN=tsis
+Serial number: 51cd2769
+Valid from: Fri Jun 28 16:04:25 AEST 2013 until: Sun Jun 04 16:04:25 AEST 2113
+Certificate fingerprints:
+	 SHA1: B2:B6:A8:3B:D3:C9:78:23:70:C0:DD:8A:83:47:EC:47:1A:CD:7F:02
+	 SHA256: 9F:D4:49:BB:54:A6:69:C4:40:48:CB:4F:96:28:8B:9A:A1:CF:90:FE:CE:B1:9E:96:D2:AD:89:2E:B4:B2:95:E3
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

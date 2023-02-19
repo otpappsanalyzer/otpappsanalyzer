@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Mobile Solutions, O=Asseco SEE, C=hr
+Issuer: OU=Mobile Solutions, O=Asseco SEE, C=hr
+Serial number: 4bfccc63
+Valid from: Wed May 26 17:23:15 AEST 2010 until: Sat May 20 17:23:15 AEST 2034
+Certificate fingerprints:
+	 SHA1: CA:A9:0D:4F:2E:34:FE:20:66:97:99:F1:34:6E:2D:BF:FB:4A:14:6D
+	 SHA256: 84:C5:70:9B:DC:0E:DC:5C:DC:90:5C:18:E4:C2:65:4C:14:34:2A:F5:AF:E9:69:52:D2:56:2D:CE:3A:F2:32:3F
+Signature algorithm name: SHA1withDSA (weak)
+Subject Public Key Algorithm: 1024-bit DSA key (weak)
+Version: 1
+

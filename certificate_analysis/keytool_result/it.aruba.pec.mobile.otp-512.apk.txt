@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=ArubaPEC S.p.A., OU=Mobile, O=Aruba PEC S.p.A., ST=Italy, C=IT
+Issuer: CN=ArubaPEC S.p.A., OU=Mobile, O=Aruba PEC S.p.A., ST=Italy, C=IT
+Serial number: 62899e0
+Valid from: Mon Feb 22 19:54:16 AEDT 2016 until: Fri Feb 15 19:54:16 AEDT 2041
+Certificate fingerprints:
+	 SHA1: C6:FB:CC:FB:48:2F:F3:77:AD:C8:8E:4E:53:36:99:1E:C7:B4:2D:BE
+	 SHA256: 9D:A8:42:EA:4F:C1:3E:94:3F:57:50:60:A7:74:4B:29:0D:52:61:D5:63:1B:FD:C3:73:F4:F7:34:23:4C:58:C4
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FC 9E 5F 7F 35 B6 E7 E1   84 D5 DA 78 63 32 47 F6  .._.5......xc2G.
+0010: 3D 5B B7 38                                        =[.8
+]
+]
+
+

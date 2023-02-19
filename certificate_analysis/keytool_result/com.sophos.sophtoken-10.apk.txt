@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Network Security Group, O=Sophos, L=Karlsruhe, C=DE
+Issuer: OU=Network Security Group, O=Sophos, L=Karlsruhe, C=DE
+Serial number: 3ab7f2b4
+Valid from: Thu May 08 01:29:53 AEST 2014 until: Sat Apr 14 01:29:53 AEST 2114
+Certificate fingerprints:
+	 SHA1: D8:5A:88:97:6B:20:6F:54:BC:60:09:57:62:43:5D:3A:7B:0E:B3:9C
+	 SHA256: 2C:40:7B:3E:8E:60:59:FA:8C:12:10:E4:E8:69:54:1F:FE:FB:99:EC:38:90:3E:DF:FA:02:2B:C3:68:E4:E2:DC
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9C CC DF BD BE FF 3C AF   CC 42 A4 46 0A 0A C7 1A  ......<..B.F....
+0010: 0B B2 D9 54                                        ...T
+]
+]
+
+

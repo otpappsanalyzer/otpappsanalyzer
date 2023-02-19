@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=SGN, OU=SGN, O=SGN, L=Seoul, C=82
+Signer #1 certificate SHA-256 digest: 0245b3129e50fda3ff7cd13480c704739d33a7f9856931b80e7bbd6c84961cc7
+Signer #1 certificate SHA-1 digest: 2a5a57447c4f23ed8980a9cab4c07b5d9bceb622
+Signer #1 certificate MD5 digest: 19a6f922e60076bb011b280494429d7a
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 68dedb9a67d6670afbf62b037a8aa335aefb514d5848a2dc5b42c257de1ffd51
+Signer #1 public key SHA-1 digest: cc456a4b1c76cd76fbcf22288d6a6c7c922de73d
+Signer #1 public key MD5 digest: 136874cb3a0220b0aec166ebe68bad35

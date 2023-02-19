@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=AirCUVE
+Signer #1 certificate SHA-256 digest: 3f3279872f9ee46cd44b4b79210e46745191b8b326480eb4df90d2f8937068f0
+Signer #1 certificate SHA-1 digest: c815cd8380c8856582b44317d3b3bcbfc0a607a9
+Signer #1 certificate MD5 digest: 3ce2fee11545d6c90a1a01b2308789d0
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 86bce8675cbaa84b058199eef3967d920dac658b4767539ae71d24a46b2a5cd4
+Signer #1 public key SHA-1 digest: e5b630319f7632db45f73479a39657283ec50c53
+Signer #1 public key MD5 digest: afdcd41c480f064f8b32bb78543f700e

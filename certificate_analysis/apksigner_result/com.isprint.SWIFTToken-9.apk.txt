@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=wangjun, OU=isprint, O=isprint, L=zhuhai, ST=guangdong, C=CN
+Signer #1 certificate SHA-256 digest: 6a7d9ba0724ab619a55167439e590c28b0bbd834492369fa45e867d4a9a248cd
+Signer #1 certificate SHA-1 digest: 675c606e1e49551c976fd0911439f1ac049f9456
+Signer #1 certificate MD5 digest: 56b470d83be934317a4d4e46329e1494
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 893bd23e45b08a86a0d1f96848775cc7ef3640b4877b97441504e456d8597886
+Signer #1 public key SHA-1 digest: 617247b1edbcd5d1fbf10605ee3400be5b8dc743
+Signer #1 public key MD5 digest: 42628c8851c780bb3508e0a7876b4b8f

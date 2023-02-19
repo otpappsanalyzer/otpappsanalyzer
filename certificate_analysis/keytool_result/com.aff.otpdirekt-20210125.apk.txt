@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=OTP Bank Nyrt., L=Budapest
+Issuer: O=OTP Bank Nyrt., L=Budapest
+Serial number: 503b23fd
+Valid from: Mon Aug 27 17:38:37 AEST 2012 until: Fri Aug 21 17:38:37 AEST 2037
+Certificate fingerprints:
+	 SHA1: D5:7E:A9:5A:A8:3D:B7:F2:EF:FB:41:C7:CE:B4:60:BC:A6:3F:8B:50
+	 SHA256: 8E:8B:1B:B6:C6:92:EF:E2:EC:B3:BE:35:DA:87:33:B4:59:AE:A8:00:68:1C:BC:63:57:BD:51:3D:AD:60:44:C9
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

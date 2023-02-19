@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Bayar, OU=SSD, O=GCM
+Issuer: CN=Bayar, OU=SSD, O=GCM
+Serial number: 51ac6d96
+Valid from: Mon Jun 03 20:19:02 AEST 2013 until: Tue May 22 20:19:02 AEST 2063
+Certificate fingerprints:
+	 SHA1: 8D:3A:1C:72:95:39:FA:9D:58:60:D7:0E:60:FD:5D:B0:A6:B6:E4:AE
+	 SHA256: A7:43:3B:EF:67:A8:34:53:3F:FD:68:D2:8E:86:7F:0C:4A:69:5C:3B:4E:AB:9D:A5:F5:91:C8:B6:F3:9B:89:03
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

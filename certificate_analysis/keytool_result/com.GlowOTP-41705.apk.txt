@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: OU=Trask solutions a.s., O=Trask solutions a.s., L=Praha, ST=Czech Republic, C=CZ
+Issuer: OU=Trask solutions a.s., O=Trask solutions a.s., L=Praha, ST=Czech Republic, C=CZ
+Serial number: 79f6d779
+Valid from: Wed Jan 08 20:56:54 AEDT 2014 until: Sun Jan 02 20:56:54 AEDT 2039
+Certificate fingerprints:
+	 SHA1: A8:D2:8A:F2:4E:13:61:01:AF:76:00:BA:C5:13:70:73:F0:9A:B5:34
+	 SHA256: 2A:AB:C7:65:37:D0:F5:2C:3F:A3:85:A0:1E:A5:14:8E:B2:19:04:BE:DC:D2:D8:E5:97:23:87:EE:40:CA:A5:23
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 55 49 B1 B8 D7 0B BD 87   DA 49 D0 DB B2 9E 83 1D  UI.......I......
+0010: D8 A0 5E 9F                                        ..^.
+]
+]
+
+

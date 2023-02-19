@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=OTP Token, OU=Software Dept, O=MK Group, L=Hanoi, C=84
+Issuer: CN=OTP Token, OU=Software Dept, O=MK Group, L=Hanoi, C=84
+Serial number: 367e4d11
+Valid from: Wed Mar 02 19:33:12 AEDT 2016 until: Sun Feb 24 19:33:12 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 76:CD:12:9C:FF:03:D9:3E:F2:9B:26:B3:6E:34:B7:27:44:A0:EF:64
+	 SHA256: EF:9B:AB:62:2C:29:EE:1C:FC:76:5F:03:DF:57:0A:A1:C4:9F:2A:78:F4:AD:EB:58:16:AB:BA:41:46:A4:3F:0A
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 79 01 A5 5A C9 AA 5C 90   BC 57 D7 CD 22 F0 74 98  y..Z..\..W..".t.
+0010: 78 70 6C 08                                        xpl.
+]
+]
+
+

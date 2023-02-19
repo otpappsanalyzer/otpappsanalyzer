@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN="Konami Digital Entertainment Co., Ltd.", OU=Android Application, O="Konami Digital Entertainment Co., Ltd.", L=Minato-ku, ST=Tokyo, C=JP
+Signer #1 certificate SHA-256 digest: 6cd106947c3d7fe9dc5b4c3d011a31de12553396394d63b03143f206a1a669d5
+Signer #1 certificate SHA-1 digest: 7d29cb5a042a4a6118de60aecd31305a5879cd04
+Signer #1 certificate MD5 digest: 02fc88376d0646b935d374fb76b49202
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: f6e09839cf1ae370981af3960ac502538fff8328bbc374672e8b63778357ce57
+Signer #1 public key SHA-1 digest: 959da46f2e881a2e9f1643322c6169c1102120f5
+Signer #1 public key MD5 digest: 74a2f089d38bc673159f62ddb1642d8f

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=EZMCOM Inc., OU=Engineering, O=EZMCOM Inc., L=Santa Clara, ST=California, C=US
+Issuer: CN=EZMCOM Inc., OU=Engineering, O=EZMCOM Inc., L=Santa Clara, ST=California, C=US
+Serial number: 522d58d6
+Valid from: Mon Sep 09 15:12:54 AEST 2013 until: Thu Sep 10 15:12:54 AEST 2043
+Certificate fingerprints:
+	 SHA1: C1:44:69:97:0A:21:B6:7F:6B:42:98:84:8F:62:3E:26:88:B9:87:49
+	 SHA256: 71:5A:28:7A:15:05:02:61:EF:CE:0C:E6:2F:16:E4:07:6C:68:AE:5B:08:EE:E7:45:B1:04:30:E1:1F:2C:EB:7D
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+

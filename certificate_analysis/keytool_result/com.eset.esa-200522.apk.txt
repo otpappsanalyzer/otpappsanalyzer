@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="ESET, spol. s r.o.", OU=Mobile application development, O="ESET, spol. s r.o.", L=Bratislava, ST=Slovakia, C=SK
+Issuer: CN="ESET, spol. s r.o.", OU=Mobile application development, O="ESET, spol. s r.o.", L=Bratislava, ST=Slovakia, C=SK
+Serial number: 4d9eca13
+Valid from: Fri Apr 08 18:40:51 AEST 2011 until: Tue Aug 24 18:40:51 AEST 2038
+Certificate fingerprints:
+	 SHA1: 65:CD:9A:EB:71:E2:A5:6E:89:84:5F:28:C6:38:45:AC:72:1D:56:D6
+	 SHA256: 01:88:C3:D3:12:32:B9:F8:66:A0:D5:34:20:90:F8:75:E4:31:8C:5D:0A:D6:DE:83:57:5C:0F:8D:93:EA:64:CC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+

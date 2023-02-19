@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Libero Rignanese, OU=Namirial S.p.A., O=Namirial S.p.A., L=Senigallia, ST=AN, C=IT
+Issuer: CN=Libero Rignanese, OU=Namirial S.p.A., O=Namirial S.p.A., L=Senigallia, ST=AN, C=IT
+Serial number: 5e600ebb
+Valid from: Thu Nov 10 02:40:51 AEDT 2016 until: Mon Nov 04 02:40:51 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 25:8B:03:9A:6E:15:79:45:10:CA:DE:57:67:C2:2B:C2:8C:3C:97:81
+	 SHA256: 62:FF:D2:5A:F8:45:C2:AF:2C:7D:86:9F:E0:D0:7F:42:F9:58:65:D6:46:57:93:E1:A0:4C:01:E1:E7:E1:BA:B9
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: E2 21 B9 B3 37 1A C1 07   F9 07 DF FD B2 A9 AF 47  .!..7..........G
+0010: 17 DC E8 00                                        ....
+]
+]
+
+

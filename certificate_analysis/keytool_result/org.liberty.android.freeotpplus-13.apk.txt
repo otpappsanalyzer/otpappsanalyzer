@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Haowen Ning, OU=Unknown, O=Unknown, L=Brooklyn, ST=NY, C=US
+Issuer: CN=Haowen Ning, OU=Unknown, O=Unknown, L=Brooklyn, ST=NY, C=US
+Serial number: 4b5a17a8
+Valid from: Sat Jan 23 08:24:56 AEDT 2010 until: Fri Feb 17 08:24:56 AEDT 2051
+Certificate fingerprints:
+	 SHA1: 97:66:E1:E9:79:46:92:DE:EA:20:1B:1E:2E:B9:1B:F0:4E:85:22:2C
+	 SHA256: 8E:DA:23:56:AD:35:BC:40:3E:FE:F3:8D:EB:21:83:00:28:A8:DA:42:06:16:77:72:4B:B8:05:6E:BE:73:9F:2C
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

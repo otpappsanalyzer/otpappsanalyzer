@@ -6,7 +6,7 @@ from matplotlib.ticker import MaxNLocator
 import seaborn as sns
 
 
-
+# Change the directory when you clone this repo
 unprotected_data_path = '/home/budi/OTP_project/OTP_code/exported_component/unprotected_component.csv'
 app_list = '/home/budi/OTP_project/OTP_code/metadata/csv_apk_id.csv'
 exp_path = '/home/budi/OTP_project/OTP_code/exported_component/'

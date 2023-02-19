@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Signer #1 certificate SHA-256 digest: 647310bda1bd0d1cf2bd62ff7a3a61f63e31072fee3b596a586b0e1ad888e72d
+Signer #1 certificate SHA-1 digest: 8c4bcc2febd1b46430b1cdf2d46c5f484eea5fcf
+Signer #1 certificate MD5 digest: c03766774750876b6e837f5e0fc47747
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: e0916978895613f48d392cddfd5afddc25f68869fa3ec3905b56f534ccb77a76
+Signer #1 public key SHA-1 digest: 03d6835eb69f266fa35329f17164bbbe1c3a48a3
+Signer #1 public key MD5 digest: 03fab45b0c312e35dc240d6fd71f08a3

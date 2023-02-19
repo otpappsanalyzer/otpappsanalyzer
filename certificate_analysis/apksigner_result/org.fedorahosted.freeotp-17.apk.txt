@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN="Red Hat, Inc.", OU=FreeOTP, O="Red Hat, Inc.", C=US
+Signer #1 certificate SHA-256 digest: 01b5d92a368bb99f65123bef732627f6ccc814f27e1490384377445a6f599c49
+Signer #1 certificate SHA-1 digest: a9902cc2cda835a5b7d3e1f8771f36acb32f29f7
+Signer #1 certificate MD5 digest: 4c552ad349a533bc4d7bb349c4d044c6
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: cf533c447a958ea3b57631c92f69d42f2dec849292287faed2a68321e2c6a472
+Signer #1 public key SHA-1 digest: 7e1071ce5c2852380c4f6531aadda3a25da32310
+Signer #1 public key MD5 digest: af9cd4a9510441049c5580c2cd8b8b6b

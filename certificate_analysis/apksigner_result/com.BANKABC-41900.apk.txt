@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Bank ABC OTP, OU=Bank ABC, O=Bank ABC, L=Manama, ST=Manama, C=BH
+Signer #1 certificate SHA-256 digest: 6d840a3fad59ef71986e6521d3a23776094acd4782d53b8196a513b3fd05039e
+Signer #1 certificate SHA-1 digest: 907566cf1fbbb17b1229376e3c9fb9293330a3f0
+Signer #1 certificate MD5 digest: 79a8af30b5987b9e492a5f545f02bb33
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 848df8c6920d5e84f3d29660bf79c953fd622e6c56dd1365fc2984ddbab66db7
+Signer #1 public key SHA-1 digest: c723278b6bb893fb353d488917d1e95e53a0fa25
+Signer #1 public key MD5 digest: 4025d4a4ff4b3ca84f5bd27a37a29ef5

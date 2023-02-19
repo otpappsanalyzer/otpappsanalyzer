@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=tsis
+Signer #1 certificate SHA-256 digest: 9fd449bb54a669c44048cb4f96288b9aa1cf90feceb19e96d2ad892eb4b295e3
+Signer #1 certificate SHA-1 digest: b2b6a83bd3c9782370c0dd8a8347ec471acd7f02
+Signer #1 certificate MD5 digest: 95eb440edfcc5435939f3c443b784abd
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: d2a063ba1bcde6624c550b5a1fdf057e72c3d82b8474638ba1d79d1ab5f0cd0f
+Signer #1 public key SHA-1 digest: 1f6197e599e1de2d94518892620f586fbf56ee03
+Signer #1 public key MD5 digest: ba628d9a380b3e17bcb296158c6b08c2
+WARNING: META-INF/com.android.support_exifinterface.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

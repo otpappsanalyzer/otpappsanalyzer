@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=NHNEntertainment, OU=NHN Ent, O=NHNEntertainment, L=Bundang, ST=Gyeongi, C=KR
+Issuer: CN=NHNEntertainment, OU=NHN Ent, O=NHNEntertainment, L=Bundang, ST=Gyeongi, C=KR
+Serial number: 12a2f04a
+Valid from: Wed Feb 12 16:00:14 AEDT 2014 until: Tue Jun 15 15:00:14 AEST 3013
+Certificate fingerprints:
+	 SHA1: 09:6D:F6:52:A9:D8:D2:29:F3:78:E4:EE:32:C0:E1:6D:DC:B5:0A:8A
+	 SHA256: A7:01:E3:9F:EE:9D:5D:EE:C1:1B:00:3F:5F:B5:71:01:B1:E0:36:34:B9:9B:9F:D5:41:47:96:09:1A:D4:6F:F8
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 99 C3 E1 F8 5F D3 23 90   CF 1A 1C 49 F2 28 7B 8A  ...._.#....I.(..
+0010: B9 9C 8A 18                                        ....
+]
+]
+
+

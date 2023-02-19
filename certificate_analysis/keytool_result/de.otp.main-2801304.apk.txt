@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Lutz Schneider, OU=Next Generation Clients, O=T-Systems International GmbH, L=Berlin, ST=Berlin, C=DE
+Issuer: CN=Lutz Schneider, OU=Next Generation Clients, O=T-Systems International GmbH, L=Berlin, ST=Berlin, C=DE
+Serial number: e5dc06f
+Valid from: Wed Feb 13 23:59:53 AEDT 2013 until: Sun Jul 01 22:59:53 AEST 2040
+Certificate fingerprints:
+	 SHA1: C7:69:83:72:57:0F:EF:96:84:ED:C4:41:A3:75:15:29:F0:25:33:00
+	 SHA256: 80:91:09:D4:D6:31:E5:76:88:FD:80:0C:79:7E:51:08:2D:2E:F8:12:FE:3F:8C:55:83:B0:32:F7:43:87:6B:82
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 87 63 56 91 50 A7 F7 46   AF 4D 91 50 80 14 31 D4  .cV.P..F.M.P..1.
+0010: E9 56 5D 93                                        .V].
+]
+]
+
+

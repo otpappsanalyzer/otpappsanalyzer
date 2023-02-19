@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Banco Pacífico
+Signer #1 certificate SHA-256 digest: 0b60ded9fcfaf8d86be5180052ebdb452ddb3d52872ff93806175efe60cfd879
+Signer #1 certificate SHA-1 digest: 5f840ce0d50ea28a62b9807dcac19bb7fa2be2c7
+Signer #1 certificate MD5 digest: 6be8a2705c6fe2b01137c4b58ad38144
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: c97d462e9d4b3be832be0d157c928dd64bc29122302d5e7edf29722d64dab8dc
+Signer #1 public key SHA-1 digest: 056fc09595a0d16a498bf9c3442056b91ac13508
+Signer #1 public key MD5 digest: 9d085f2fd2d5ef55fcbfa005925a027f
+WARNING: META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

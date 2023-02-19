@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=myotp
+Issuer: CN=myotp
+Serial number: 69e5bf44
+Valid from: Tue Aug 19 16:03:00 AEST 2014 until: Wed Jul 26 16:03:00 AEST 2113
+Certificate fingerprints:
+	 SHA1: F1:2C:2D:6C:3E:16:EC:4B:4F:A3:FA:E4:24:F2:C1:2F:7A:77:0A:EB
+	 SHA256: 62:7B:06:09:BE:6D:91:3B:84:0A:10:90:F3:6F:00:95:5D:41:06:EA:3D:50:8A:17:A2:21:95:0C:A9:30:3D:C5
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 7A 06 01 8E 8F A1 8C 47   D9 37 F2 C1 AF 45 4F 7D  z......G.7...EO.
+0010: B9 32 98 A1                                        .2..
+]
+]
+
+

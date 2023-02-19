@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Administración Federal de Ingresos Públicos, OU=SDG SIT, O=SegInfo, L=Buenos Aires, ST=Buenos Aires, C=AR
+Issuer: CN=Administración Federal de Ingresos Públicos, OU=SDG SIT, O=SegInfo, L=Buenos Aires, ST=Buenos Aires, C=AR
+Serial number: 311c64e
+Valid from: Tue Feb 27 05:51:31 AEDT 2018 until: Mon Jun 30 04:51:31 AEST 3017
+Certificate fingerprints:
+	 SHA1: C9:D3:D8:82:A4:30:BE:B1:B8:7A:CB:29:A4:8B:44:6F:CD:70:2C:09
+	 SHA256: B2:0A:89:41:6D:32:15:74:4B:2B:02:F3:62:07:63:E2:5F:C4:D5:43:C8:74:B5:8F:EE:59:94:62:7D:FF:E0:02
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 14 CB DC BD 48 D1 15 30   11 24 6C 7F 32 45 5A B5  ....H..0.$l.2EZ.
+0010: 63 01 DC F6                                        c...
+]
+]
+
+

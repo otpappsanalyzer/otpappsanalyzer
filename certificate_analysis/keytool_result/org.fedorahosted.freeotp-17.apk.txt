@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN="Red Hat, Inc.", OU=FreeOTP, O="Red Hat, Inc.", C=US
+Issuer: CN="Red Hat, Inc.", OU=FreeOTP, O="Red Hat, Inc.", C=US
+Serial number: 260a0c1d
+Valid from: Thu Nov 14 04:46:03 AEDT 2013 until: Mon Apr 01 04:46:03 AEDT 2041
+Certificate fingerprints:
+	 SHA1: A9:90:2C:C2:CD:A8:35:A5:B7:D3:E1:F8:77:1F:36:AC:B3:2F:29:F7
+	 SHA256: 01:B5:D9:2A:36:8B:B9:9F:65:12:3B:EF:73:26:27:F6:CC:C8:14:F2:7E:14:90:38:43:77:44:5A:6F:59:9C:49
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9D 94 D9 ED 9B 2A 06 91   80 69 26 09 C3 C2 A7 2E  .....*...i&.....
+0010: 65 5C CB C9                                        e\..
+]
+]
+
+

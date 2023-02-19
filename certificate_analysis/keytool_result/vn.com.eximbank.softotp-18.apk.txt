@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Vietnam Eximbank, OU=Vietnam Eximbank, O=IT, L=HCM, ST=HCM, C=VN
+Issuer: CN=Vietnam Eximbank, OU=Vietnam Eximbank, O=IT, L=HCM, ST=HCM, C=VN
+Serial number: 3947b829
+Valid from: Thu Oct 22 19:26:34 AEDT 2020 until: Mon Oct 16 19:26:34 AEDT 2045
+Certificate fingerprints:
+	 SHA1: 83:CA:B9:1E:02:E1:15:5A:C9:CA:06:9C:25:83:C3:A0:78:B3:BD:AA
+	 SHA256: 5F:3C:6C:56:FE:AE:F2:F8:6D:81:30:8C:AA:95:67:16:34:A1:3C:6D:2E:D0:61:0D:A0:6B:1D:71:91:8D:D4:AF
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: CB D9 48 F9 5C 57 82 60   96 1C 3D 88 46 78 7E AE  ..H.\W.`..=.Fx..
+0010: 1D 8F 0D 9F                                        ....
+]
+]
+
+

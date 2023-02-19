@@ -1,0 +1,1 @@
+WARNING: APK Signature Scheme v2 signer #1: Unknown signature algorithm: 0x421

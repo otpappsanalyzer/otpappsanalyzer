@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=nhbank, OU=nhbank, O=nhbank, L=Unknown, ST=seoul, C=82
+Issuer: CN=nhbank, OU=nhbank, O=nhbank, L=Unknown, ST=seoul, C=82
+Serial number: 4c194c71
+Valid from: Thu Jun 17 08:13:05 AEST 2010 until: Mon Nov 02 09:13:05 AEDT 2037
+Certificate fingerprints:
+	 SHA1: BC:C6:F7:10:71:F2:3D:68:F0:12:B1:39:7D:AC:F0:2A:41:29:E3:0F
+	 SHA256: 82:8A:D6:53:2C:FB:D6:60:63:5B:8A:AB:5F:0F:D5:25:FD:CA:04:67:6E:C5:81:BD:65:3A:97:6C:32:38:A0:84
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=PointSharp AB, OU=PS, O=PointSharp AB, L=Stockholm, ST=Stockholm, C=SE
+Issuer: CN=PointSharp AB, OU=PS, O=PointSharp AB, L=Stockholm, ST=Stockholm, C=SE
+Serial number: 9f50422
+Valid from: Thu May 02 22:31:14 AEST 2013 until: Mon Apr 26 22:31:14 AEST 2038
+Certificate fingerprints:
+	 SHA1: BD:C4:B7:55:EB:5B:17:E6:02:20:50:7C:A4:5E:C3:4B:B6:3A:7E:10
+	 SHA256: EF:63:52:4E:7C:15:DD:A8:10:2B:E7:24:6F:11:09:E5:15:C5:C5:1C:F8:64:EF:E0:D8:E9:80:8A:32:14:9D:F8
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 72 F2 07 84 03 9A E6 90   E0 EF F4 F2 DA 72 98 F9  r............r..
+0010: 58 AE 55 8A                                        X.U.
+]
+]
+
+

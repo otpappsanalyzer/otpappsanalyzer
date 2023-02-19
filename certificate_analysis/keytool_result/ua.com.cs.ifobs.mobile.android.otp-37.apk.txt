@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=CS Integra Ltd, OU=IFOBS, O=CS LTD, L=Kharkiv, ST=Kharkiv, C=UA
+Issuer: CN=CS Integra Ltd, OU=IFOBS, O=CS LTD, L=Kharkiv, ST=Kharkiv, C=UA
+Serial number: 19204350
+Valid from: Mon Jul 20 23:08:19 AEST 2015 until: Sat Dec 06 00:08:19 AEDT 2042
+Certificate fingerprints:
+	 SHA1: FC:F2:B9:50:07:BF:87:8F:85:FF:68:62:38:91:23:8F:91:96:D5:73
+	 SHA256: 57:55:10:4F:99:56:A9:D7:BF:8E:93:2B:94:C5:9A:95:9B:ED:CE:22:09:FD:E6:DA:05:33:58:57:77:DC:00:30
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 39 C4 6B 99 01 D5 52 32   D1 F6 1A 63 95 72 FE 42  9.k...R2...c.r.B
+0010: 75 B6 74 D0                                        u.t.
+]
+]
+
+

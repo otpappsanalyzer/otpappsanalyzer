@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AcledaBank, OU=Information Technology, O=AlcedaBank plc, L=PhonPenh, ST=PhonPenh, C=KH
+Issuer: CN=AcledaBank, OU=Information Technology, O=AlcedaBank plc, L=PhonPenh, ST=PhonPenh, C=KH
+Serial number: 38862d60
+Valid from: Mon Mar 27 21:30:20 AEDT 2017 until: Fri Mar 21 21:30:20 AEDT 2042
+Certificate fingerprints:
+	 SHA1: 57:D5:59:E9:59:6C:D1:DF:38:D9:11:1E:7E:8A:F3:2E:FA:47:8B:56
+	 SHA256: 01:FA:CA:7A:71:46:E9:76:6E:CB:20:57:58:22:B2:C5:71:CB:71:6A:EA:46:75:17:0D:05:4B:EA:90:5B:38:EF
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 61 48 A7 EA 56 F1 C4 04   04 8F 62 28 8D 4C 2C AC  aH..V.....b(.L,.
+0010: 7C 4D EA 3F                                        .M.?
+]
+]
+
+

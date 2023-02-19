@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Android Developer, OU=Engineering, O=Arcot Systems, L=Sunnyvale, ST=CA, C=US
+Issuer: CN=Android Developer, OU=Engineering, O=Arcot Systems, L=Sunnyvale, ST=CA, C=US
+Serial number: 4b27d43d
+Valid from: Wed Dec 16 05:23:57 AEDT 2009 until: Sun May 03 04:23:57 AEST 2037
+Certificate fingerprints:
+	 SHA1: C4:CA:B0:B4:81:77:0D:BB:E4:DB:E0:7A:90:78:55:AC:C5:00:4A:1B
+	 SHA256: 7C:F4:6B:E4:91:A1:7B:B5:0C:D8:69:B1:1C:69:21:F8:02:BC:FD:50:5D:15:56:4F:91:ED:B6:3D:8E:B2:05:83
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

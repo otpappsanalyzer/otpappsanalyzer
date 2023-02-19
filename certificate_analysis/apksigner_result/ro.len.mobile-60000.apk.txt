@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Marilen Corciovei, L=Bucharest, C=RO
+Signer #1 certificate SHA-256 digest: 693edfddcd119007aba92918e58e21610a91af4c2eb67c5b84cb68805e4740ff
+Signer #1 certificate SHA-1 digest: e15ca00bac1d3a53d3f6d82fa20cce9a52e5be99
+Signer #1 certificate MD5 digest: fb27c39ff5403ec2766b9f5c42944014
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: df8b0967864afa0e0542ef5b02d3fb03b2f9725f5a8ae34bb26081ebe65f1caf
+Signer #1 public key SHA-1 digest: 58d1204225ee5793b7a72038c2275587c41434be
+Signer #1 public key MD5 digest: 7d3b2f57422e4d22d09bc35ce159c41b

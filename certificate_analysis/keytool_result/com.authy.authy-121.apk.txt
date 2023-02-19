@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Daniel Palacio, OU=Authy, O=Authy, L=Mountain View, ST=CA, C=1
+Issuer: CN=Daniel Palacio, OU=Authy, O=Authy, L=Mountain View, ST=CA, C=1
+Serial number: 4f57c9e1
+Valid from: Thu Mar 08 07:49:37 AEDT 2012 until: Tue Feb 28 07:49:37 AEDT 2045
+Certificate fingerprints:
+	 SHA1: DF:96:4B:ED:14:F5:89:6D:BC:22:6B:74:EA:1D:89:67:3E:A5:C9:52
+	 SHA256: 50:5C:D6:3D:A5:1F:19:8F:3F:B1:C2:95:0B:6B:46:B6:06:FE:C4:13:57:4B:96:7F:3D:86:A3:CF:73:FE:05:53
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

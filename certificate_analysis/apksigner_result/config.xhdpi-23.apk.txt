@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=CM, OU=Dev, O=PortWise, L=Stockholm, ST=Svealand, C=SE
+Signer #1 certificate SHA-256 digest: f51ef1b05df9df6abe205fc03a579d5fdbddc5c82abbea32823a4f9071f45aa8
+Signer #1 certificate SHA-1 digest: 6ffa4eeb1b815ad41b984cbfd3a4e9e259e32f8b
+Signer #1 certificate MD5 digest: 36a34211c31c07774ac18298bca0c17e
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 8f38f5c8c2686260b4784471ea2757a0388a8c1982e45c2806b54436a2115f1b
+Signer #1 public key SHA-1 digest: 901409c04b3fd15a2d0ae3e4d3fc2acbe71dc7cf
+Signer #1 public key MD5 digest: a4581bc6d81d0a6fcbda5f1ff6c550ea
+WARNING: APK Signature Scheme v2 signer #1: Unknown signature algorithm: 0x421

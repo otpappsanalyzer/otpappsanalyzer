@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=BC OTP, OU=BC Card, L=Seoul, ST=Seoul, C=82
+Signer #1 certificate SHA-256 digest: 8abdbf642b45381cb81a703a40257c498c26450fe518e957cfe66e3052d1dbcc
+Signer #1 certificate SHA-1 digest: 2734f5eab3d330a71b47ddfb1650da35ac1b2d1d
+Signer #1 certificate MD5 digest: a2fc66d5b7a0f1e9ab41d3f99787d9b0
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: db2bd486783f534af0d9b701f400d3d5142e6c9055e038fe45ae8d82faafc4de
+Signer #1 public key SHA-1 digest: a2191dfb410efbae24560d29aecfe48f037df705
+Signer #1 public key MD5 digest: 0a6fc096d56ea28d85d433ea26af408e

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=OOO Yandex, OU=Mobile Development, O=OOO Yandex, L=Moscow, ST=Moscow, C=RU
+Issuer: CN=OOO Yandex, OU=Mobile Development, O=OOO Yandex, L=Moscow, ST=Moscow, C=RU
+Serial number: 4af98700
+Valid from: Wed Nov 11 02:30:08 AEDT 2009 until: Tue Dec 06 02:30:08 AEDT 2050
+Certificate fingerprints:
+	 SHA1: 5D:22:42:74:D9:37:7C:35:DA:77:7A:D9:34:C6:5C:8C:CA:6E:7A:20
+	 SHA256: AC:A4:05:DE:D8:B2:5C:B2:E8:C6:DA:69:42:5D:2B:43:07:D0:87:C1:27:6F:C0:6A:D5:94:27:31:CC:C5:1D:BA
+Signature algorithm name: SHA1withDSA (weak)
+Subject Public Key Algorithm: 1024-bit DSA key (weak)
+Version: 3
+

@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN="ESET, spol. s r.o.", OU=Mobile application development, O="ESET, spol. s r.o.", L=Bratislava, ST=Slovakia, C=SK
+Signer #1 certificate SHA-256 digest: 0188c3d31232b9f866a0d5342090f875e4318c5d0ad6de83575c0f8d93ea64cc
+Signer #1 certificate SHA-1 digest: 65cd9aeb71e2a56e89845f28c63845ac721d56d6
+Signer #1 certificate MD5 digest: e7edb22d35143205906dc64ed01f1b36
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: 59c8e87e8e0f48ebedf7097f01f8c844c3af157cf535715ee7855d2e9bc6b154
+Signer #1 public key SHA-1 digest: 3847ccd4e6e7602eb095a7369d12501e7690fdef
+Signer #1 public key MD5 digest: badc0c4f88f110dde4c738375ddecebc

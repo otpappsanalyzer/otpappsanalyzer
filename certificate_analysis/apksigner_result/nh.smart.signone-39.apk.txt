@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=nhbank, OU=nhbank, O=nhbank, L=Unknown, ST=seoul, C=82
+Signer #1 certificate SHA-256 digest: 828ad6532cfbd660635b8aab5f0fd525fdca04676ec581bd653a976c3238a084
+Signer #1 certificate SHA-1 digest: bcc6f71071f23d68f012b1397dacf02a4129e30f
+Signer #1 certificate MD5 digest: 8315726169b1d2b7faa2135862153cf9
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 68606c867b5da7152753e05bcc0f2ef149a6f76a42905a950e6fc3de01a76ef5
+Signer #1 public key SHA-1 digest: 777fc5a6f32fe996fc1d7d2b7eeadd422b64b818
+Signer #1 public key MD5 digest: 5d8afc75a9eda2da25939679ed25167e

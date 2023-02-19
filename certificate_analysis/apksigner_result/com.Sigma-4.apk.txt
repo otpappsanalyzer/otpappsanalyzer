@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=PointSharp AB, OU=PS, O=PointSharp AB, L=Stockholm, ST=Stockholm, C=SE
+Signer #1 certificate SHA-256 digest: ef63524e7c15dda8102be7246f1109e515c5c51cf864efe0d8e9808a32149df8
+Signer #1 certificate SHA-1 digest: bdc4b755eb5b17e60220507ca45ec34bb63a7e10
+Signer #1 certificate MD5 digest: 6a1321650677dcb98374d510066c01f2
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: c4bcbf917edae8dcdcf923b7639fb71be647813cbce3571b63f8a4d681cf89e6
+Signer #1 public key SHA-1 digest: 942973b02a24384792271dc3b8e88adff85cb0a4
+Signer #1 public key MD5 digest: 6c3165256fc7315829a31faf377ff7c5

@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Bruno Lavit, OU=R&D, O=Forgerock, L=San Francisco, ST=California, C=US
+Issuer: CN=Bruno Lavit, OU=R&D, O=Forgerock, L=San Francisco, ST=California, C=US
+Serial number: 565c586d
+Valid from: Tue Dec 01 01:08:45 AEDT 2015 until: Sat Nov 24 01:08:45 AEDT 2040
+Certificate fingerprints:
+	 SHA1: 69:AC:93:62:4C:8F:E2:BE:4F:8A:43:84:30:56:CB:D3:95:C3:5E:DF
+	 SHA256: 30:03:CB:9C:14:52:2B:0C:DA:E6:B8:1F:40:C7:F2:0E:A9:19:91:B6:BA:FF:91:1B:E3:2D:48:48:1B:BE:4F:22
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=SecuwaySSL, OU=secuwiz, O=secuwiz.co.kr, L=mapo, ST=seoul, C=KO
+Issuer: CN=SecuwaySSL, OU=secuwiz, O=secuwiz.co.kr, L=mapo, ST=seoul, C=KO
+Serial number: 2f436a31
+Valid from: Thu Oct 04 17:16:18 AEST 2018 until: Wed Sep 29 17:16:18 AEST 2038
+Certificate fingerprints:
+	 SHA1: 1C:4D:F9:79:5E:45:B4:38:E1:B8:CE:11:1D:0F:28:24:B5:2C:4A:18
+	 SHA256: 0D:80:76:37:B7:C6:7F:BA:06:54:C3:CA:E4:50:B3:9F:1A:90:10:20:4E:C4:22:56:2A:9C:19:D0:A1:7D:E4:0F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 87 33 16 74 23 D1 FF 96   6C B1 A9 CA C9 93 1C 18  .3.t#...l.......
+0010: E1 2B F0 A6                                        .+..
+]
+]
+
+

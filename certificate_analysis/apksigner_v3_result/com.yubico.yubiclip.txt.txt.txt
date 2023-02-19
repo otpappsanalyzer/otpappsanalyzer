@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Android code signing, O=Yubico AB
+Signer #1 certificate SHA-256 digest: 3e21da5acaa8d49ce515b1c6d2a1903bae298d0911432c55e75a196199f2b9a0
+Signer #1 certificate SHA-1 digest: c636f48cb00b49337b6dce958870433f289c827a
+Signer #1 certificate MD5 digest: 7bdc77dbbf556c124f502918454e97a0
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 05874b34f16db51edbd3da34f41ef4c7bc33ccaf0530e1346a2c5e1eb28ab5bd
+Signer #1 public key SHA-1 digest: 261e87f945efbbabd4425798584382869474dd71
+Signer #1 public key MD5 digest: f29b00592fc52f4a37fb81d9affb33ef

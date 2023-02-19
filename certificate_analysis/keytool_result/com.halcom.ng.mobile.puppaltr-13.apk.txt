@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Klika d.o.o., L=Ljubljana, C=SI
+Issuer: O=Klika d.o.o., L=Ljubljana, C=SI
+Serial number: 4e648b16
+Valid from: Mon Sep 05 18:40:54 AEST 2011 until: Wed Aug 28 18:40:54 AEST 2041
+Certificate fingerprints:
+	 SHA1: 2F:2B:AD:C9:DB:F8:5D:AF:F2:FA:CD:0C:87:81:1F:46:0C:E6:90:32
+	 SHA256: 18:99:4F:80:34:3C:D3:7D:85:B2:53:B4:C2:C1:C7:7A:79:C8:BC:19:05:FB:97:84:A8:8B:0C:A4:85:AC:D5:C8
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Silverlake MasterSAM
+Signer #1 certificate SHA-256 digest: 6b79c6cf6b38d9fda79ad6a7937ec7b8375412148c6f8ea6e01db03293bf7bd1
+Signer #1 certificate SHA-1 digest: 54491231eba8d4adff1d8a813337ae62921a1114
+Signer #1 certificate MD5 digest: ef40f0a8dfa4d94baa346a004b6c7184
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: fe4bac5877cc54eb361c5a53e9c8a3e9bede66adad58b1c06e65a55328523402
+Signer #1 public key SHA-1 digest: b6b0320926dac2fef535478ec4640da53c9b9415
+Signer #1 public key MD5 digest: 9a22ed2eabca9b6df5b3dba41505bd5f

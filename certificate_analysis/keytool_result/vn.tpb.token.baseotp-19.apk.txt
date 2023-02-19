@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=TPBank, OU=eBank, O=TPBank, L=Hanoi, ST=Vietnam, C=10000
+Issuer: CN=TPBank, OU=eBank, O=TPBank, L=Hanoi, ST=Vietnam, C=10000
+Serial number: 4fa1b1e4
+Valid from: Fri May 13 16:47:05 AEST 2016 until: Sun Apr 19 16:47:05 AEST 2116
+Certificate fingerprints:
+	 SHA1: 0B:B0:2B:A9:65:29:E0:94:11:C7:4A:E7:07:09:55:43:B6:B0:A0:95
+	 SHA256: 33:62:EF:A2:2A:42:52:10:30:08:23:18:7E:B3:07:3C:C4:DA:33:0F:69:40:F7:9D:5B:AB:DE:74:6A:66:26:0E
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: B7 A7 4E CA 1B E5 0C FB   07 95 67 05 3E 1B DA 1C  ..N.......g.>...
+0010: 94 D3 11 AF                                        ....
+]
+]
+
+

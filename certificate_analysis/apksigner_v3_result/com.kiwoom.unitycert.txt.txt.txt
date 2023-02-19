@@ -1,0 +1,21 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Kiwoom, OU=MTS, O=Kiwoom Securities Co., L=Seoul, C=Korea
+Signer #1 certificate SHA-256 digest: 892af050ec10c496e5400105e255ba82b8fe406b02a375fd5ceefc1b9ab4dd0c
+Signer #1 certificate SHA-1 digest: efeff831775e2704ec0ea9472fa09194e299fdb7
+Signer #1 certificate MD5 digest: 37c20b49513ef121982c9bf91fe343dd
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 3c0c05ba18862e1d7bc0355b3b8a2b7edb129b67fdd9513c96f3fc3c7689f2dd
+Signer #1 public key SHA-1 digest: 7229f9f16c26ed3d2c6b61c73cc62312ba3f7c6f
+Signer #1 public key MD5 digest: e4758a6d9a45bb3080cb5a7420aa7864
+WARNING: META-INF/android.arch.lifecycle_runtime.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-v4.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-core-utils.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-compat.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-core-ui.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-fragment.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/com.android.support_support-media-compat.version not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

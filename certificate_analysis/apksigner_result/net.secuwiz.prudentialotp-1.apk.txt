@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=SecuwaySSL, OU=secuwiz, O=secuwiz.co.kr, L=mapo, ST=seoul, C=KO
+Signer #1 certificate SHA-256 digest: 0d807637b7c67fba0654c3cae450b39f1a9010204ec422562a9c19d0a17de40f
+Signer #1 certificate SHA-1 digest: 1c4df9795e45b438e1b8ce111d0f2824b52c4a18
+Signer #1 certificate MD5 digest: 189ef83ebbf31da4abdbab54db23b80b
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: a648a342d9ee030f4de99455642191766c5a385811c68dd495a4c2f286fdc73c
+Signer #1 public key SHA-1 digest: 48ef77a80a99b369845a76d412e7fc6693458af0
+Signer #1 public key MD5 digest: c4a993c4231300e40e359711fcdea920

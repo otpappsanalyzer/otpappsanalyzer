@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Max-Joseph Krempl, OU=Mobile Development, O=netfiles GmbH, L=Burghausen, ST=Bayern, C=DE
+Issuer: CN=Max-Joseph Krempl, OU=Mobile Development, O=netfiles GmbH, L=Burghausen, ST=Bayern, C=DE
+Serial number: 55d7336d
+Valid from: Sat Aug 22 00:19:25 AEST 2015 until: Wed Aug 15 00:19:25 AEST 2040
+Certificate fingerprints:
+	 SHA1: D8:91:D4:19:50:F4:46:D5:0D:8D:81:E9:40:46:B3:2F:56:6D:64:19
+	 SHA256: 0B:05:2A:CE:7F:D4:93:D0:A6:BC:35:CA:92:49:2D:77:8F:A2:58:20:70:79:E2:21:27:D4:44:9E:3A:6A:C8:E5
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,25 @@
+Key Algorithm & Key Size & Popular & \#of Apps (\%) \\ 
+DSA & 1024 & False & 2(1.1\%)\\ 
+DSA & 1024 & True & 3(1.65\%)\\ 
+RSA & 1024 & False & 24(13.19\%)\\ 
+RSA & 1024 & True & 16(8.79\%)\\ 
+RSA & 2048 & False & 49(26.92\%)\\ 
+RSA & 2048 & True & 30(16.48\%)\\ 
+RSA & 4096 & False & 47(25.82\%)\\ 
+RSA & 4096 & True & 11(6.04\%)\\ 
+-------------------------------------------------------------------- \\ 
+Version1 & Version2 & Version3 & popular & \#of Apps (\%) \\ 
+True & False & False & False & 32(17.58\%)\\ 
+True & False & False & True & 19(10.44\%)\\ 
+True & False & True & False & 1(0.55\%)\\ 
+True & False & True & True & 1(0.55\%)\\ 
+True & True & False & False & 50(27.47\%)\\ 
+True & True & False & True & 23(12.64\%)\\ 
+True & True & True & False & 38(20.88\%)\\ 
+True & True & True & True & 17(9.34\%)\\ 
+-------------------------------------------------------------------- \\ 
+Status & popular &  \#of Apps (\%) \\ 
+False & False & 79(43.41\%)\\ 
+False & True & 43(23.63\%)\\ 
+True & False & 43(23.63\%)\\ 
+True & True & 17(9.34\%)\\ 

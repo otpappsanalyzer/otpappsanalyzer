@@ -1,0 +1,15 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Signer #1 certificate SHA-256 digest: 449893eefb48e43e281967da1402cd5f522e9b09003d689aace833cf91c03c6f
+Signer #1 certificate SHA-1 digest: d4764b32e8f68efbfeb02fddefdd366882732526
+Signer #1 certificate MD5 digest: c8249cbb5f4d1ab38f77e6c1fb2677d9
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: 14b22aa7cb3e998f11e7d5888c7877e0540b59bcd7043e23a498cfb1c75a5ad3
+Signer #1 public key SHA-1 digest: a818a6a5577187e37152d2d44ad70a7dfcd9cf3f
+Signer #1 public key MD5 digest: e75cdadc326948dd3c6ba1d12a12debb
+WARNING: META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Maxim Oliynyk, OU=com, O=Protectimus, L=Kharkiv, ST=Kharkiv, C=UA
+Issuer: CN=Maxim Oliynyk, OU=com, O=Protectimus, L=Kharkiv, ST=Kharkiv, C=UA
+Serial number: 61c0a36c
+Valid from: Sun Nov 03 16:21:02 AEDT 2013 until: Thu Oct 28 16:21:02 AEDT 2038
+Certificate fingerprints:
+	 SHA1: 52:8A:C2:A9:91:AC:55:84:24:BA:BF:98:8D:C9:E3:95:5A:D4:0F:A1
+	 SHA256: E1:BA:4F:8B:27:6D:B6:8B:23:63:3E:41:12:85:6D:AD:56:D0:44:94:0B:85:B9:7E:B4:C7:E5:E2:E9:67:A7:48
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 55 ED 53 2A 61 E7 9F 10   84 F0 80 B5 B3 78 42 04  U.S*a........xB.
+0010: 5A CB B9 E1                                        Z...
+]
+]
+
+

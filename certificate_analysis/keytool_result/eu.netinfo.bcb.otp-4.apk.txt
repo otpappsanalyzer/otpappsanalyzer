@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=BCB, C=BM
+Issuer: O=BCB, C=BM
+Serial number: 56260502
+Valid from: Tue Oct 20 20:10:26 AEDT 2015 until: Sun Oct 11 20:10:26 AEDT 2048
+Certificate fingerprints:
+	 SHA1: EE:D8:82:A1:F5:85:4B:CA:D2:9E:8A:14:A8:D3:E2:4D:1B:1C:F7:84
+	 SHA256: 32:E0:2E:FC:79:5A:7D:DA:E6:E3:90:AC:29:EA:86:14:9A:8E:06:39:63:AC:FE:24:55:10:A0:DE:25:4A:DE:91
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

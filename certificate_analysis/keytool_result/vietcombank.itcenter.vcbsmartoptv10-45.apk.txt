@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Vietcombank ITCenter, OU=ITCenter, O=Vietcombank, L=Hanoi, ST=Hanoi, C=VN
+Issuer: CN=Vietcombank ITCenter, OU=ITCenter, O=Vietcombank, L=Hanoi, ST=Hanoi, C=VN
+Serial number: 26d24635
+Valid from: Sat Nov 22 18:17:54 AEDT 2014 until: Wed Nov 16 18:17:54 AEDT 2039
+Certificate fingerprints:
+	 SHA1: 4D:1A:38:29:51:63:BA:AC:D0:00:0A:32:30:9F:E4:1F:EC:2E:B0:13
+	 SHA256: CB:4D:4B:4C:48:1F:E3:BC:D9:2E:DF:93:53:B9:7F:BB:A1:04:AE:62:C2:46:00:27:4D:7C:1E:F4:3C:F4:44:B8
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8B DF 22 69 62 CF 6C C0   B7 9E 39 05 83 B3 B2 45  .."ib.l...9....E
+0010: 46 B4 FD BE                                        F...
+]
+]
+
+

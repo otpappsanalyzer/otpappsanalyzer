@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: O=vtb
+Issuer: O=vtb
+Serial number: 1aaaf3e5
+Valid from: Tue Jun 25 13:28:31 AEST 2019 until: Sat Jun 18 13:28:31 AEST 2044
+Certificate fingerprints:
+	 SHA1: EE:AC:05:05:9D:5D:C4:1A:6A:86:C8:1F:9C:14:CB:D5:02:6B:D4:9A
+	 SHA256: 3A:9D:A9:AD:11:05:3B:75:78:AD:62:58:B0:25:F1:A5:00:82:DE:48:AB:3B:92:B2:12:40:A0:FD:6E:F6:2F:94
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 37 8E C8 F9 C7 1B 7B 36   12 B7 68 DC 9A 71 65 96  7......6..h..qe.
+0010: D8 43 27 6A                                        .C'j
+]
+]
+
+

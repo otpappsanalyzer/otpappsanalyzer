@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Signer #1 certificate SHA-256 digest: 7718b4560b6b7cb1c52c9745c652760846a3bd057616746d16b20329c383ef86
+Signer #1 certificate SHA-1 digest: 9b1bfff3e063898656195fd2fec416cba40bd186
+Signer #1 certificate MD5 digest: 74f768ab213b6f2ae802e79789dd7abc
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: 118dfeb608329f6e2ddc71467cf8bb24c8fe34d370ed58cbe4f7ba65c434b9d0
+Signer #1 public key SHA-1 digest: f3ebb148d40a293a6c1f6f2ab54997eef17dab63
+Signer #1 public key MD5 digest: 51bba40f2ded0c5c660e546892113c33
+WARNING: JAR signer GOOGPLAY.RSA: JAR signature META-INF/GOOGPLAY.SF references unknown APK signature scheme ID: 3

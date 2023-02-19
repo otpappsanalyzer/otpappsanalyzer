@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: O=Seezam
+Issuer: O=Seezam
+Serial number: 55bf7281
+Valid from: Mon Aug 03 23:54:09 AEST 2015 until: Fri Jul 27 23:54:09 AEST 2040
+Certificate fingerprints:
+	 SHA1: DE:D2:B8:B7:9B:65:82:60:5F:58:9F:2B:2D:90:51:2E:D7:1C:F3:57
+	 SHA256: ED:80:3E:BE:1D:F3:A4:AB:1A:CF:81:AE:1B:E7:AD:C3:E0:59:E5:4B:CB:96:8E:D7:FF:ED:32:5B:E7:D9:2C:29
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Unknown, OU=Unknown, O=BankMisr, L=Cairo, ST=Unknown, C=EG
+Issuer: CN=Unknown, OU=Unknown, O=BankMisr, L=Cairo, ST=Unknown, C=EG
+Serial number: 15827474
+Valid from: Sun Jun 16 22:12:30 AEST 2019 until: Thu Nov 01 23:12:30 AEDT 2046
+Certificate fingerprints:
+	 SHA1: 07:A0:EB:6B:B5:E0:3C:A3:EC:C6:EE:A7:29:71:CE:82:F4:1E:08:FE
+	 SHA256: 5B:ED:5D:7D:C4:BC:95:FD:86:66:AD:A1:83:18:B3:24:6E:95:DD:26:9E:D2:FE:9A:53:F8:A2:80:56:73:53:9C
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4D 25 4D 8B 12 42 FC 97   94 12 DB CA 0A D7 6F 8E  M%M..B........o.
+0010: 2C A7 BA DE                                        ,...
+]
+]
+
+

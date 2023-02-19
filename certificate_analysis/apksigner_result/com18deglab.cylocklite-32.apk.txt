@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: OU=Development, O=18 Degrees Lab PTE LTD, L=Singapore, ST=Singapore, C=65
+Signer #1 certificate SHA-256 digest: 19526c33fcf2dbe7c2d9bdff2bbe1ae12903421196300bc4ae47423e9da1d676
+Signer #1 certificate SHA-1 digest: bf8955bd0066f684730bad291c924adb8a176b96
+Signer #1 certificate MD5 digest: 9d5282704629c768a29e847fc436038e
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 27c1c9bd0b2312d439446ba7386f663111393650209654b82271968761e81e25
+Signer #1 public key SHA-1 digest: a992c6a8eaa5a1f80b593aa515a1c95334e60499
+Signer #1 public key MD5 digest: 23bf3828e967328273e0d0609915ff22

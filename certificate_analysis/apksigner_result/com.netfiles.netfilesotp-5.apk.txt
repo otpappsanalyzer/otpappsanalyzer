@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Max-Joseph Krempl, OU=Mobile Development, O=netfiles GmbH, L=Burghausen, ST=Bayern, C=DE
+Signer #1 certificate SHA-256 digest: 0b052ace7fd493d0a6bc35ca92492d778fa258207079e22127d4449e3a6ac8e5
+Signer #1 certificate SHA-1 digest: d891d41950f446d50d8d81e94046b32f566d6419
+Signer #1 certificate MD5 digest: 36b376cc9ff1c8ca6412cc3c80b3cbda
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 2f2109c91f5eaa0da18501e175ffe9e187f4cfe3bec602ba95fa30ab2a5b82f7
+Signer #1 public key SHA-1 digest: ba828710cc5bca856feeb650404d47bc1b4ba365
+Signer #1 public key MD5 digest: 797effc2161e873d7849012ec2614770

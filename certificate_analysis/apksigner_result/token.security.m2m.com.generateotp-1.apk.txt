@@ -1,0 +1,16 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=MAUBANK, OU=SI, O=MAUBANK, L=EBENE, C=MU
+Signer #1 certificate SHA-256 digest: 95f0647eb64821f484dbf70de7f93df58bc5573ab3f7958255ad317240274c73
+Signer #1 certificate SHA-1 digest: 6532c71cc7de79319f06f0e6b0b0a44bd3a0e125
+Signer #1 certificate MD5 digest: 48d357059871053c7ec2aa399ab136b2
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: d5c71f9c0d23d6c53caddf4d6890993910d3e232d966d3746f0e3264aa9eb4ea
+Signer #1 public key SHA-1 digest: 8895e5bf0612fce60ae275054af04669b86b2ded
+Signer #1 public key MD5 digest: 09119644ee4baaaaf4ea1cac0184131d
+WARNING: META-INF/DEPENDENCIES not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/LICENSE not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/services/org.xmlpull.v1.XmlPullParserFactory not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

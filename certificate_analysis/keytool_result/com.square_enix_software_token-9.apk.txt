@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=square_enix, OU=square_enix, O=square_enix, L=tokyo, ST=tokyo, C=jp
+Issuer: CN=square_enix, OU=square_enix, O=square_enix, L=tokyo, ST=tokyo, C=jp
+Serial number: 4f6fd62b
+Valid from: Mon Mar 26 13:36:27 AEDT 2012 until: Fri Aug 12 12:36:27 AEST 2039
+Certificate fingerprints:
+	 SHA1: 1B:30:9B:16:3C:25:A5:AF:2A:02:A2:65:D4:3A:4C:DE:81:FB:A0:68
+	 SHA256: 3D:3B:05:59:CB:84:11:AE:A8:27:CD:00:64:55:BF:D9:22:CD:98:5C:53:88:0B:09:0F:FB:C4:1A:5F:7E:42:E3
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

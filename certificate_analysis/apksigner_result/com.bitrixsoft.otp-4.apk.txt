@@ -1,0 +1,15 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Yury Tushinsky, OU=Bitrix, O=Bitrix, L=Kaliningrad, C=ru
+Signer #1 certificate SHA-256 digest: 4a0ad74d0ba4606aa2a32580599bdb576afdc96eaca41bedc9d60b8e7325f25c
+Signer #1 certificate SHA-1 digest: 2af8ed1dce3b599defec4b870834cb423c479839
+Signer #1 certificate MD5 digest: 477ee7471c50af7a5aa4e4e1c3c538df
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: faab09ceef40f78638c1e853caf99b97f16580bbcede78b265894f33d52b7969
+Signer #1 public key SHA-1 digest: 2a57ab6d13ec76d9271ed40127cfab42969c6b0c
+Signer #1 public key MD5 digest: 33017831a7a9ad098fb6cfec25b8f066
+WARNING: META-INF/LICENSE.txt not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.
+WARNING: META-INF/NOTICE.txt not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

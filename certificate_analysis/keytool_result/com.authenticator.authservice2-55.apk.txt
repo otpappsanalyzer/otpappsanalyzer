@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=AppyFactor, OU=AppyFactor, O=AppyFactor, L=Delhi, ST=Delhi, C=IN
+Issuer: CN=AppyFactor, OU=AppyFactor, O=AppyFactor, L=Delhi, ST=Delhi, C=IN
+Serial number: 216a0d4a
+Valid from: Fri Apr 27 23:08:34 AEST 2018 until: Tue Apr 21 23:08:34 AEST 2043
+Certificate fingerprints:
+	 SHA1: 37:29:0F:55:79:98:57:E9:E7:65:85:AD:66:F3:9A:F1:5A:32:2A:A7
+	 SHA256: A4:DF:E5:77:F9:71:4C:52:84:A3:10:13:95:FF:25:F4:BE:2F:6B:8C:15:86:88:90:D2:3F:90:88:94:87:8A:67
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 8B F7 E4 79 61 54 92 98   27 84 4B CA B2 D6 4E 4D  ...yaT..'.K...NM
+0010: 4E BB 3F 59                                        N.?Y
+]
+]
+
+

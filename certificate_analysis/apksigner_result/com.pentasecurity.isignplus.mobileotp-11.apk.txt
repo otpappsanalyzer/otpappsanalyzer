@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=kang, O=pentasecurity
+Signer #1 certificate SHA-256 digest: 8d585c80aa5e4aa75b3d089cacb103e5c3b9d4055f804517614d0cf542c38180
+Signer #1 certificate SHA-1 digest: 3f7e25bf07d63eac0e82dfe2dba49d2b7d9ef46e
+Signer #1 certificate MD5 digest: e0c3c7c98942f5d25b6abfc5dd9f2391
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 7e25336b8cc460f260c0e68f0ccc00274eed7fdd5221f1665d57a0c60e738b1c
+Signer #1 public key SHA-1 digest: 72609a2092e0e0c98e6658d870740c88cb0ef376
+Signer #1 public key MD5 digest: 5bd32d85cb73882d5d13233bc34bf77d
+WARNING: META-INF/rxjava.properties not protected by signature. Unauthorized modifications to this JAR entry will not be detected. Delete or move the entry outside of META-INF/.

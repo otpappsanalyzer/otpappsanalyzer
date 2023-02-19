@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Chinh Do, OU=PTUD, O=OCB, L=HCM, ST=HCM, C=VN
+Issuer: CN=Chinh Do, OU=PTUD, O=OCB, L=HCM, ST=HCM, C=VN
+Serial number: 4f609acd
+Valid from: Fri Jan 04 17:30:59 AEDT 2019 until: Tue May 22 16:30:59 AEST 2046
+Certificate fingerprints:
+	 SHA1: 1C:A9:ED:56:A7:EB:35:39:83:A0:AE:EF:1A:C4:A5:96:26:FE:1E:A9
+	 SHA256: 6E:FD:E9:6A:5F:4A:BE:30:84:EB:58:B4:95:60:46:66:E9:59:0D:31:E5:F8:BE:19:30:6D:8D:B0:5B:FB:D2:FA
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 45 2B 12 7F 99 DC D6 D6   84 32 2A AF 73 41 D8 AC  E+.......2*.sA..
+0010: 4C 88 03 2E                                        L...
+]
+]
+
+

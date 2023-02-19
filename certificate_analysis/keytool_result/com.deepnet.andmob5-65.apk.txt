@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Mingfa Ma, OU=NanoArt, O=Deepnet Security, L=Milton Keynes, ST=Bucks, C=GB
+Issuer: CN=Mingfa Ma, OU=NanoArt, O=Deepnet Security, L=Milton Keynes, ST=Bucks, C=GB
+Serial number: 4d48545c
+Valid from: Wed Feb 02 05:43:40 AEDT 2011 until: Fri Jan 09 05:43:40 AEDT 2111
+Certificate fingerprints:
+	 SHA1: 37:63:72:47:A8:D3:F9:A5:D9:35:99:AD:A6:B9:01:7C:AD:04:3D:B1
+	 SHA256: 4F:9B:3E:32:54:54:3D:4C:C0:19:B4:46:A5:D5:32:AB:D6:C4:B7:85:97:73:D9:93:A5:AA:94:B1:72:41:B5:E3
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

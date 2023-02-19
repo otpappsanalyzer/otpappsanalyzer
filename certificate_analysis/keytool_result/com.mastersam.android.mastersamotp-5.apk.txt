@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Silverlake MasterSAM
+Issuer: CN=Silverlake MasterSAM
+Serial number: 1f992c4e
+Valid from: Thu Nov 10 16:10:47 AEDT 2016 until: Mon Nov 04 16:10:47 AEDT 2041
+Certificate fingerprints:
+	 SHA1: 54:49:12:31:EB:A8:D4:AD:FF:1D:8A:81:33:37:AE:62:92:1A:11:14
+	 SHA256: 6B:79:C6:CF:6B:38:D9:FD:A7:9A:D6:A7:93:7E:C7:B8:37:54:12:14:8C:6F:8E:A6:E0:1D:B0:32:93:BF:7B:D1
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 02 05 C6 85 28 89 46 51   E9 F4 F6 85 A7 0A 16 2A  ....(.FQ.......*
+0010: BA B7 71 CC                                        ..q.
+]
+]
+
+

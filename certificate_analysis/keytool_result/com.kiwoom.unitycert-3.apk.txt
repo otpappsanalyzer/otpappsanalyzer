@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Kiwoom, OU=MTS, O=Kiwoom Securities Co., L=Seoul, C=Korea
+Issuer: CN=Kiwoom, OU=MTS, O=Kiwoom Securities Co., L=Seoul, C=Korea
+Serial number: 4c7107d3
+Valid from: Sun Aug 22 21:19:47 AEST 2010 until: Sat Dec 23 22:19:47 AEDT 3009
+Certificate fingerprints:
+	 SHA1: EF:EF:F8:31:77:5E:27:04:EC:0E:A9:47:2F:A0:91:94:E2:99:FD:B7
+	 SHA256: 89:2A:F0:50:EC:10:C4:96:E5:40:01:05:E2:55:BA:82:B8:FE:40:6B:02:A3:75:FD:5C:EE:FC:1B:9A:B4:DD:0C
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

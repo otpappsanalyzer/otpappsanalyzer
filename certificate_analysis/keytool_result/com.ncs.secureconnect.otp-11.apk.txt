@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=otp, OU=ncs, O=ncs, L=Singapore, ST=Singapore, C=SG
+Issuer: CN=otp, OU=ncs, O=ncs, L=Singapore, ST=Singapore, C=SG
+Serial number: 523b7902
+Valid from: Fri Apr 21 11:51:43 AEST 2017 until: Sat Mar 28 12:51:43 AEDT 2116
+Certificate fingerprints:
+	 SHA1: AE:F8:AE:F0:FA:79:70:64:E4:29:5F:56:63:9A:8A:AF:4C:A6:D5:11
+	 SHA256: CA:E8:33:33:0E:1C:3D:62:97:21:C8:A2:4E:3C:4C:59:CB:89:59:BC:38:07:B2:F0:F3:D7:32:EA:9B:58:E2:65
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: AA 21 5F 90 8E CA 8D 68   1B C2 6E 09 C6 6A FF 0B  .!_....h..n..j..
+0010: AA EA B4 37                                        ...7
+]
+]
+
+

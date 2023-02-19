@@ -6,6 +6,8 @@ import os
 
 
 decomp_path = '/media/budi/Seagate Expansion Drive/OTP_project/decompiled_app/'
+# The path above is the path for decompiled OTP apps, we cannot put the apps and the decompiled file in the github due to the size
+# Contact to the author after the paper published for the apps 
 app_list = '/home/budi/OTP_project/OTP_code/metadata/csv_apk_id.csv'
 report_path = '/home/budi/OTP_project/OTP_code/exported_component/'
 

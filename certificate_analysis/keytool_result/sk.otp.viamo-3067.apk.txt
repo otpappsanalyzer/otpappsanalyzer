@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Juraj Jurci, O=ZENTITY Slovakia s. r. o., L=Bratislava, ST=Slovakia
+Issuer: CN=Juraj Jurci, O=ZENTITY Slovakia s. r. o., L=Bratislava, ST=Slovakia
+Serial number: 9f18533
+Valid from: Thu Apr 11 17:50:40 AEST 2019 until: Sat Mar 18 18:50:40 AEDT 2119
+Certificate fingerprints:
+	 SHA1: BC:F8:E5:4E:5B:59:B8:C7:AF:A3:19:0A:3C:B4:C6:00:D0:C6:95:6D
+	 SHA256: 5C:61:3A:FC:E9:3E:63:39:1D:B8:F7:D1:C7:E8:C9:85:33:D4:9D:A7:F1:87:A4:BD:CF:CF:3D:B4:D2:06:9A:A0
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3D CD 7F CF F7 E4 9A B6   67 B4 2E 89 B6 DF AA 17  =.......g.......
+0010: D7 DE B1 C5                                        ....
+]
+]
+
+

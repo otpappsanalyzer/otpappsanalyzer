@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=ARCOS OTP, OU=ARCON, O=ARCON, L=MUM, ST=MH, C=IN
+Issuer: CN=ARCOS OTP, OU=ARCON, O=ARCON, L=MUM, ST=MH, C=IN
+Serial number: 3dd45771
+Valid from: Mon Feb 11 15:52:13 AEDT 2019 until: Fri Feb 05 15:52:13 AEDT 2044
+Certificate fingerprints:
+	 SHA1: 99:E4:1A:AE:9E:02:6D:0A:92:E2:83:57:1B:57:55:46:79:03:42:0C
+	 SHA256: 6D:E1:8F:FB:95:3D:4E:05:A6:0D:76:C6:C5:42:28:C1:22:BF:44:FD:DB:CA:FF:5E:49:4D:BE:68:4E:E9:60:82
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 30 B6 75 56 16 0A D8 26   81 77 98 CB 5E DA 16 56  0.uV...&.w..^..V
+0010: F8 1A 3A C2                                        ..:.
+]
+]
+
+

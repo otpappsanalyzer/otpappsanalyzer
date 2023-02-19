@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Yury Tushinsky, OU=Bitrix, O=Bitrix, L=Kaliningrad, C=ru
+Issuer: CN=Yury Tushinsky, OU=Bitrix, O=Bitrix, L=Kaliningrad, C=ru
+Serial number: 4d78acaf
+Valid from: Thu Mar 10 21:49:19 AEDT 2011 until: Mon Mar 03 21:49:19 AEDT 2036
+Certificate fingerprints:
+	 SHA1: 2A:F8:ED:1D:CE:3B:59:9D:EF:EC:4B:87:08:34:CB:42:3C:47:98:39
+	 SHA256: 4A:0A:D7:4D:0B:A4:60:6A:A2:A3:25:80:59:9B:DB:57:6A:FD:C9:6E:AC:A4:1B:ED:C9:D6:0B:8E:73:25:F2:5C
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

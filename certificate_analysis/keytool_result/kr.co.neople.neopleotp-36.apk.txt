@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=neople, O=neople, L=seoul, C=ko
+Issuer: CN=neople, O=neople, L=seoul, C=ko
+Serial number: 51ac0118
+Valid from: Mon Jun 03 12:36:08 AEST 2013 until: Wed May 27 12:36:08 AEST 2043
+Certificate fingerprints:
+	 SHA1: 47:69:12:C3:13:7C:78:2D:3C:E3:92:19:78:CB:77:89:56:36:9D:15
+	 SHA256: 4C:43:F0:C4:C3:25:15:C7:E9:64:CD:56:95:8E:73:C9:BA:69:50:01:AA:03:E7:37:EC:48:64:33:7D:F2:CE:EC
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

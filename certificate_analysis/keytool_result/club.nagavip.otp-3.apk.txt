@@ -1,0 +1,24 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Issuer: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Serial number: d8cb3b4947c34bc6ad423904cd5c1f04f0f30f42
+Valid from: Thu Nov 21 00:39:53 AEDT 2019 until: Sun Nov 21 00:39:53 AEDT 2049
+Certificate fingerprints:
+	 SHA1: 7D:22:14:B8:56:02:EE:CA:24:00:CF:F6:51:EB:17:B9:BF:F3:F1:B0
+	 SHA256: 5F:18:D8:C7:38:50:1B:FA:5D:8D:38:58:01:E8:3D:F0:B7:2D:33:B7:6A:6C:BD:A4:65:20:4E:7F:BA:84:2E:16
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+

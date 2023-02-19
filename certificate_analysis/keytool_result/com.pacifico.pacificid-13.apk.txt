@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Banco Pacífico
+Issuer: CN=Banco Pacífico
+Serial number: 74cd0468
+Valid from: Fri Nov 06 07:35:52 AEDT 2015 until: Thu Mar 09 07:35:52 AEDT 3015
+Certificate fingerprints:
+	 SHA1: 5F:84:0C:E0:D5:0E:A2:8A:62:B9:80:7D:CA:C1:9B:B7:FA:2B:E2:C7
+	 SHA256: 0B:60:DE:D9:FC:FA:F8:D8:6B:E5:18:00:52:EB:DB:45:2D:DB:3D:52:87:2F:F9:38:06:17:5E:FE:60:CF:D8:79
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9B 6B BD EC DE 04 18 62   86 71 32 05 41 8D 1B 5F  .k.....b.q2.A.._
+0010: 9A BC 82 7F                                        ....
+]
+]
+
+

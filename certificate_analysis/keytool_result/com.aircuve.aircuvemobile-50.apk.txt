@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=aircuve
+Issuer: CN=aircuve
+Serial number: 385cf83
+Valid from: Wed Oct 26 12:40:45 AEDT 2016 until: Thu Oct 14 12:40:45 AEDT 2066
+Certificate fingerprints:
+	 SHA1: AC:00:21:3B:FF:C6:7D:65:30:AF:C5:6B:F9:8A:76:7A:0C:A4:0F:A3
+	 SHA256: 4C:A7:F3:D4:CD:89:CF:AD:A8:71:D6:7A:B9:94:A4:6C:9A:DE:05:59:41:90:28:A6:82:57:43:92:25:8F:6A:CD
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: FE 94 6B DC 58 88 18 3A   D5 54 38 41 86 A2 5C 9E  ..k.X..:.T8A..\.
+0010: 84 EF D2 B2                                        ....
+]
+]
+
+

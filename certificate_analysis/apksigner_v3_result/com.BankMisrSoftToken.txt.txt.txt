@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Unknown, OU=Unknown, O=BankMisr, L=Cairo, ST=Unknown, C=EG
+Signer #1 certificate SHA-256 digest: 5bed5d7dc4bc95fd8666ada18318b3246e95dd269ed2fe9a53f8a2805673539c
+Signer #1 certificate SHA-1 digest: 07a0eb6bb5e03ca3ecc6eea72971ce82f41e08fe
+Signer #1 certificate MD5 digest: 3e921cdb05de09b67321ea6706f5aee5
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 5683f0d991871183dd50bbc237a6dd2a093f1065dd695a69c182ab1b28541e64
+Signer #1 public key SHA-1 digest: d2a36de88a44039cd9ad94c93a5950139e4c9255
+Signer #1 public key MD5 digest: 2862d395746e18975aeca28663fe6b87

@@ -1,0 +1,13 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=otp, OU=ncs, O=ncs, L=Singapore, ST=Singapore, C=SG
+Signer #1 certificate SHA-256 digest: cae833330e1c3d629721c8a24e3c4c59cb8959bc3807b2f0f3d732ea9b58e265
+Signer #1 certificate SHA-1 digest: aef8aef0fa797064e4295f56639a8aaf4ca6d511
+Signer #1 certificate MD5 digest: db6272b54f57594c0db5ab16e73bb2c4
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: b5aa785339459f3d813e84c6515e9c5d2a54cc726087e72a72c01fa7a74127f3
+Signer #1 public key SHA-1 digest: 640089f998a44e065304d11db66f4794d1992dba
+Signer #1 public key MD5 digest: ffa60fb4e7e427547ff24b12837fa657

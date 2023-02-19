@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=SGN, OU=SGN, O=SGN, L=Seoul, C=82
+Issuer: CN=SGN, OU=SGN, O=SGN, L=Seoul, C=82
+Serial number: 5f912fac
+Valid from: Thu Jan 16 11:32:48 AEDT 2014 until: Mon Jan 10 11:32:48 AEDT 2039
+Certificate fingerprints:
+	 SHA1: 2A:5A:57:44:7C:4F:23:ED:89:80:A9:CA:B4:C0:7B:5D:9B:CE:B6:22
+	 SHA256: 02:45:B3:12:9E:50:FD:A3:FF:7C:D1:34:80:C7:04:73:9D:33:A7:F9:85:69:31:B8:0E:7B:BD:6C:84:96:1C:C7
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 31 13 F1 0D 20 1C ED 4F   AC 6E D4 D2 DA CB 9E 5B  1... ..O.n.....[
+0010: E8 CF 99 29                                        ...)
+]
+]
+
+

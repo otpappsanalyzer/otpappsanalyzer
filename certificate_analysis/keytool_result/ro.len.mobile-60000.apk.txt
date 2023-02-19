@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Marilen Corciovei, L=Bucharest, C=RO
+Issuer: CN=Marilen Corciovei, L=Bucharest, C=RO
+Serial number: 4f08ce00
+Valid from: Sun Jan 08 09:58:08 AEDT 2012 until: Thu Jan 01 09:58:08 AEDT 2037
+Certificate fingerprints:
+	 SHA1: E1:5C:A0:0B:AC:1D:3A:53:D3:F6:D8:2F:A2:0C:CE:9A:52:E5:BE:99
+	 SHA256: 69:3E:DF:DD:CD:11:90:07:AB:A9:29:18:E5:8E:21:61:0A:91:AF:4C:2E:B6:7C:5B:84:CB:68:80:5E:47:40:FF
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+

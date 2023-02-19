@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Number of signers: 1
+Signer #1 certificate DN: CN=Speshe Auth, OU=Android App, O=Worktable, L=Singapore, ST=Singapore, C=SG
+Signer #1 certificate SHA-256 digest: 531dfb01e7211d539ec453e6791afc321339fc72edcaef4ee472ab74660e8265
+Signer #1 certificate SHA-1 digest: 5fd168f631fe1780aa9ad53400c239827245a523
+Signer #1 certificate MD5 digest: 920527bf0a501c55fc3cddb539d95844
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 58b0726679c1a4423300fa224713616ddf4a301a931014e45abe577a4d23efbd
+Signer #1 public key SHA-1 digest: 6c366dab55e01548d911bc94c2542eb891b4cd6a
+Signer #1 public key MD5 digest: f50986e7765d2634896e37b44626f245
+WARNING: APK Signature Scheme v2 signer #1: Unknown signature algorithm: 0x421

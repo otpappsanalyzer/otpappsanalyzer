@@ -1,0 +1,26 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Constantinos Eliodorou, OU=IT UNIT, O=CDBBANK, L=Nicosia, ST=Nicosia, C=CY
+Issuer: CN=Constantinos Eliodorou, OU=IT UNIT, O=CDBBANK, L=Nicosia, ST=Nicosia, C=CY
+Serial number: 4d7425ae
+Valid from: Sat Mar 05 02:05:39 AEDT 2016 until: Wed Jul 22 01:05:39 AEST 2043
+Certificate fingerprints:
+	 SHA1: D6:51:38:49:AE:5B:7A:44:81:95:D1:12:AE:8F:C2:FC:94:0B:75:75
+	 SHA256: 32:D2:A1:6F:F0:68:54:00:0E:0B:CE:E5:62:CB:46:CD:A6:42:30:75:3A:EE:2E:DA:77:7F:45:90:E6:3F:24:DF
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 67 AB D3 1A C4 01 F3 9F   C7 9D D3 C1 CC 54 F3 11  g............T..
+0010: 0F 36 7D C2                                        .6..
+]
+]
+
+

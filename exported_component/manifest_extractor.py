@@ -1,7 +1,5 @@
 from xml.dom.minidom import parseString
 
-base_path = '/media/budi/Seagate Expansion Drive/crypto_project/decompiled_apps/ab.cryptocurrency/AndroidManifest.xml'
-# base_path = '/home/budi/crypto_project/sandbox/adblocker.lite.browser/AndroidManifest.xml'
 
 """Find Permission"""
 def permission_ex (manifest_path): 
@@ -170,63 +168,8 @@ def intent_action_ex(manifest_path):
     return intent_action_list
 
 def main():
-    perms = permission_ex(base_path)
     print('Permission List')
-    for x in perms:
-        print(x)
 
-    activities = activity_ex(base_path)
-    # print('Activity List')
-    # for activity in activities:
-    #     print(activity)
-
-    receivers = receiver_ex(base_path)
-    # print('Receiver List')
-    # for receiver in receivers:
-    #     print(receiver)
-
-    services = service_ex(base_path)
-    # print('Service List')
-    # for service in services:
-    #     print(service)
-
-    providers = provider_ex(base_path)
-    # print('Provider List')
-    # for provider in providers:
-    #     print(provider)
-
-    main_activity = main_activity_ex(base_path)
-    # print('Main Activity')
-    # print(main_activity)
-
-    exported_activities = exported_activity_ex(base_path)
-    # print('Exported Activity List')
-    # for activity in exported_activities:
-    #     print(activity)
-
-    exported_services = exported_service_ex(base_path)
-    # print('Exported Service List')
-    # for service in exported_services:
-    #     print(service)
-
-    exported_receivers = exported_receiver_ex(base_path)
-    # print('Exported Receiver List')
-    # for receiver in exported_receivers:
-    #     print(receiver)
-
-    exported_providers = exported_provider_ex(base_path)
-    # print('Exported Provider List')
-    # for provider in exported_providers:
-    #     print(provider)
-
-    package_name = package_name_ex(base_path)
-    # print('Package Name :')
-    # print(package_name)
-
-    intent_action = intent_action_ex(base_path)
-    # print('Intent Filter with Action :')
-    # for item in intent_action:
-    #     print (item['activity'], item['action'])
 
 if __name__ == "__main__":
     main()

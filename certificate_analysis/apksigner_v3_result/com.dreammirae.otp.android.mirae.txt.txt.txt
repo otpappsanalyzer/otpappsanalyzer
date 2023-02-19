@@ -1,0 +1,14 @@
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Mirae, O=dev, L=seoul, C=ko
+Signer #1 certificate SHA-256 digest: 9a316c6745060cdd78496919349e551c790242274c108a50bc4ba5673f287355
+Signer #1 certificate SHA-1 digest: cd862acc81fae61370caf9322498ed0515ad4b8a
+Signer #1 certificate MD5 digest: 49677185f06f51ad413b0227af24e2a2
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 1024
+Signer #1 public key SHA-256 digest: 9093eeb2f800bbb5f2bd384b7540209e62ac8d69ab714ebf547458857c95a28d
+Signer #1 public key SHA-1 digest: 7fe962efb75d5e4376a678eeeb91eed3be8e73c2
+Signer #1 public key MD5 digest: d504e5fcb390117314ae7c418e45c213

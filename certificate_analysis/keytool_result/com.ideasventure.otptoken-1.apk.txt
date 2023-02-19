@@ -1,0 +1,15 @@
+Signer #1:
+
+Signature:
+
+Owner: CN=Hung
+Issuer: CN=Hung
+Serial number: 503af518
+Valid from: Mon Aug 27 14:18:32 AEST 2012 until: Tue Aug 15 14:18:32 AEST 2062
+Certificate fingerprints:
+	 SHA1: 78:3F:5B:B1:A5:F6:E2:33:9A:09:A6:65:49:64:EB:D1:13:DB:0D:FC
+	 SHA256: AF:45:C4:CE:0F:36:98:11:AB:E8:C1:33:74:33:20:72:81:0C:A1:BE:91:A3:3A:16:7E:6E:B0:AB:E0:30:09:30
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 1024-bit RSA key (weak)
+Version: 3
+
