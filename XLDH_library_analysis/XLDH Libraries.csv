@@ -1,0 +1,43 @@
+XLDH Library Name,,# App Numbers,,# of downloads,,Exfiltrated data,,Exfiltration endpoints
+com.yandex.metrica,,8014,,2B+,,"Google Advertising id, Android id",,https://startup.mobile.yandex.net
+com.inmobi,,4283,,4B+,,Google activity,,https://sdkm.w.inmobi.com/user/e.asm
+com.appsgeyser,,4202,,15M+,,"Google Advertising id, Android id, IMEI, Mac Address",,https://ads.aerserv.com/as/sdk/v3/
+com.oneaudience,,1738,,100M+,,"Facebook id, name, gender, email, link, Twitter user data",,https://api.oneaudience.com/api/devices
+cn.sharesdk,,815,,191M+,,Bytedance,,http://api.share.mob.com/log4
+com.umeng.socialize,,495,,175M+,,Facebook/Twitter/Dropbox/Kakao/Yixin/Wechat/QQ/Sina/Alipay/Laiwang/Vk/Line/Linkedin’s AccessToken and user data (ID/name/link/photo),,http://plbslog.umeng.com/umpx\_share
+com.revmob,,340,,36M+,,Facebook AccessToken,,https://android.revmob.com
+ru.mail,,299,,100M+,,"Google Advertising id, mac address, android id, imei",,
+com.ad4screen,,245,,138M+,,"Facebook appid, AccessToken",,http://api.ad4s.local
+com.devtodev,,231,,318M+,,"Facebook user gender, birtbday",,https://balancer.devtodev.com/web)
+com.mobileapptracker,,225,,495M+,,"Google Advertising id， android id, mac address",,https://engine.mobileapptracking.com
+com.jiubang,,212,,97M+,,"Google Advertising id, android id",,
+com.appfireworks,,205,,36M+,,"goole id, android id",,http://api.appfireworks.com/t/
+de.spring,,179,,22M+,,"Google Advertising id, andorid id, imei",,https://qs-app.oewabox.at/do/nextcheck.json
+com.mobileroadie,,175,,1M+,,"Facebook id, name, image; twitter id, name, image",,https://mobileroadie.com/
+com.fusepowered,,111,,57M+,,"Google Activity Recognition, Google Advertising id, android id",,
+com.leanplum,,108,,437M+,,"Google Advertising id, android id, mac address",,
+io.radar,,107,,73M+,,"Facebook id, places",,https://api.radar.io/
+com.mologiq,,106,,32M+,,"Google Advertising id, android id, mac addrss",,
+com.buongiorno.newton,,52,,1M+,,Facebook accesstoken,,https://auth-api.newton.pm/
+co.ravesocial,,50,,57M+,,"Facebook id, places",,https://client.rave-api.com
+com.fgl,,37,,607K+,,"Google Advertising id, android id, mac address, imei",,https://ads.heyzap.com
+com.apprupt,,37,,5K+,,"Google Advertising id，andorid id, mac address, imei",,http://cv.apprupt.com
+com.adience,,36,,304M+,,"Google Advertising id,Facebook",,http://frwrd.me/sdkserver
+com.kongregate,,35,,58M+,,"Facebook， Google Advertising id, mac address, imei, adroid id",,send to crash report
+de.interrogare,,32,,23M+,,"Google Advertising id, android id, imei, mac address",,
+com.valuepotion,,32,,10M+,,"Google Advertising id, android id, imei",,https://analytics.valuepotion.com
+com.AdX,,32,,112M+,,"Google Advertising id，imei, mac address.android id",,https://apps.ad-x.co.uk
+com.openback,,26,,12M+,,Google activity,,https://openbackdemo.queue.core.windows.net
+com.aloompa,,23,,74M+,,"Facebook id, accesstoken, Google Advertising id, android id",,https://services.festapp.com/api/
+com.appflood,,22,,693K+,,"Google Advertising id, mac address, android id",,
+com.estmob,,17,,7M+,,"Google Advertising id, android id, mac address",,https://partner.samsungcloud.com/register
+mobi.pushapps,,14,,890K+,,"Google Advertising id, imei",,
+on.radar,,10,,63K+,,"Facebook id, places",,https://api.radio.io/v1/user
+dotmetrics.analytics,,9,,381K+,,"Google Advertising id, android id, mac address",,
+com.appszoom,,9,,504K+,,"Google Advertising id, android id",,http://www.appszoom.com/
+ru.wapstart,,8,,1M+,,"Facebook id, Twitter id",,https://ro.plus1.wapstart.ru
+io.teak,,8,,73M+,,Facebook,,https://logs.gocarrot.com/dev.sdk.log
+com.mobiburn,,7,,5M+,,"Facebook user data, id, name, gender, email, link",,based on server config
+com.appvirality,,5,,11M+,,"Google Advertising id, android id",,https://api.appvirality.com/
+co.adcel,,4,,11K+,,"Google Advertising id, imei, mac address, andorid id",,https://rtb.adcel.co
+com.redsdk,,4,,31M+,,"Google Advertising id, IMEI",,

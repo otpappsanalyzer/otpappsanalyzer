@@ -1,0 +1,12 @@
+API/System Call Flag & Total & Detection & \# of Apps \\ 
+Os.stat & 126 & (+) & 14(11.11\%)  \\ 
+Os.stat & 126 & (-) & 112(88.89\%)  \\ 
+PackageManager.getPackageInfo & 166 & (+) & 23(13.86\%)  \\ 
+PackageManager.getPackageInfo & 166 & (-) & 143(86.14\%)  \\ 
+RootBeer.isRooted & 11 & (+) & 2(18.18\%)  \\ 
+RootBeer.isRooted & 11 & (-) & 9(81.82\%)  \\ 
+RootTools & 3 & (+) & 1(33.33\%)  \\ 
+RootTools & 3 & (-) & 2(66.67\%)  \\ 
+Runtime.exec & 72 & (+) & 23(31.94\%)  \\ 
+Runtime.exec & 72 & (-) & 49(68.06\%)  \\ 
+SafetyNet.getClient & 7 & (-) & 7(100.0\%)  \\ 

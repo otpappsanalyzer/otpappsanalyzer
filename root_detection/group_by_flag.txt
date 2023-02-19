@@ -1,0 +1,13 @@
+BiometricManager() & 20 (10.99 %) \\ 
+BiometricPrompt() & 23 (12.64 %) \\ 
+FingerprintManager() & 132 (72.53 %) \\ 
+KeyStore.getInstance() & 107 (58.79 %) \\ 
+Os.stat() & 126 (69.23 %) \\ 
+PackageManager.getPackageInfo() & 166 (91.21 %) \\ 
+RootBeer.isRooted() & 11 (6.04 %) \\ 
+RootTools() & 3 (1.65 %) \\ 
+Runtime.exec() & 72 (39.56 %) \\ 
+SafetyNet.getClient() & 7 (3.85 %) \\ 
+SafetyNetApi() & 10 (5.49 %) \\ 
+isInsideSecureHardware() & 17 (9.34 %) \\ 
+isStrongBoxBacked() & 1 (0.55 %) \\ 

@@ -1,0 +1,22 @@
+Lib_name & Lib_type & \# of Apps(\%) \\ 
+Google Ads & ads  & 54(29.7\%) \\ 
+Squareup & Payment  & 24(13.2\%) \\ 
+Facebook & social_media  & 14(7.7\%) \\ 
+Google Analytics & Analytics  & 7(3.8\%) \\ 
+Tencent & ads  & 1(0.5\%) \\ 
+adjust & Analytics  & 1(0.5\%) \\ 
+------------------------------------------------------------- \\ 
+-------------------------------------------------------------\\ 
+this is for the classification with popular apps \\ 
+------------------------------------------------------------- \\ 
+Lib_name & Lib_type & Popular & \# of Apps(\%) \\ 
+Google Ads & ads & False  & 28(15.4\%) \\ 
+Google Ads & ads & True  & 26(14.3\%) \\ 
+Squareup & Payment & False  & 12(6.6\%) \\ 
+Squareup & Payment & True  & 12(6.6\%) \\ 
+Facebook & social_media & False  & 9(4.9\%) \\ 
+Facebook & social_media & True  & 5(2.7\%) \\ 
+Google Analytics & Analytics & True  & 5(2.7\%) \\ 
+Google Analytics & Analytics & False  & 2(1.1\%) \\ 
+Tencent & ads & False  & 1(0.5\%) \\ 
+adjust & Analytics & True  & 1(0.5\%) \\ 

@@ -1,0 +1,554 @@
+app_id,request_comp,name,value
+com.nof.makanoh.openkeypos,header,:authority,googleads.g.doubleclick.net
+com.nof.makanoh.openkeypos,header,upgrade-insecure-requests,1
+com.nof.makanoh.openkeypos,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36 (Mobile; afma-sdk-a-v201004000.201004000.0)"
+com.nof.makanoh.openkeypos,header,sec-fetch-user,?1
+com.nof.makanoh.openkeypos,header,accept,"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+com.nof.makanoh.openkeypos,header,x-requested-with,com.nof.makanoh.openkeypos
+com.nof.makanoh.openkeypos,header,sec-fetch-site,none
+com.nof.makanoh.openkeypos,header,sec-fetch-mode,navigate
+com.nof.makanoh.openkeypos,header,accept-encoding,"gzip, deflate"
+com.nof.makanoh.openkeypos,header,accept-language,"en-AU,en-US;q=0.9,en;q=0.8"
+com.authy.authy,header,:authority,firebase-settings.crashlytics.com
+com.authy.authy,header,cache-control,no-cache
+com.authy.authy,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+com.authy.authy,header,x-crashlytics-device-model,samsung/SM-A505YN
+com.authy.authy,header,x-crashlytics-installation-id,79be9653e437464d9842f73883085215
+com.authy.authy,header,x-crashlytics-os-display-version,10
+com.authy.authy,header,accept,application/json
+com.authy.authy,header,x-crashlytics-api-client-version,17.0.1
+com.authy.authy,header,user-agent,Crashlytics Android SDK/17.0.1
+com.authy.authy,header,x-crashlytics-api-client-type,android
+com.authy.authy,header,x-crashlytics-google-app-id,1:812227132821:android:a47d3941edd13d78
+com.authy.authy,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+com.authy.authy,header,accept-encoding,gzip
+com.authy.authy,queryString,instance,c1ccc4c6edd6e191ada74e4cec48241b464f71f2
+com.authy.authy,queryString,build_version,121
+com.authy.authy,queryString,display_version,24.3.7
+com.authy.authy,queryString,source,1
+com.dreammirae.otp.android.mirae.multiid.market,header,:authority,firebase-settings.crashlytics.com
+com.dreammirae.otp.android.mirae.multiid.market,header,cache-control,no-cache
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-device-model,samsung/SM-A505YN
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-installation-id,dc89fad1bca34a18bd70c6c1199635d0
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-os-display-version,10
+com.dreammirae.otp.android.mirae.multiid.market,header,accept,application/json
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-api-client-version,17.2.1
+com.dreammirae.otp.android.mirae.multiid.market,header,user-agent,Crashlytics Android SDK/17.2.1
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-api-client-type,android
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-google-app-id,1:287208951968:android:fc6effe541b2f047
+com.dreammirae.otp.android.mirae.multiid.market,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+com.dreammirae.otp.android.mirae.multiid.market,header,accept-encoding,gzip
+com.dreammirae.otp.android.mirae.multiid.market,queryString,instance,91dedc3feb98ff88c4b6f4644824b2bc46f5dad1
+com.dreammirae.otp.android.mirae.multiid.market,queryString,build_version,29
+com.dreammirae.otp.android.mirae.multiid.market,queryString,display_version,2.4.0
+com.dreammirae.otp.android.mirae.multiid.market,queryString,source,1
+hr.asseco.android.jimba.otpretailng,header,Content-Type,application/json
+hr.asseco.android.jimba.otpretailng,header,Connection,Close
+hr.asseco.android.jimba.otpretailng,header,Transfer-Encoding,chunked
+hr.asseco.android.jimba.otpretailng,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+hr.asseco.android.jimba.otpretailng,header,Host,mbanking.otpbanka.hr
+hr.asseco.android.jimba.otpretailng,header,Accept-Encoding,gzip
+com.inwebo.authenticator,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.inwebo.authenticator,header,Host,www.myinwebo.com
+com.inwebo.authenticator,header,Connection,Keep-Alive
+com.inwebo.authenticator,header,Accept-Encoding,gzip
+com.inwebo.authenticator,queryString,action,ActionSetup
+com.inwebo.authenticator,queryString,mode,activate
+com.inwebo.authenticator,queryString,id,
+com.inwebo.authenticator,queryString,macid,0
+com.inwebo.authenticator,queryString,lastsync,0
+com.inwebo.authenticator,queryString,version,Android_auth-4.3.2/0.2.16
+com.inwebo.authenticator,queryString,code,152855
+netinfo.eu.symantec,header,X-Android-Package,netinfo.eu.symantec
+netinfo.eu.symantec,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+netinfo.eu.symantec,header,Content-Type,application/x-protobuf
+netinfo.eu.symantec,header,Content-Encoding,gzip
+netinfo.eu.symantec,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+netinfo.eu.symantec,header,Host,mobilecrashreporting.googleapis.com
+netinfo.eu.symantec,header,Connection,Keep-Alive
+netinfo.eu.symantec,header,Accept-Encoding,gzip
+netinfo.eu.symantec,header,Content-Length,876
+netinfo.eu.symantec,queryString,key,AIzaSyB8OjfvJVonSO7W6M64oBrYbaC60JhhP-4
+netinfo.eu.symantec,queryString,alt,json
+hr.asseco.android.mtoken.ht.test,header,User-Agent,Android/samsung/SM-A505YN/a50/samsung/TAGS: release-keys/Android 29/Release 10/CD REL//
+hr.asseco.android.mtoken.ht.test,header,Accept-Encoding,identity
+hr.asseco.android.mtoken.ht.test,header,Host,mproxy.ht.hr
+hr.asseco.android.mtoken.ht.test,header,Connection,Keep-Alive
+hr.asseco.android.mtoken.ht.test,queryString,p,"QW5kcm9pZC9zYW1zdW5nL1NNLUE1MDVZTi9hNTAvc2Ftc3VuZy9BbmRyb2lkIDI5L1JlbGVhc2Ug
+MTAv"
+com.feelanet.artstrongid.sec,header,Content-Type,application/json; charset=utf-8
+com.feelanet.artstrongid.sec,header,Content-Length,829
+com.feelanet.artstrongid.sec,header,Host,mfa.secsso.net
+com.feelanet.artstrongid.sec,header,Connection,Keep-Alive
+com.feelanet.artstrongid.sec,header,Accept-Encoding,gzip
+com.feelanet.artstrongid.sec,header,User-Agent,okhttp/3.12.0
+com.bankofamerica.authenticator,header,Content-Type,application/x-www-form-urlencoded; charset=utf-8
+com.bankofamerica.authenticator,header,Accept,*/*
+com.bankofamerica.authenticator,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.bankofamerica.authenticator,header,Host,strongauth-sas-mobile.bankofamerica.com
+com.bankofamerica.authenticator,header,Connection,Keep-Alive
+com.bankofamerica.authenticator,header,Accept-Encoding,gzip
+com.bankofamerica.authenticator,header,Content-Length,83
+com.novoload.otp,header,Host,www.google.com
+com.novoload.otp,header,Connection,Keep-Alive
+com.bncr.detectid_otp,header,Content-Type,application/json
+com.bncr.detectid_otp,header,Accept,application/vnd.detectid.v6
+com.bncr.detectid_otp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.bncr.detectid_otp,header,Host,detect-id.bnonline.fi.cr
+com.bncr.detectid_otp,header,Connection,Keep-Alive
+com.bncr.detectid_otp,header,Accept-Encoding,gzip
+it.previnet.authenticator,header,:authority,firebase-settings.crashlytics.com
+it.previnet.authenticator,header,cache-control,no-cache
+it.previnet.authenticator,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+it.previnet.authenticator,header,x-crashlytics-device-model,samsung/SM-A505YN
+it.previnet.authenticator,header,x-crashlytics-installation-id,0b2f7297deca40f494700602fd1310db
+it.previnet.authenticator,header,x-crashlytics-os-display-version,10
+it.previnet.authenticator,header,accept,application/json
+it.previnet.authenticator,header,x-crashlytics-api-client-version,17.2.2
+it.previnet.authenticator,header,user-agent,Crashlytics Android SDK/17.2.2
+it.previnet.authenticator,header,x-crashlytics-api-client-type,android
+it.previnet.authenticator,header,x-crashlytics-google-app-id,1:187949772194:android:93ee7f5a0bfb8a9b
+it.previnet.authenticator,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+it.previnet.authenticator,header,accept-encoding,gzip
+it.previnet.authenticator,queryString,instance,7a76c0c2d309210b22fea52308a8d6c239858699
+it.previnet.authenticator,queryString,build_version,32
+it.previnet.authenticator,queryString,display_version,2.2.2
+it.previnet.authenticator,queryString,source,1
+com.sgn.sgotp,header,Accept-Encoding,gzip
+com.sgn.sgotp,header,User-Agent,Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+com.sgn.sgotp,header,Referer,http://www.google.com
+com.sgn.sgotp,header,Host,play.google.com
+com.sgn.sgotp,header,Connection,Keep-Alive
+com.sgn.sgotp,queryString,id,com.sgn.sgotp
+com.sgn.sgotp,queryString,hl,it
+kr.co.neople.neopleotp,header,Content-Length,170
+kr.co.neople.neopleotp,header,Content-Type,application/x-www-form-urlencoded
+kr.co.neople.neopleotp,header,Host,motp.mobilians.co.kr
+kr.co.neople.neopleotp,header,Connection,Keep-Alive
+kr.co.neople.neopleotp,header,User-Agent,Apache-HttpClient/UNAVAILABLE (java 1.4)
+eu.netinfo.netteller.cqur.motp,header,X-Android-Package,eu.netinfo.netteller.cqur.motp
+eu.netinfo.netteller.cqur.motp,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+eu.netinfo.netteller.cqur.motp,header,Content-Type,application/x-protobuf
+eu.netinfo.netteller.cqur.motp,header,Content-Encoding,gzip
+eu.netinfo.netteller.cqur.motp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+eu.netinfo.netteller.cqur.motp,header,Host,mobilecrashreporting.googleapis.com
+eu.netinfo.netteller.cqur.motp,header,Connection,Keep-Alive
+eu.netinfo.netteller.cqur.motp,header,Accept-Encoding,gzip
+eu.netinfo.netteller.cqur.motp,header,Content-Length,831
+eu.netinfo.netteller.cqur.motp,queryString,key,AIzaSyDqjPqdhKM2kMljrHX9Zj50LLeRKKBRzgk
+eu.netinfo.netteller.cqur.motp,queryString,alt,json
+club.nagavip.otp,header,SDK-Version,onesignal/android/031104
+club.nagavip.otp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+club.nagavip.otp,header,Host,onesignal.com
+club.nagavip.otp,header,Connection,Keep-Alive
+club.nagavip.otp,header,Accept-Encoding,gzip
+com.halcom.ng.mobile.puppaltr,header,initiatingRequest,1631964616005
+com.halcom.ng.mobile.puppaltr,header,clientPlatform,Android
+com.halcom.ng.mobile.puppaltr,header,Content-Type,application/json;charset=UTF-8
+com.halcom.ng.mobile.puppaltr,header,systemId,PUPPALTR
+com.halcom.ng.mobile.puppaltr,header,lang,sq
+com.halcom.ng.mobile.puppaltr,header,build-version,release-1.22.17-6-gd6eea66
+com.halcom.ng.mobile.puppaltr,header,UserLoginAuths,TOTP=;USER=;
+com.halcom.ng.mobile.puppaltr,header,Connection,Close
+com.halcom.ng.mobile.puppaltr,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.halcom.ng.mobile.puppaltr,header,Host,ebanking.otpbank.al
+com.halcom.ng.mobile.puppaltr,header,Accept-Encoding,gzip
+ru.yandex.key,header,Host,passport.yandex.ru
+ru.yandex.key,header,Connection,Keep-Alive
+ru.yandex.key,header,Accept-Encoding,gzip
+ru.yandex.key,header,User-Agent,okhttp/2.7.5
+otl.snkl.SnorkelOTP,header,Content-Type,application/x-www-form-urlencoded
+otl.snkl.SnorkelOTP,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+otl.snkl.SnorkelOTP,header,Host,sibernet.southindianbank.com
+otl.snkl.SnorkelOTP,header,Connection,Keep-Alive
+otl.snkl.SnorkelOTP,header,Accept-Encoding,gzip
+otl.snkl.SnorkelOTP,header,Content-Length,545
+cy.com.netinfo.crdbotp,header,Content-Type,application/json;charset=UTF-8
+cy.com.netinfo.crdbotp,header,Content-Length,163
+cy.com.netinfo.crdbotp,header,Host,omnichannels.crdbbank.co.tz
+cy.com.netinfo.crdbotp,header,Connection,Keep-Alive
+cy.com.netinfo.crdbotp,header,Accept-Encoding,gzip
+cy.com.netinfo.crdbotp,header,User-Agent,okhttp/3.14.9
+hr.asseco.android.otp,header,Connection,Close
+hr.asseco.android.otp,header,Content-Type,application/dskpp+xml
+hr.asseco.android.otp,header,Transfer-Encoding,chunked
+hr.asseco.android.otp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+hr.asseco.android.otp,header,Host,token.asseco-see.hr
+hr.asseco.android.otp,header,Accept-Encoding,gzip
+com.aff.otpdirekt,header,User-Agent,FBAndroidSDK.5.0.0
+com.aff.otpdirekt,header,Accept-Language,en_AU
+com.aff.otpdirekt,header,Content-Type,application/x-www-form-urlencoded
+com.aff.otpdirekt,header,Content-Encoding,gzip
+com.aff.otpdirekt,header,Host,graph.facebook.com
+com.aff.otpdirekt,header,Connection,Keep-Alive
+com.aff.otpdirekt,header,Accept-Encoding,gzip
+com.aff.otpdirekt,queryString,fields,"supports_implicit_sdk_logging,gdpv4_nux_content,gdpv4_nux_enabled,gdpv4_chrome_custom_tabs_enabled,android_dialog_configs,android_sdk_error_categories,app_events_session_timeout,app_events_feature_bitmask,auto_event_mapping_android,seamless_login,smart_login_bookmark_icon_url,smart_login_menu_icon_url"
+com.aff.otpdirekt,queryString,format,json
+com.aff.otpdirekt,queryString,sdk,android
+com.protectimus.totpburner.nfc,header,:authority,offlinepages-pa.googleapis.com
+com.protectimus.totpburner.nfc,header,content-length,133
+com.protectimus.totpburner.nfc,header,content-type,application/x-protobuf
+com.protectimus.totpburner.nfc,header,sec-fetch-site,none
+com.protectimus.totpburner.nfc,header,sec-fetch-mode,no-cors
+com.protectimus.totpburner.nfc,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36"
+com.protectimus.totpburner.nfc,header,accept-encoding,"gzip, deflate, br"
+com.protectimus.totpburner.nfc,queryString,key,AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+com.sgn.sgotp.lotte,header,Accept-Encoding,gzip
+com.sgn.sgotp.lotte,header,User-Agent,Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+com.sgn.sgotp.lotte,header,Referer,http://www.google.com
+com.sgn.sgotp.lotte,header,Host,play.google.com
+com.sgn.sgotp.lotte,header,Connection,Keep-Alive
+com.sgn.sgotp.lotte,queryString,id,com.sgn.sgotp.lotte
+com.sgn.sgotp.lotte,queryString,hl,it
+oracle.idm.mobile.authenticator,header,Connection,close
+oracle.idm.mobile.authenticator,header,User-Agent,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36"
+oracle.idm.mobile.authenticator,header,Host,connectivitycheck.gstatic.com
+oracle.idm.mobile.authenticator,header,Accept-Encoding,gzip
+com.dreammirae.anyauth.android,header,:authority,firebase-settings.crashlytics.com
+com.dreammirae.anyauth.android,header,cache-control,no-cache
+com.dreammirae.anyauth.android,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+com.dreammirae.anyauth.android,header,x-crashlytics-device-model,samsung/SM-A505YN
+com.dreammirae.anyauth.android,header,x-crashlytics-installation-id,17ee95da3cb045c39ffa9a84ce8225ef
+com.dreammirae.anyauth.android,header,x-crashlytics-os-display-version,10
+com.dreammirae.anyauth.android,header,accept,application/json
+com.dreammirae.anyauth.android,header,x-crashlytics-api-client-version,17.2.1
+com.dreammirae.anyauth.android,header,user-agent,Crashlytics Android SDK/17.2.1
+com.dreammirae.anyauth.android,header,x-crashlytics-api-client-type,android
+com.dreammirae.anyauth.android,header,x-crashlytics-google-app-id,1:354592077484:android:6c7d699c8afadfe4a7d109
+com.dreammirae.anyauth.android,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+com.dreammirae.anyauth.android,header,accept-encoding,gzip
+com.dreammirae.anyauth.android,queryString,instance,23482f96c382d17fc6d9046772da210ab4382c1e
+com.dreammirae.anyauth.android,queryString,build_version,13
+com.dreammirae.anyauth.android,queryString,display_version,1.3.1
+com.dreammirae.anyauth.android,queryString,source,1
+dev.cat.coffee.authenticator,header,:authority,googleads.g.doubleclick.net
+dev.cat.coffee.authenticator,header,upgrade-insecure-requests,1
+dev.cat.coffee.authenticator,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36 (Mobile; afma-sdk-a-v204102000.204102000.0)"
+dev.cat.coffee.authenticator,header,sec-fetch-user,?1
+dev.cat.coffee.authenticator,header,accept,"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+dev.cat.coffee.authenticator,header,x-requested-with,dev.cat.coffee.authenticator
+dev.cat.coffee.authenticator,header,sec-fetch-site,none
+dev.cat.coffee.authenticator,header,sec-fetch-mode,navigate
+dev.cat.coffee.authenticator,header,accept-encoding,"gzip, deflate"
+dev.cat.coffee.authenticator,header,accept-language,"en-AU,en-US;q=0.9,en;q=0.8"
+vn.com.sacombank.msign,header,:authority,accounts.google.com
+vn.com.sacombank.msign,header,content-length,1
+vn.com.sacombank.msign,header,origin,https://www.google.com
+vn.com.sacombank.msign,header,content-type,application/x-www-form-urlencoded
+vn.com.sacombank.msign,header,sec-fetch-site,none
+vn.com.sacombank.msign,header,sec-fetch-mode,no-cors
+vn.com.sacombank.msign,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36"
+vn.com.sacombank.msign,header,accept-encoding,"gzip, deflate, br"
+vn.com.sacombank.msign,header,accept-language,"en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7"
+vn.com.sacombank.msign,header,cookie,__Host-GAPS=1:CaO8m2bkM0Rm0jJqmVUWPs2tS3GpPg:vNJmvjWRl-OhiA0O
+vn.com.sacombank.msign,queryString,gpsia,1
+vn.com.sacombank.msign,queryString,source,ChromiumBrowser
+vn.com.sacombank.msign,queryString,json,standard
+com.techcombank.stk.corp,header,Connection,close
+com.techcombank.stk.corp,header,User-Agent,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36"
+com.techcombank.stk.corp,header,Host,connectivitycheck.gstatic.com
+com.techcombank.stk.corp,header,Accept-Encoding,gzip
+com.trumotp.club,header,accept,*/*
+com.trumotp.club,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.trumotp.club,header,Host,update.sdkbox.com
+com.trumotp.club,header,Connection,Keep-Alive
+com.trumotp.club,header,Accept-Encoding,gzip
+com.trumotp.club,queryString,app_package_id,com.trumotp.club
+wibmo.com.wibmoAuthApp,header,Connection,close
+wibmo.com.wibmoAuthApp,header,User-Agent,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36"
+wibmo.com.wibmoAuthApp,header,Host,connectivitycheck.gstatic.com
+wibmo.com.wibmoAuthApp,header,Accept-Encoding,gzip
+br.gov.caixa.codigocaixa,header,Connection,close
+br.gov.caixa.codigocaixa,header,User-Agent,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36"
+br.gov.caixa.codigocaixa,header,Host,connectivitycheck.gstatic.com
+br.gov.caixa.codigocaixa,header,Accept-Encoding,gzip
+nh.smart.signone,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+nh.smart.signone,header,Host,newsmart.nonghyup.com
+nh.smart.signone,header,Connection,Keep-Alive
+nh.smart.signone,header,Accept-Encoding,gzip
+nh.smart.signone,queryString,CODEGUARD_CMD,101
+nh.smart.signone,queryString,OS,CG1
+nh.smart.signone,queryString,ABI,arm64-v8a
+nh.smart.signone,queryString,CODE_APP_INFO,NHSIGNONE4.7_391
+nh.smart.signone,queryString,CERT,yes
+com.dxc.ipwr,header,Content-Type,application/json; charset=utf-8
+com.dxc.ipwr,header,Accept,application/json
+com.dxc.ipwr,header,Authorization,50e2bf2a-24c4-441c-a340-27c777174b37cscmws.cscmws.com
+com.dxc.ipwr,header,Accept-Encoding,identity
+com.dxc.ipwr,header,Content-Length,12
+com.dxc.ipwr,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.dxc.ipwr,header,Host,astoolbox.dxc.technology
+com.dxc.ipwr,header,Connection,Keep-Alive
+com.vn.vib.smeotp,header,Content-Type,application/json
+com.vn.vib.smeotp,header,Accept,application/json
+com.vn.vib.smeotp,header,Content-Encoding,gzip
+com.vn.vib.smeotp,header,X-Android-Package,com.vn.vib.smeotp
+com.vn.vib.smeotp,header,x-firebase-client,fire-installations/16.2.2 fire-core/19.3.0 fire-fst/21.4.3 fire-iid/20.1.6 fire-cls/17.0.0 fire-android/ fire-fcm/20.1.6 fire-analytics/17.4.0
+com.vn.vib.smeotp,header,x-firebase-client-log-type,3
+com.vn.vib.smeotp,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+com.vn.vib.smeotp,header,x-goog-api-key,AIzaSyDtF0qBQl03rzHKoz1AsEVGmaejgFBuCDo
+com.vn.vib.smeotp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.vn.vib.smeotp,header,Host,firebaseinstallations.googleapis.com
+com.vn.vib.smeotp,header,Connection,Keep-Alive
+com.vn.vib.smeotp,header,Accept-Encoding,gzip
+com.vn.vib.smeotp,header,Content-Length,140
+at.tugraz.iaik.signapp,header,Host,msign.transsped.ro
+at.tugraz.iaik.signapp,header,Connection,keep-alive
+at.tugraz.iaik.signapp,header,Access-Control-Request-Method,POST
+at.tugraz.iaik.signapp,header,Origin,http://localhost
+at.tugraz.iaik.signapp,header,User-Agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36"
+at.tugraz.iaik.signapp,header,Access-Control-Request-Headers,content-type
+at.tugraz.iaik.signapp,header,Accept,*/*
+at.tugraz.iaik.signapp,header,X-Requested-With,at.tugraz.iaik.signapp
+at.tugraz.iaik.signapp,header,Sec-Fetch-Site,cross-site
+at.tugraz.iaik.signapp,header,Sec-Fetch-Mode,cors
+at.tugraz.iaik.signapp,header,Referer,http://localhost/login
+at.tugraz.iaik.signapp,header,Accept-Encoding,"gzip, deflate"
+at.tugraz.iaik.signapp,header,Accept-Language,"en-AU,en-US;q=0.9,en;q=0.8"
+com.ftsafe.otp.activity,header,Content-Type,application/x-www-form-urlencoded
+com.ftsafe.otp.activity,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.ftsafe.otp.activity,header,Host,register.xmpush.global.xiaomi.com
+com.ftsafe.otp.activity,header,Connection,Keep-Alive
+com.ftsafe.otp.activity,header,Accept-Encoding,gzip
+com.ftsafe.otp.activity,header,Content-Length,384
+kr.kjun.NaverSetup,header,:authority,googleads.g.doubleclick.net
+kr.kjun.NaverSetup,header,upgrade-insecure-requests,1
+kr.kjun.NaverSetup,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.96 Mobile Safari/537.36 (Mobile; afma-sdk-a-v18479999.10084000.1)"
+kr.kjun.NaverSetup,header,sec-fetch-user,?1
+kr.kjun.NaverSetup,header,accept,"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+kr.kjun.NaverSetup,header,x-requested-with,kr.kjun.NaverSetup
+kr.kjun.NaverSetup,header,sec-fetch-site,none
+kr.kjun.NaverSetup,header,sec-fetch-mode,navigate
+kr.kjun.NaverSetup,header,accept-encoding,"gzip, deflate"
+kr.kjun.NaverSetup,header,accept-language,"en-AU,en-US;q=0.9,en;q=0.8"
+iSec.Authenticator,header,Install-ID,a1eea943-b8cb-40ad-b1fd-66dfd1788e52
+iSec.Authenticator,header,App-Secret,274f6129-ec14-450d-9753-a0beca9ca8d5
+iSec.Authenticator,header,Content-Type,application/json
+iSec.Authenticator,header,Content-Length,550
+iSec.Authenticator,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+iSec.Authenticator,header,Host,in.appcenter.ms
+iSec.Authenticator,header,Connection,Keep-Alive
+iSec.Authenticator,header,Accept-Encoding,gzip
+iSec.Authenticator,queryString,api-version,1.0.0
+com.protectimus.android,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.protectimus.android,header,Host,protectimus.com
+com.protectimus.android,header,Connection,Keep-Alive
+com.protectimus.android,header,Accept-Encoding,gzip
+com.systemat.SeeZam_OTP,header,Content-Type,application/json
+com.systemat.SeeZam_OTP,header,Accept,application/json
+com.systemat.SeeZam_OTP,header,Content-Encoding,gzip
+com.systemat.SeeZam_OTP,header,Cache-Control,no-cache
+com.systemat.SeeZam_OTP,header,X-Android-Package,com.systemat.SeeZam_OTP
+com.systemat.SeeZam_OTP,header,x-firebase-client,fire-installations/16.3.3 fire-android/ fire-analytics/17.5.0 fire-cls/17.2.1 fire-core/19.3.1
+com.systemat.SeeZam_OTP,header,x-firebase-client-log-type,3
+com.systemat.SeeZam_OTP,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+com.systemat.SeeZam_OTP,header,x-goog-api-key,AIzaSyDhIzQqbUiJe8k3Xkctp3tWl8q-w8jckh8
+com.systemat.SeeZam_OTP,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.systemat.SeeZam_OTP,header,Host,firebaseinstallations.googleapis.com
+com.systemat.SeeZam_OTP,header,Connection,Keep-Alive
+com.systemat.SeeZam_OTP,header,Accept-Encoding,gzip
+com.systemat.SeeZam_OTP,header,Content-Length,139
+com.kmcert.myotp,header,Accept-Encoding,gzip
+com.kmcert.myotp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.kmcert.myotp,header,Host,www.myotp.co.kr
+com.kmcert.myotp,header,Connection,Keep-Alive
+com.gstotpauthenticator,header,Content-Type,application/json
+com.gstotpauthenticator,header,Accept,application/json
+com.gstotpauthenticator,header,Content-Encoding,gzip
+com.gstotpauthenticator,header,Cache-Control,no-cache
+com.gstotpauthenticator,header,X-Android-Package,com.gstotpauthenticator
+com.gstotpauthenticator,header,x-firebase-client,fire-core/19.3.0 fire-installations/16.3.2 fire-android/ fire-analytics/17.5.0
+com.gstotpauthenticator,header,x-firebase-client-log-type,3
+com.gstotpauthenticator,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+com.gstotpauthenticator,header,x-goog-api-key,AIzaSyBKVwsjhfgGhSulKImjHx2ts4fpwWdrFjw
+com.gstotpauthenticator,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.gstotpauthenticator,header,Host,firebaseinstallations.googleapis.com
+com.gstotpauthenticator,header,Connection,Keep-Alive
+com.gstotpauthenticator,header,Accept-Encoding,gzip
+com.gstotpauthenticator,header,Content-Length,133
+de.otp.main,header,Content-Type,application/plain
+de.otp.main,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+de.otp.main,header,Host,onetimepass.telesec.de
+de.otp.main,header,Connection,Keep-Alive
+de.otp.main,header,Accept-Encoding,gzip
+de.otp.main,header,Content-Length,41
+vn.funtap.smartotp,header,:authority,api.platformjk.com
+vn.funtap.smartotp,header,content-type,application/x-www-form-urlencoded
+vn.funtap.smartotp,header,content-length,11
+vn.funtap.smartotp,header,accept-encoding,gzip
+vn.funtap.smartotp,header,user-agent,okhttp/4.7.2
+ua.com.cs.ifobs.mobile.android.otp,header,Host,otpsmart.com.ua
+ua.com.cs.ifobs.mobile.android.otp,header,Connection,Keep-Alive
+ua.com.cs.ifobs.mobile.android.otp,header,Accept-Encoding,gzip
+ua.com.cs.ifobs.mobile.android.otp,header,User-Agent,okhttp/3.2.0
+com.mds.canarabankapp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.mds.canarabankapp,header,Host,appotp.canarabank.in
+com.mds.canarabankapp,header,Connection,Keep-Alive
+com.mds.canarabankapp,header,Accept-Encoding,gzip
+com.netfiles.netfilesotp,header,Content-Type,application/x-www-form-urlencoded
+com.netfiles.netfilesotp,header,charset,utf-8
+com.netfiles.netfilesotp,header,Content-Length,52
+com.netfiles.netfilesotp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.netfiles.netfilesotp,header,Host,netfiles.de
+com.netfiles.netfilesotp,header,Connection,Keep-Alive
+com.netfiles.netfilesotp,header,Accept-Encoding,gzip
+eu.netinfo.bcb.otp,header,Accept,application/json
+eu.netinfo.bcb.otp,header,Content-type,application/json
+eu.netinfo.bcb.otp,header,Content-Length,164
+eu.netinfo.bcb.otp,header,Host,onlinebanking.bcb.bm
+eu.netinfo.bcb.otp,header,Connection,Keep-Alive
+com.stove.otp.google.android,header,:authority,otp.onstove.com
+com.stove.otp.google.android,header,appversion,1.2.0
+com.stove.otp.google.android,header,stoveos,A
+com.stove.otp.google.android,header,accept-language,ko-KR
+com.stove.otp.google.android,header,os-version,10
+com.stove.otp.google.android,header,os-type,A
+com.stove.otp.google.android,header,content-type,application/x-www-form-urlencoded
+com.stove.otp.google.android,header,content-length,41
+com.stove.otp.google.android,header,accept-encoding,gzip
+com.stove.otp.google.android,header,user-agent,okhttp/3.12.0
+com18deglab.cylocklite,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com18deglab.cylocklite,header,Host,www.google.com
+com18deglab.cylocklite,header,Connection,Keep-Alive
+com18deglab.cylocklite,header,Accept-Encoding,gzip
+com.mdmobiasbancadigipass,header,:authority,offlinepages-pa.googleapis.com
+com.mdmobiasbancadigipass,header,content-length,133
+com.mdmobiasbancadigipass,header,content-type,application/x-protobuf
+com.mdmobiasbancadigipass,header,sec-fetch-site,none
+com.mdmobiasbancadigipass,header,sec-fetch-mode,no-cors
+com.mdmobiasbancadigipass,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36"
+com.mdmobiasbancadigipass,header,accept-encoding,"gzip, deflate, br"
+com.mdmobiasbancadigipass,queryString,key,AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+com.changingtec.motp.pro,header,:authority,firebase-settings.crashlytics.com
+com.changingtec.motp.pro,header,cache-control,no-cache
+com.changingtec.motp.pro,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+com.changingtec.motp.pro,header,x-crashlytics-device-model,samsung/SM-A505YN
+com.changingtec.motp.pro,header,x-crashlytics-installation-id,570d686264974702a5f18df087897252
+com.changingtec.motp.pro,header,x-crashlytics-os-display-version,10
+com.changingtec.motp.pro,header,accept,application/json
+com.changingtec.motp.pro,header,x-crashlytics-api-client-version,17.3.0
+com.changingtec.motp.pro,header,user-agent,Crashlytics Android SDK/17.3.0
+com.changingtec.motp.pro,header,x-crashlytics-api-client-type,android
+com.changingtec.motp.pro,header,x-crashlytics-google-app-id,1:65989949549:android:2c914e97af6f49a4
+com.changingtec.motp.pro,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+com.changingtec.motp.pro,header,accept-encoding,gzip
+com.changingtec.motp.pro,queryString,instance,3b0f0263d038d1285145c451502dd8f04cb41892
+com.changingtec.motp.pro,queryString,build_version,108
+com.changingtec.motp.pro,queryString,display_version,3.10.7.201224
+com.changingtec.motp.pro,queryString,source,1
+com.pacifico.pacificid,header,Content-Type,application/json
+com.pacifico.pacificid,header,Accept,application/vnd.detectid.v6
+com.pacifico.pacificid,header,user-agent,DetectID
+com.pacifico.pacificid,header,Host,www.bp.fin.ec
+com.pacifico.pacificid,header,Connection,Keep-Alive
+com.pacifico.pacificid,header,Accept-Encoding,gzip
+com.pacifico.pacificid,header,Content-Length,1440
+com.pacifico.pacificid,queryString,code,57442575
+com.lenovo.otp,header,Content-Type,application/x-www-form-urlencoded
+com.lenovo.otp,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.lenovo.otp,header,Host,otp.lenovo.com
+com.lenovo.otp,header,Connection,Keep-Alive
+com.lenovo.otp,header,Accept-Encoding,gzip
+com.lenovo.otp,header,Content-Length,10
+jp.konami.android.otp_token,header,Content-Length,90
+jp.konami.android.otp_token,header,Content-Type,application/x-www-form-urlencoded
+jp.konami.android.otp_token,header,Host,swt-gate.konamionline.com
+jp.konami.android.otp_token,header,Connection,Keep-Alive
+vn.savis.smartid,header,Accept,application/json
+vn.savis.smartid,header,User-Agent,com.yandex.mobile.metrica.sdk/3.5.3.17744 (Samsung SM-A505YN; Android 10)
+vn.savis.smartid,header,Send-Timestamp,1632031259
+vn.savis.smartid,header,Content-Type,application/x-www-form-urlencoded
+vn.savis.smartid,header,Host,rosenberg.appmetrica.yandex.net
+vn.savis.smartid,header,Connection,Keep-Alive
+vn.savis.smartid,header,Accept-Encoding,gzip
+vn.savis.smartid,header,Content-Length,192
+vn.savis.smartid,queryString,encrypted_request,1
+vn.savis.smartid,queryString,deviceid,51cad9dfe1a0ff96aea17535068ed7fe
+vn.savis.smartid,queryString,device_type,phone
+vn.savis.smartid,queryString,uuid,6b643481dc4f46f58816921c22bea6fb
+vn.savis.smartid,queryString,analytics_sdk_version_name,3.5.3
+vn.savis.smartid,queryString,analytics_sdk_build_number,17744
+vn.savis.smartid,queryString,analytics_sdk_build_type,internal
+vn.savis.smartid,queryString,app_version_name,2.7.0
+vn.savis.smartid,queryString,app_build_number,270
+vn.savis.smartid,queryString,os_version,10
+vn.savis.smartid,queryString,os_api_level,29
+vn.savis.smartid,queryString,is_rooted,0
+vn.savis.smartid,queryString,app_framework,native
+vn.savis.smartid,queryString,app_id,ru.yandex.key
+vn.savis.smartid,queryString,app_platform,android
+vn.savis.smartid,queryString,android_id,9a2edc351b248dac
+vn.savis.smartid,queryString,request_id,1
+vn.savis.smartid,queryString,adv_id,00291781-441b-4581-818f-173c2bfee5ab
+vn.savis.smartid,queryString,limit_ad_tracking,0
+com.azure.authenticator,header,Content-Type,application/json
+com.azure.authenticator,header,Accept,application/json
+com.azure.authenticator,header,Content-Encoding,gzip
+com.azure.authenticator,header,Cache-Control,no-cache
+com.azure.authenticator,header,X-Android-Package,com.azure.authenticator
+com.azure.authenticator,header,x-firebase-client,fire-core/19.3.0 kotlin/1.4.10 fire-installations/16.3.3 fire-iid/21.0.0 fire-fcm/20.1.7_1p fire-analytics/18.0.0 fire-android/
+com.azure.authenticator,header,x-firebase-client-log-type,3
+com.azure.authenticator,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+com.azure.authenticator,header,x-goog-api-key,AIzaSyDQiqY4cX3UacZZhMN3CIu1gUE2XywMQug
+com.azure.authenticator,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.azure.authenticator,header,Host,firebaseinstallations.googleapis.com
+com.azure.authenticator,header,Connection,Keep-Alive
+com.azure.authenticator,header,Accept-Encoding,gzip
+com.azure.authenticator,header,Content-Length,133
+vietcombank.itcenter.vcbsmartoptv10,header,:authority,accounts.google.com
+vietcombank.itcenter.vcbsmartoptv10,header,content-length,1
+vietcombank.itcenter.vcbsmartoptv10,header,origin,https://www.google.com
+vietcombank.itcenter.vcbsmartoptv10,header,content-type,application/x-www-form-urlencoded
+vietcombank.itcenter.vcbsmartoptv10,header,sec-fetch-site,none
+vietcombank.itcenter.vcbsmartoptv10,header,sec-fetch-mode,no-cors
+vietcombank.itcenter.vcbsmartoptv10,header,user-agent,"Mozilla/5.0 (Linux; Android 10; SM-A505YN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36"
+vietcombank.itcenter.vcbsmartoptv10,header,accept-encoding,"gzip, deflate, br"
+vietcombank.itcenter.vcbsmartoptv10,header,accept-language,"en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7"
+vietcombank.itcenter.vcbsmartoptv10,header,cookie,__Host-GAPS=1:CaO8m2bkM0Rm0jJqmVUWPs2tS3GpPg:vNJmvjWRl-OhiA0O
+vietcombank.itcenter.vcbsmartoptv10,queryString,gpsia,1
+vietcombank.itcenter.vcbsmartoptv10,queryString,source,ChromiumBrowser
+vietcombank.itcenter.vcbsmartoptv10,queryString,json,standard
+com.scrignosa,header,Content-Type,application/json
+com.scrignosa,header,Accept,application/json
+com.scrignosa,header,Content-Encoding,gzip
+com.scrignosa,header,X-Android-Package,com.scrignosa
+com.scrignosa,header,x-firebase-client,fire-installations/16.3.1 fire-core/19.3.0 kotlin/1.2.50 fire-fcm/20.2.0 fire-analytics/17.4.3 fire-iid/20.2.0 fire-android/
+com.scrignosa,header,x-firebase-client-log-type,3
+com.scrignosa,header,X-Android-Cert,8E6793904760B6D8A546CD01058020A968C6DD3E
+com.scrignosa,header,x-goog-api-key,AIzaSyAi-kef4ouYP0V91V6CBxxbZBthby2EXFg
+com.scrignosa,header,User-Agent,Dalvik/2.1.0 (Linux; U; Android 10; SM-A505YN Build/QP1A.190711.020)
+com.scrignosa,header,Host,firebaseinstallations.googleapis.com
+com.scrignosa,header,Connection,Keep-Alive
+com.scrignosa,header,Accept-Encoding,gzip
+com.scrignosa,header,Content-Length,135
+kr.or.kftc.fsc,header,Accept-Encoding,UTF-8
+kr.or.kftc.fsc,header,User-Agent,
+kr.or.kftc.fsc,header,Content-Type,application/report; charset=utf-8
+kr.or.kftc.fsc,header,Content-Length,3945
+kr.or.kftc.fsc,header,Host,ssc.kftc.or.kr
+kr.or.kftc.fsc,header,Connection,Keep-Alive
+com.egypt.ais.aismotp,header,Accept-Encoding,gzip
+com.egypt.ais.aismotp,header,User-Agent,Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+com.egypt.ais.aismotp,header,Referer,http://www.google.com
+com.egypt.ais.aismotp,header,Host,play.google.com
+com.egypt.ais.aismotp,header,Connection,Keep-Alive
+com.egypt.ais.aismotp,queryString,id,com.egypt.ais.aismotp
+com.egypt.ais.aismotp,queryString,hl,en
+com.authenticator.authservice2,header,:authority,firebase-settings.crashlytics.com
+com.authenticator.authservice2,header,cache-control,no-cache
+com.authenticator.authservice2,header,x-crashlytics-developer-token,470fa2b4ae81cd56ecbcda9735803434cec591fa
+com.authenticator.authservice2,header,x-crashlytics-device-model,samsung/SM-A505YN
+com.authenticator.authservice2,header,x-crashlytics-installation-id,a1452bede2114fa8b9b385953ceb1182
+com.authenticator.authservice2,header,x-crashlytics-os-display-version,10
+com.authenticator.authservice2,header,accept,application/json
+com.authenticator.authservice2,header,x-crashlytics-api-client-version,17.0.1
+com.authenticator.authservice2,header,user-agent,Crashlytics Android SDK/17.0.1
+com.authenticator.authservice2,header,x-crashlytics-api-client-type,android
+com.authenticator.authservice2,header,x-crashlytics-google-app-id,1:957012540161:android:3e8e4bb4be573b88d5f900
+com.authenticator.authservice2,header,x-crashlytics-os-build-version,A505YNDVS4BTJ2
+com.authenticator.authservice2,header,accept-encoding,gzip
+com.authenticator.authservice2,queryString,instance,77f8c1f2fc3ed4e490e3686c5370078c04a9b415
+com.authenticator.authservice2,queryString,build_version,55
+com.authenticator.authservice2,queryString,display_version,1.87
+com.authenticator.authservice2,queryString,source,1

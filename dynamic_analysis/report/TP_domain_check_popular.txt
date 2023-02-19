@@ -1,0 +1,16 @@
+Domain Level & Reference & \# of Apps(\%) \\ 
+fld  & easyprivacy  & 26(14.3\%) \\ 
+fld  & easylist  & 24(13.2\%) \\ 
+netloc  & easylist  & 17(9.3\%) \\ 
+netloc  & easyprivacy  & 5(2.7\%) \\ 
+-------------------------------------------------------- \\ 
+-------------------------------------------------------- \\ 
+Domain Level & Reference & Popular & \# of Apps(\%) \\ 
+netloc  & easylist  & False  & 13(7.1\%) \\ 
+netloc  & easylist  & True  & 4(2.2\%) \\ 
+netloc  & easyprivacy  & False  & 4(2.2\%) \\ 
+netloc  & easyprivacy  & True  & 1(0.5\%) \\ 
+fld  & easylist  & False  & 14(7.7\%) \\ 
+fld  & easylist  & True  & 10(5.5\%) \\ 
+fld  & easyprivacy  & False  & 16(8.8\%) \\ 
+fld  & easyprivacy  & True  & 10(5.5\%) \\ 

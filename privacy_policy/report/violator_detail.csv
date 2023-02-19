@@ -1,0 +1,24 @@
+,app_id,lib_name
+0,com.authy.authy,Amazonaws
+1,com.authy.authy,Squareup
+2,com.authy.authy,Google Ads
+3,com.bncr.detectid_otp,Crashlytics
+4,com.bncr.detectid_otp,Google Ads
+5,com.halcom.ng.mobile.puppaltr,Facebook
+6,com.halcom.ng.mobile.puppaltr,Google Ads
+7,com.halcom.ng.mobile.puppaltr,HOCKETAPP
+8,com.vietinbank.softotp,Crashlytics
+9,com.vietinbank.softotp,Google Ads
+10,hr.asseco.android.otp,Google Ads
+11,org.juanjcsr.newcloudotp,Dropbox
+12,org.juanjcsr.newcloudotp,Squareup
+13,org.fedorahosted.freeotp,Squareup
+14,org.shadowice.flocke.andotp,Github
+15,com.beemdevelopment.aegis,Bumptech
+16,com.stove.otp.google.android,Bumptech
+17,com.stove.otp.google.android,Google Ads
+18,com.stove.otp.google.android,Google Analytics
+19,com.lenovo.otp,Bumptech
+20,vietcombank.itcenter.vcbsmartoptv10,Bumptech
+21,vietcombank.itcenter.vcbsmartoptv10,Crashlytics
+22,vietcombank.itcenter.vcbsmartoptv10,Google Ads

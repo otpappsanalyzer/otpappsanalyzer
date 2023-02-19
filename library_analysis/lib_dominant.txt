@@ -1,0 +1,18 @@
+Analytics Libraries
+----------------------------
+Google Analytics & 7\\ 
+adjust & 1\\ 
+----------------------------
+Payment Libraries
+----------------------------
+Squareup & 24\\ 
+----------------------------
+Social Media Libraries
+----------------------------
+Facebook & 14\\ 
+----------------------------
+Ads and Tracker Libraries
+----------------------------
+Google Ads & 54\\ 
+Tencent & 1\\ 
+----------------------------

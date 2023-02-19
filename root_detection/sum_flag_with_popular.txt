@@ -1,0 +1,25 @@
+API Flag  & Popular & # of Apps (\%) \\ 
+BiometricManager() & False & 12 (6.59\%) \\ 
+BiometricManager() & True & 8 (4.4\%) \\ 
+BiometricPrompt() & False & 15 (8.24\%) \\ 
+BiometricPrompt() & True & 8 (4.4\%) \\ 
+FingerprintManager() & False & 79 (43.41\%) \\ 
+FingerprintManager() & True & 53 (29.12\%) \\ 
+KeyStore.getInstance() & False & 62 (34.07\%) \\ 
+KeyStore.getInstance() & True & 45 (24.73\%) \\ 
+Os.stat() & False & 75 (41.21\%) \\ 
+Os.stat() & True & 51 (28.02\%) \\ 
+PackageManager.getPackageInfo() & False & 105 (57.69\%) \\ 
+PackageManager.getPackageInfo() & True & 61 (33.52\%) \\ 
+RootBeer.isRooted() & False & 6 (3.3\%) \\ 
+RootBeer.isRooted() & True & 5 (2.75\%) \\ 
+RootTools() & False & 3 (1.65\%) \\ 
+Runtime.exec() & False & 37 (20.33\%) \\ 
+Runtime.exec() & True & 35 (19.23\%) \\ 
+SafetyNet.getClient() & False & 2 (1.1\%) \\ 
+SafetyNet.getClient() & True & 5 (2.75\%) \\ 
+SafetyNetApi() & False & 4 (2.2\%) \\ 
+SafetyNetApi() & True & 6 (3.3\%) \\ 
+isInsideSecureHardware() & False & 8 (4.4\%) \\ 
+isInsideSecureHardware() & True & 9 (4.95\%) \\ 
+isStrongBoxBacked() & False & 1 (0.55\%) \\ 

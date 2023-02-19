@@ -1,0 +1,13 @@
+1 &  None & 32 (17.6\%) \\ 
+2 &  <urlopen error [Errno -3] Temporary failure in name resolution> & 11 (6.0\%) \\ 
+3 &  HTTP Error 404: Not Found & 9 (4.9\%) \\ 
+4 &  <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)> & 3 (1.6\%) \\ 
+5 &  <urlopen error [Errno -2] Name or service not known> & 2 (1.1\%) \\ 
+6 &  <urlopen error [Errno 104] Connection reset by peer> & 2 (1.1\%) \\ 
+7 &  HTTP Error 500: Internal Server Error & 2 (1.1\%) \\ 
+8 &  <urlopen error [Errno -5] No address associated with hostname> & 1 (0.5\%) \\ 
+9 &  <urlopen error [Errno 110] Connection timed out> & 1 (0.5\%) \\ 
+10 &  <urlopen error [Errno 113] No route to host> & 1 (0.5\%) \\ 
+11 &  HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop. & 1 (0.5\%) \\ 
+12 &  HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. & 1 (0.5\%) \\ 
+13 &  [Errno 104] Connection reset by peer & 1 (0.5\%) \\ 

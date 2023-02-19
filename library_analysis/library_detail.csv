@@ -1,0 +1,189 @@
+app_id,lib_name,lib_type,TargetedAds,MobileAnalytics,Analytics,AnyTrackingLibrary
+com.nof.makanoh.openkeypos,Google Ads,Targeted ads,True,False,False,True
+com.forgerock.authenticator,Fasterxml,Utility,False,False,False,False
+com.forgerock.authenticator,Squareup,Payment,False,False,False,False
+com.authy.authy,Amazonaws,Utility,False,False,False,False
+com.authy.authy,Squareup,Payment,False,False,False,False
+com.authy.authy,Google Ads,Targeted ads,True,False,False,True
+vn.unlimit.magicauth,Adobe,Utility,False,False,False,False
+vn.unlimit.magicauth,Facebook,Social networking service,False,False,False,False
+vn.unlimit.magicauth,Google Ads,Targeted ads,True,False,False,True
+no.buypass.mobile.bpcode.bp,Jakewharton,Ui component,False,False,False,False
+com.deepnet.andmob5,Nostra13,Utility,False,False,False,False
+com.deepnet.andmob5,Google Ads,Targeted ads,True,False,False,True
+hr.asseco.android.jimba.otpretailng,Actionbarsherlock,Utility,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Commonsware,Utility,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Crashlytics,Utilities,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Devsmart,Ui component,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Squareup,Payment,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Viewpagerindicator,Ui component,False,False,False,False
+hr.asseco.android.jimba.otpretailng,Google Ads,Targeted ads,True,False,False,True
+netinfo.eu.symantec,Crashlytics,Utilities,False,False,False,False
+netinfo.eu.symantec,Google Ads,Targeted ads,True,False,False,True
+br.com.powersoftware.otpsafe,Phonegap,Utility,False,False,False,False
+com.canopus.otpmacgenerator,Github,Utility,False,False,False,False
+com.canopus.otpmacgenerator,Squareup,Payment,False,False,False,False
+com.feelanet.artstrongid.sec,Crashlytics,Utilities,False,False,False,False
+com.feelanet.artstrongid.sec,Github,Utility,False,False,False,False
+com.feelanet.artstrongid.sec,Google Ads,Targeted ads,True,False,False,True
+io.faceotp.faceotp,Bumptech,Utility,False,False,False,False
+io.faceotp.faceotp,Facebook,Social networking service,False,False,False,False
+io.faceotp.faceotp,Google Ads,Targeted ads,True,False,False,True
+com.namirial.android.virtualotp,Crashlytics,Utilities,False,False,False,False
+com.namirial.android.virtualotp,Google Ads,Targeted ads,True,False,False,True
+com.bncr.detectid_otp,Crashlytics,Utilities,False,False,False,False
+com.bncr.detectid_otp,Google Ads,Targeted ads,True,False,False,True
+it.previnet.authenticator,Squareup,Payment,False,False,False,False
+it.previnet.authenticator,Google Ads,Targeted ads,True,False,False,True
+com.rcdevs.auth,Appcelerator,Utility,False,False,False,False
+com.sgn.sgotp,Github,Utility,False,False,False,False
+kr.co.neople.neopleotp,Bumptech,Utility,False,False,False,False
+kr.co.neople.neopleotp,Crashlytics,Utilities,False,False,False,False
+kr.co.neople.neopleotp,Google Ads,Targeted ads,True,False,False,True
+kr.co.neople.neopleotp,Google Analytics,Mobile analytics,False,True,False,True
+eu.netinfo.netteller.cqur.motp,Crashlytics,Utilities,False,False,False,False
+eu.netinfo.netteller.cqur.motp,Squareup,Payment,False,False,False,False
+eu.netinfo.netteller.cqur.motp,Google Ads,Targeted ads,True,False,False,True
+club.nagavip.otp,Facebook,Social networking service,False,False,False,False
+club.nagavip.otp,Google Ads,Targeted ads,True,False,False,True
+com.halcom.ng.mobile.puppaltr,Facebook,Social networking service,False,False,False,False
+com.halcom.ng.mobile.puppaltr,Google Ads,Targeted ads,True,False,False,True
+com.halcom.ng.mobile.puppaltr,HOCKETAPP,Utility,False,False,False,False
+ru.yandex.key,Bumptech,Utility,False,False,False,False
+ru.yandex.key,Squareup,Payment,False,False,False,False
+com.vietinbank.softotp,Crashlytics,Utilities,False,False,False,False
+com.vietinbank.softotp,Google Ads,Targeted ads,True,False,False,True
+hr.asseco.android.otp,Google Ads,Targeted ads,True,False,False,True
+com.aff.otpdirekt,Facebook,Social networking service,False,False,False,False
+com.aff.otpdirekt,Github,Utility,False,False,False,False
+com.aff.otpdirekt,Google Ads,Targeted ads,True,False,False,True
+com.aff.otpdirekt,Google Analytics,Mobile analytics,False,True,False,True
+com.aff.otpdirekt,Nuance,Utility,False,False,False,False
+com.aff.otpdirekt,Squareup,Payment,False,False,False,False
+com.aff.otpdirekt,Viewpagerindicator,Ui component,False,False,False,False
+com.goldtime.authy,Facebook,Social networking service,False,False,False,False
+vn.tpb.token.baseotp,Crashlytics,Utilities,False,False,False,False
+vn.tpb.token.baseotp,Google Ads,Targeted ads,True,False,False,True
+com.protectimus.totpburner.nfc,Bumptech,Utility,False,False,False,False
+com.protectimus.totpburner.nfc,Google Ads,Targeted ads,True,False,False,True
+com.protectimus.totpburner.nfc,Google Analytics,Mobile analytics,False,True,False,True
+com.dreammirae.anyauth.android,Bumptech,Utility,False,False,False,False
+dev.cat.coffee.authenticator,Dropbox,Utility,False,False,False,False
+dev.cat.coffee.authenticator,Google Ads,Targeted ads,True,False,False,True
+dev.cat.coffee.authenticator,Fasterxml,Utility,False,False,False,False
+com.LuxTrustMobile,Google Ads,Targeted ads,True,False,False,True
+com.LuxTrustMobile,Jakewharton,Ui component,False,False,False,False
+com.LuxTrustMobile,Squareup,Payment,False,False,False,False
+com.LuxTrustMobile,Facebook,Social networking service,False,False,False,False
+sg.worktable.pingoauth,Crashlytics,Utilities,False,False,False,False
+sg.worktable.pingoauth,Google Ads,Targeted ads,True,False,False,True
+com.kiwoom.unitycert,Facebook,Social networking service,False,False,False,False
+com.techcombank.stk.corp,Crashlytics,Utilities,False,False,False,False
+com.techcombank.stk.corp,Google Ads,Targeted ads,True,False,False,True
+com.bitrixsoft.otp,Squareup,Payment,False,False,False,False
+org.juanjcsr.newcloudotp,Dropbox,Utility,False,False,False,False
+org.juanjcsr.newcloudotp,Squareup,Payment,False,False,False,False
+com.trumotp.club,Facebook,Social networking service,False,False,False,False
+com.trumotp.club,Loopj,Utility,False,False,False,False
+wibmo.com.wibmoAuthApp,Bumptech,Utility,False,False,False,False
+wibmo.com.wibmoAuthApp,Crashlytics,Utilities,False,False,False,False
+wibmo.com.wibmoAuthApp,Viewpagerindicator,Ui component,False,False,False,False
+wibmo.com.wibmoAuthApp,Google Ads,Targeted ads,True,False,False,True
+br.gov.caixa.codigocaixa,Squareup,Payment,False,False,False,False
+nh.smart.signone,Nostra13,Utility,False,False,False,False
+org.fedorahosted.freeotp,Squareup,Payment,False,False,False,False
+sk.otp.viamo,Facebook,Social networking service,False,False,False,False
+sk.otp.viamo,Google Ads,Targeted ads,True,False,False,True
+tm.asmanoky.otp,Jakewharton,Ui component,False,False,False,False
+tm.asmanoky.otp,Squareup,Payment,False,False,False,False
+tm.asmanoky.otp,Google Ads,Targeted ads,True,False,False,True
+no.SpareBank1.MobileOTP,Google Ads,Targeted ads,True,False,False,True
+at.tugraz.iaik.signapp,Google Ads,Targeted ads,True,False,False,True
+com.ca.sec.aa.authenticator,Google Ads,Targeted ads,True,False,False,True
+com.ncs.secureconnect.otp,Squareup,Payment,False,False,False,False
+com.ftsafe.otp.activity,Tencent,Targeted ads,True,False,False,True
+kr.kjun.NaverSetup,Google Ads,Targeted ads,True,False,False,True
+com.systemat.SeeZam_OTP,Google Ads,Targeted ads,True,False,False,True
+com.kmcert.myotp,Google Ads,Targeted ads,True,False,False,True
+com.mobilians.motp,Bumptech,Utility,False,False,False,False
+com.mobilians.motp,Crashlytics,Utilities,False,False,False,False
+com.mobilians.motp,Google Ads,Targeted ads,True,False,False,True
+com.vtc.main.otpapp,Actionbarsherlock,Utility,False,False,False,False
+org.shadowice.flocke.andotp,Github,Utility,False,False,False,False
+com.arcot.otp1,Actionbarsherlock,Utility,False,False,False,False
+com.arcot.otp1,Badlogic,Game engine,False,False,False,False
+com.arcot.otp1,Viewpagerindicator,Ui component,False,False,False,False
+teakwang.tsis.motp,Facebook,Social networking service,False,False,False,False
+teakwang.tsis.motp,Squareup,Payment,False,False,False,False
+ar.gob.afip.mobile.android.internal.seginfo,Crashlytics,Utilities,False,False,False,False
+ar.gob.afip.mobile.android.internal.seginfo,Squareup,Payment,False,False,False,False
+com.pentasecurity.isignplus.mobileotp,Github,Utility,False,False,False,False
+com.gstotpauthenticator,Crashlytics,Utilities,False,False,False,False
+com.gstotpauthenticator,Google Ads,Targeted ads,True,False,False,True
+com.eset.esa,Google Ads,Targeted ads,True,False,False,True
+org.liberty.android.freeotpplus,Squareup,Payment,False,False,False,False
+com.beemdevelopment.aegis,Bumptech,Utility,False,False,False,False
+ua.com.cs.ifobs.mobile.android.otp,Bumptech,Utility,False,False,False,False
+ua.com.cs.ifobs.mobile.android.otp,Github,Utility,False,False,False,False
+com.khla.otpapp.callhttpclient,Github,Utility,False,False,False,False
+org.kamrul.android.myauth,Squareup,Payment,False,False,False,False
+otl.snkl.HDFCSnorkelOTP,Google Ads,Targeted ads,True,False,False,True
+otl.snkl.HDFCSnorkelOTP,Google Analytics,Mobile analytics,False,True,False,True
+com.mds.canarabankapp,Squareup,Payment,False,False,False,False
+com.mds.canarabankapp,Viewpagerindicator,Ui component,False,False,False,False
+it.uiv.uivotp,Jakewharton,Ui component,False,False,False,False
+com.pvcombank.smartotp,Adobe,Utility,False,False,False,False
+com.pvcombank.smartotp,Facebook,Social networking service,False,False,False,False
+com.pvcombank.smartotp,Github,Utility,False,False,False,False
+com.entrust.identityGuard.mobile,Google Ads,Targeted ads,True,False,False,True
+com.stove.otp.google.android,Bumptech,Utility,False,False,False,False
+com.stove.otp.google.android,Google Ads,Targeted ads,True,False,False,True
+com.stove.otp.google.android,Google Analytics,Mobile analytics,False,True,False,True
+com.pozitron.qib,Bumptech,Utility,False,False,False,False
+com.pozitron.qib,Commonsware,Utility,False,False,False,False
+com.pozitron.qib,Google Ads,Targeted ads,True,False,False,True
+com.pozitron.qib,Squareup,Payment,False,False,False,False
+com.vpbank.vpbanksmartotp,Crashlytics,Utilities,False,False,False,False
+com.vpbank.vpbanksmartotp,Google Ads,Targeted ads,True,False,False,True
+com.pacifico.pacificid,Google Ads,Targeted ads,True,False,False,True
+com.pacifico.pacificid,Google Analytics,Mobile analytics,False,True,False,True
+com.andxor.mobile.jsotp.piteco,Phonegap,Utility,False,False,False,False
+vn.com.eximbank.softotp,Google Ads,Targeted ads,True,False,False,True
+vn.com.eximbank.softotp,Jakewharton,Ui component,False,False,False,False
+com.lenovo.otp,Bumptech,Utility,False,False,False,False
+com.kienlongbank.etoken,Google Ads,Targeted ads,True,False,False,True
+hr.asseco.android.intesa.isbd.alex,Bumptech,Utility,False,False,False,False
+hr.asseco.android.intesa.isbd.alex,Crashlytics,Utilities,False,False,False,False
+hr.asseco.android.intesa.isbd.alex,Github,Utility,False,False,False,False
+hr.asseco.android.intesa.isbd.alex,Google Ads,Targeted ads,True,False,False,True
+hr.asseco.android.intesa.isbd.alex,Facebook,Social networking service,False,False,False,False
+com.viafirma.otp,Viewpagerindicator,Ui component,False,False,False,False
+com.ocb.iotp,Bumptech,Utility,False,False,False,False
+com.ocb.iotp,Crashlytics,Utilities,False,False,False,False
+com.ocb.iotp,Google Ads,Targeted ads,True,False,False,True
+com.azure.authenticator,adjust,Mobile analytics,False,True,False,True
+com.azure.authenticator,Facebook,Social networking service,False,False,False,False
+com.azure.authenticator,Fasterxml,Utility,False,False,False,False
+com.azure.authenticator,Github,Utility,False,False,False,False
+com.azure.authenticator,Google Ads,Targeted ads,True,False,False,True
+com.azure.authenticator,Jakewharton,Ui component,False,False,False,False
+com.azure.authenticator,Squareup,Payment,False,False,False,False
+two.factor.secure.otp.authentication,Github,Utility,False,False,False,False
+two.factor.secure.otp.authentication,Google Ads,Targeted ads,True,False,False,True
+two.factor.secure.otp.authentication,Squareup,Payment,False,False,False,False
+vietcombank.itcenter.vcbsmartoptv10,Bumptech,Utility,False,False,False,False
+vietcombank.itcenter.vcbsmartoptv10,Crashlytics,Utilities,False,False,False,False
+vietcombank.itcenter.vcbsmartoptv10,Google Ads,Targeted ads,True,False,False,True
+com.canopus.otpmacgenerator.finductive,Crashlytics,Utilities,False,False,False,False
+com.canopus.otpmacgenerator.finductive,Github,Utility,False,False,False,False
+com.canopus.otpmacgenerator.finductive,Squareup,Payment,False,False,False,False
+vn.mk.token.baseotp,Crashlytics,Utilities,False,False,False,False
+vn.mk.token.baseotp,Google Ads,Targeted ads,True,False,False,True
+br.com.voegol.tokenagenciasgol,Google Ads,Targeted ads,True,False,False,True
+br.com.voegol.tokenagenciasgol,Google Analytics,Mobile analytics,False,True,False,True
+com.qrail.token,Google Ads,Targeted ads,True,False,False,True
+kr.or.kftc.fsc,Google Ads,Targeted ads,True,False,False,True
+com.authenticator.authservice2,Bumptech,Utility,False,False,False,False
+com.authenticator.authservice2,Fasterxml,Utility,False,False,False,False
+com.authenticator.authservice2,Github,Utility,False,False,False,False
+com.authenticator.authservice2,Google Ads,Targeted ads,True,False,False,True

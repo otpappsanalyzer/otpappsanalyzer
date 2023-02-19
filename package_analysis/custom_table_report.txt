@@ -1,0 +1,6 @@
+Types  & #of Apps (\%) & # of Popular apps (\%) \\ 
+anti_vm & 134(73.63\%)  & 53(29.12\%) \\ 
+anti_debug & 50(27.47\%)  & 24(13.19\%) \\ 
+obfuscator & 17(9.34\%)  & 12(6.59\%) \\ 
+anti_disassembly & 7(3.85\%)  & 3(1.65\%) \\ 
+packer & 6(3.3\%)  & 4(2.2\%) \\ 

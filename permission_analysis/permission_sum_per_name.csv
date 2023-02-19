@@ -1,0 +1,128 @@
+permission,count,status,info
+com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,55,unknown,Unknown permission
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,23,unknown,Unknown permission
+com.google.android.providers.gsf.permission.READ_GSERVICES,10,unknown,Unknown permission
+com.sec.android.provider.badge.permission.READ,6,unknown,Unknown permission
+com.sec.android.provider.badge.permission.WRITE,6,unknown,Unknown permission
+com.sonyericsson.home.permission.BROADCAST_BADGE,6,unknown,Unknown permission
+com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,6,unknown,Unknown permission
+com.anddoes.launcher.permission.UPDATE_COUNT,6,unknown,Unknown permission
+com.htc.launcher.permission.READ_SETTINGS,6,unknown,Unknown permission
+com.majeur.launcher.permission.UPDATE_BADGE,6,unknown,Unknown permission
+com.htc.launcher.permission.UPDATE_SHORTCUT,6,unknown,Unknown permission
+com.huawei.android.launcher.permission.CHANGE_BADGE,6,unknown,Unknown permission
+com.huawei.android.launcher.permission.READ_SETTINGS,6,unknown,Unknown permission
+com.huawei.android.launcher.permission.WRITE_SETTINGS,6,unknown,Unknown permission
+com.oppo.launcher.permission.WRITE_SETTINGS,5,unknown,Unknown permission
+android.permission.READ_APP_BADGE,5,unknown,Unknown permission
+com.oppo.launcher.permission.READ_SETTINGS,5,unknown,Unknown permission
+me.everything.badger.permission.BADGE_COUNT_READ,5,unknown,Unknown permission
+com.android.vending.BILLING,5,unknown,Unknown permission
+me.everything.badger.permission.BADGE_COUNT_WRITE,5,unknown,Unknown permission
+com.easysolutions.detectid_otp.permission.C2D_MESSAGE,2,unknown,Unknown permission
+com.android.browser.permission.READ_HISTORY_BOOKMARKS,2,unknown,Unknown permission
+android.permission.sec.OTP_PROVISION,2,unknown,Unknown permission
+kr.or.kftc.fsc.permission.C2D_MESSAGE,1,unknown,Unknown permission
+hr.asseco.android.otp.permission.C2D_MESSAGE,1,unknown,Unknown permission
+teakwang.tsis.motp.permission.C2D_MESSAGE,1,unknown,Unknown permission
+sk.otp.viamo.permission.C2D_MESSAGE,1,unknown,Unknown permission
+kr.co.neople.neopleotp.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.kienlongbank.etoken.permission.C2D_MESSAGE,1,unknown,Unknown permission
+otl.snkl.HDFCSnorkelOTP.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.inwebo.authenticator.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.nhn.hangameotp.toast.push.permission.RECEIVE,1,unknown,Unknown permission
+com.nhn.hangameotp.toast.push.permission.SEND,1,unknown,Unknown permission
+com.pacifico.pacificid.permission.C2D_MESSAGE,1,unknown,Unknown permission
+hr.asseco.android.jimba.otpretailng.permission.MAPS_RECEIVE,1,unknown,Unknown permission
+com18deglab.cylocklite.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.protectimus.totpburner.nfc.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.qrail.token.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.qrail.token.receiver.EzTokenpermission,1,unknown,Unknown permission
+com.rcdevs.auth.permission.MAPS_RECEIVE,1,unknown,Unknown permission
+com.samsung.android.knox.permission.KNOX_CERTIFICATE,1,unknown,Unknown permission
+com.samsung.android.knox.permission.KNOX_CERT_PROVISIONING,1,unknown,Unknown permission
+com.stove.otp.google.android.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.samsung.android.knox.permission.KNOX_ENTERPRISE_DEVICE_ADMIN,1,unknown,Unknown permission
+com.samsung.android.knox.permission.KNOX_SECURITY,1,unknown,Unknown permission
+com.sbi.SBIFreedomPlus.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.aff.otpdirekt.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.aff.otpdirekt.gcm.permission.C2D_MESSAGE,1,unknown,Unknown permission
+android.permission.ACCESS_NETWORK,1,unknown,Unknown permission
+android.permission.ACCESS_NOTIFICATION_POLICY ,1,unknown,Unknown permission
+android.permission.INTERACT_ACROSS_USERS_FULL,1,unknown,Unknown permission
+android.permission.sec.ENTERPRISE_DEVICE_ADMIN,1,unknown,Unknown permission
+android.permission.sec.MDM_CERTIFICATE,1,unknown,Unknown permission
+android.permission.sec.MDM_SECURITY,1,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol.permission.C2D_MESSAGE,1,unknown,Unknown permission
+club.nagavip.otp.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.android.launcher.permission.INSTALL_SHORTCUT,1,unknown,Unknown permission
+com.google.android.c2dm.permission.REGISTER,1,unknown,Unknown permission
+com.android.launcher.permission.READ_SETTINGS,1,unknown,Unknown permission
+com.android.launcher.permission.UNINSTALL_SHORTCUT,1,unknown,Unknown permission
+com.android.launcher.permission.WRITE_SETTINGS,1,unknown,Unknown permission
+com.arcot.otp1.storage.CustomContentProvider.READPERMISSION,1,unknown,Unknown permission
+com.azure.authenticator.knox.SUPPORT_PERMISSION,1,unknown,Unknown permission
+com.ca.sec.aa.authenticator.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.changingtec.motp.pro.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.dreammirae.anyotp.migration.provider,1,unknown,Unknown permission
+com.dreammirae.anyotp.provider,1,unknown,Unknown permission
+com.eset.esa.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,1,unknown,Unknown permission
+com.ftsafe.otp.activity.permission.MIPUSH_RECEIVE,1,unknown,Unknown permission
+com.ftsafe.otp.activity.permission.PROCESS_PUSH_MSG,1,unknown,Unknown permission
+wibmo.com.wibmoAuthApp.permission.C2D_MESSAGE,1,unknown,Unknown permission
+com.google.android.providers.gsf.permission.WRITE_GSERVICES,1,signatureOrSystem,modify the Google services map
+android.permission.CHANGE_CONFIGURATION,1,signatureOrSystem,change your UI settings
+android.permission.CLEAR_APP_CACHE,1,signatureOrSystem,delete all application cache data
+android.permission.WRITE_SECURE_SETTINGS,1,signatureOrSystem,modify secure system settings
+com.google.android.c2dm.permission.RECEIVE,72,signature,C2DM permissions
+com.google.android.c2dm.intent.RECEIVE,1,signature,C2DM permissions
+android.permission.INTERNET,147,normal,full Internet access
+android.permission.ACCESS_NETWORK_STATE,129,normal,view network status
+android.permission.WAKE_LOCK,88,normal,prevent phone from sleeping
+android.permission.USE_FINGERPRINT,81,normal,allow use of fingerprint
+android.permission.VIBRATE,61,normal,control vibrator
+android.permission.ACCESS_WIFI_STATE,45,normal,view Wi-Fi status
+android.permission.USE_BIOMETRIC,37,normal,
+android.permission.FLASHLIGHT,23,normal,control flashlight
+android.permission.RECEIVE_BOOT_COMPLETED,21,normal,automatically start at boot
+android.permission.CHANGE_WIFI_STATE,16,normal,change Wi-Fi status
+android.permission.FOREGROUND_SERVICE,13,normal,
+android.permission.BLUETOOTH,8,normal,create Bluetooth connections
+android.permission.NFC,8,normal,control Near-Field Communication
+android.permission.CHANGE_NETWORK_STATE,7,normal,change network connectivity
+android.permission.RESTART_PACKAGES,5,normal,kill background processes
+android.permission.USE_FULL_SCREEN_INTENT,4,normal,
+android.permission.EXPAND_STATUS_BAR,3,normal,expand/collapse status bar
+android.permission.REORDER_TASKS,3,normal,reorder applications running
+android.permission.MODIFY_AUDIO_SETTINGS,3,normal,change your audio settings
+android.permission.GET_PACKAGE_SIZE,2,normal,measure application storage space
+android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,2,normal,
+android.permission.REQUEST_DELETE_PACKAGES,2,normal,
+android.permission.KILL_BACKGROUND_PROCESSES,2,normal,kill background processes
+android.permission.BLUETOOTH_ADMIN,2,normal,bluetooth administration
+android.permission.QUERY_ALL_PACKAGES,2,normal,
+android.permission.DISABLE_KEYGUARD,1,normal,
+android.permission.CAMERA,111,dangerous,take pictures and videos
+android.permission.READ_PHONE_STATE,75,dangerous,read phone state and identity
+android.permission.WRITE_EXTERNAL_STORAGE,54,dangerous,read/modify/delete external storage contents
+android.permission.READ_EXTERNAL_STORAGE,43,dangerous,read external storage contents
+android.permission.ACCESS_FINE_LOCATION,15,dangerous,fine (GPS) location
+android.permission.ACCESS_COARSE_LOCATION,12,dangerous,coarse (network-based) location
+android.permission.GET_TASKS,12,dangerous,retrieve running applications
+android.permission.GET_ACCOUNTS,11,dangerous,list accounts
+android.permission.SYSTEM_ALERT_WINDOW,10,dangerous,display system-level alerts
+android.permission.CALL_PHONE,7,dangerous,directly call phone numbers
+android.permission.RECORD_AUDIO,7,dangerous,record audio
+android.permission.READ_CONTACTS,6,dangerous,read contact data
+android.permission.USE_CREDENTIALS,5,dangerous,use the authentication credentials of an account
+android.permission.WRITE_SETTINGS,5,dangerous,modify global system settings
+android.permission.AUTHENTICATE_ACCOUNTS,5,dangerous,act as an account authenticator
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS,3,dangerous,mount and unmount file systems
+android.Manifest.permission.READ_PHONE_STATE,2,dangerous,read phone state and identity
+android.permission.REQUEST_INSTALL_PACKAGES,2,dangerous,Allows an application to request installing packages.
+android.permission.READ_PROFILE,2,dangerous,read the user's personal profile data
+android.permission.READ_LOGS,2,dangerous,read sensitive log data
+android.permission.MANAGE_ACCOUNTS,2,dangerous,manage the accounts list
+android.permission.SET_ANIMATION_SCALE,1,dangerous,modify global animation speed
+android.permission.WRITE_CONTACTS,1,dangerous,write contact data

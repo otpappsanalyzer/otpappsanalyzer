@@ -1,0 +1,1425 @@
+file_name,permission,status,info
+it.uiv.uivotp,android.permission.INTERNET,normal,full Internet access
+com.mobilians.motp,android.permission.INTERNET,normal,full Internet access
+com.mobilians.motp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.mobilians.motp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.mobilians.motp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.mobilians.motp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.mobilians.motp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.mobilians.motp,android.permission.CAMERA,dangerous,take pictures and videos
+com.mobilians.motp,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+com.mobilians.motp,android.permission.WRITE_SETTINGS,dangerous,modify global system settings
+com.mobilians.motp,android.permission.SET_ANIMATION_SCALE,dangerous,modify global animation speed
+com.mobilians.motp,android.permission.WRITE_SECURE_SETTINGS,signatureOrSystem,modify secure system settings
+com.mobilians.motp,android.permission.USE_FULL_SCREEN_INTENT,normal,
+com.mobilians.motp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.mobilians.motp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.vivokey.vivoauth,android.permission.NFC,normal,control Near-Field Communication
+com.vivokey.vivoauth,android.permission.CAMERA,dangerous,take pictures and videos
+jp.co.nttdata.onetimepassworda,android.permission.INTERNET,normal,full Internet access
+jp.co.nttdata.onetimepassworda,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+jp.co.nttdata.onetimepassworda,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+jp.co.nttdata.onetimepassworda,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+jp.co.nttdata.onetimepassworda,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+jp.co.nttdata.onetimepassworda,android.permission.USE_BIOMETRIC,normal,
+jp.co.nttdata.onetimepassworda,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+jp.co.nttdata.onetimepassworda,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+jp.co.nttdata.onetimepassworda,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.andxor.mobile.jsotp.piteco,android.permission.INTERNET,normal,full Internet access
+com.andxor.mobile.jsotp.piteco,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.andxor.mobile.jsotp.piteco,android.permission.CAMERA,dangerous,take pictures and videos
+com.andxor.mobile.jsotp.piteco,android.permission.FLASHLIGHT,normal,control flashlight
+com.mts.opt2,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.mts.opt2,android.permission.INTERNET,normal,full Internet access
+oracle.idm.mobile.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+oracle.idm.mobile.authenticator,android.permission.INTERNET,normal,full Internet access
+oracle.idm.mobile.authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+oracle.idm.mobile.authenticator,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+oracle.idm.mobile.authenticator,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+oracle.idm.mobile.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+oracle.idm.mobile.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+oracle.idm.mobile.authenticator,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+oracle.idm.mobile.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+wibmo.com.wibmoAuthApp,android.permission.INTERNET,normal,full Internet access
+wibmo.com.wibmoAuthApp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+wibmo.com.wibmoAuthApp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+wibmo.com.wibmoAuthApp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+wibmo.com.wibmoAuthApp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+wibmo.com.wibmoAuthApp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+wibmo.com.wibmoAuthApp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+wibmo.com.wibmoAuthApp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+wibmo.com.wibmoAuthApp,wibmo.com.wibmoAuthApp.permission.C2D_MESSAGE,unknown,Unknown permission
+com.forgerock.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+com.forgerock.authenticator,android.permission.INTERNET,normal,full Internet access
+com.forgerock.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.forgerock.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.forgerock.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.forgerock.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.stove.otp.google.android,android.permission.INTERNET,normal,full Internet access
+com.stove.otp.google.android,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.stove.otp.google.android,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.stove.otp.google.android,android.permission.REORDER_TASKS,normal,reorder applications running
+com.stove.otp.google.android,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.stove.otp.google.android,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.stove.otp.google.android,com.stove.otp.google.android.permission.C2D_MESSAGE,unknown,Unknown permission
+com.stove.otp.google.android,android.permission.VIBRATE,normal,control vibrator
+com.stove.otp.google.android,android.permission.USE_CREDENTIALS,dangerous,use the authentication credentials of an account
+com.stove.otp.google.android,android.permission.AUTHENTICATE_ACCOUNTS,dangerous,act as an account authenticator
+com.stove.otp.google.android,android.permission.NFC,normal,control Near-Field Communication
+com.stove.otp.google.android,android.permission.CAMERA,dangerous,take pictures and videos
+com.ocb.iotp,android.permission.INTERNET,normal,full Internet access
+com.ocb.iotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.ocb.iotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ocb.iotp,android.Manifest.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ocb.iotp,android.permission.USE_BIOMETRIC,normal,
+com.ocb.iotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.ocb.iotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.ocb.iotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.ocb.iotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.ocb.iotp,android.permission.FOREGROUND_SERVICE,normal,
+com.ocb.iotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.mds.canarabankapp,android.permission.CAMERA,dangerous,take pictures and videos
+com.mds.canarabankapp,android.permission.INTERNET,normal,full Internet access
+com.mds.canarabankapp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.mds.canarabankapp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.mds.canarabankapp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.mds.canarabankapp,android.permission.NFC,normal,control Near-Field Communication
+com.mds.canarabankapp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.kmcert.myotp,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.kmcert.myotp,android.permission.VIBRATE,normal,control vibrator
+com.kmcert.myotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.kmcert.myotp,android.permission.INTERNET,normal,full Internet access
+com.kmcert.myotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.kmcert.myotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.kmcert.myotp,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.kmcert.myotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.kmcert.myotp,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+com.kmcert.myotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.kmcert.myotp,android.permission.USE_FULL_SCREEN_INTENT,normal,
+com.kmcert.myotp,android.permission.REQUEST_DELETE_PACKAGES,normal,
+com.kmcert.myotp,android.permission.FOREGROUND_SERVICE,normal,
+com.kmcert.myotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.kmcert.myotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+cy.nbg.nbgcyotp,android.permission.VIBRATE,normal,control vibrator
+cy.nbg.nbgcyotp,android.permission.INTERNET,normal,full Internet access
+cy.nbg.nbgcyotp,android.permission.USE_BIOMETRIC,normal,
+cy.nbg.nbgcyotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+cy.nbg.nbgcyotp,android.permission.CAMERA,dangerous,take pictures and videos
+cy.nbg.nbgcyotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+cy.nbg.nbgcyotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+cy.nbg.nbgcyotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+cy.nbg.nbgcyotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+club.nagavip.otp,android.permission.INTERNET,normal,full Internet access
+club.nagavip.otp,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+club.nagavip.otp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+club.nagavip.otp,club.nagavip.otp.permission.C2D_MESSAGE,unknown,Unknown permission
+club.nagavip.otp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+club.nagavip.otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+club.nagavip.otp,android.permission.VIBRATE,normal,control vibrator
+club.nagavip.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+club.nagavip.otp,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+club.nagavip.otp,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+club.nagavip.otp,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+club.nagavip.otp,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+club.nagavip.otp,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+club.nagavip.otp,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+club.nagavip.otp,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+club.nagavip.otp,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+club.nagavip.otp,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+club.nagavip.otp,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+club.nagavip.otp,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+club.nagavip.otp,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+club.nagavip.otp,android.permission.READ_APP_BADGE,unknown,Unknown permission
+club.nagavip.otp,com.oppo.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+club.nagavip.otp,com.oppo.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+club.nagavip.otp,me.everything.badger.permission.BADGE_COUNT_READ,unknown,Unknown permission
+club.nagavip.otp,me.everything.badger.permission.BADGE_COUNT_WRITE,unknown,Unknown permission
+club.nagavip.otp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.ADIBSDIGIPASS,android.permission.CAMERA,dangerous,take pictures and videos
+com.ADIBSDIGIPASS,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.ADIBSDIGIPASS,android.permission.INTERNET,normal,full Internet access
+com.ADIBSDIGIPASS,android.permission.VIBRATE,normal,control vibrator
+com.ADIBSDIGIPASS,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.ADIBSDIGIPASS,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.ADIBSDIGIPASS,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.yubico.yubioath,android.permission.CAMERA,dangerous,take pictures and videos
+com.yubico.yubioath,android.permission.NFC,normal,control Near-Field Communication
+org.kamrul.android.myauth,android.permission.CAMERA,dangerous,take pictures and videos
+org.kamrul.android.myauth,android.permission.INTERNET,normal,full Internet access
+org.kamrul.android.myauth,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+tdb.otp,android.permission.INTERNET,normal,full Internet access
+tdb.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.GlowOTP,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.GlowOTP,android.permission.CAMERA,dangerous,take pictures and videos
+com.GlowOTP,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.GlowOTP,android.permission.INTERNET,normal,full Internet access
+com.GlowOTP,android.permission.VIBRATE,normal,control vibrator
+com.GlowOTP,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.GlowOTP,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.GlowOTP,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sgn.secureguardotp,android.permission.INTERNET,normal,full Internet access
+com.sgn.secureguardotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sgn.secureguardotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.sgn.secureguardotp,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.sgn.secureguardotp,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.sgn.secureguardotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.sgn.secureguardotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.sgn.secureguardotp,android.permission.RESTART_PACKAGES,normal,kill background processes
+com.sgn.secureguardotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.sgn.secureguardotp,android.permission.USE_BIOMETRIC,normal,
+it.company.sielte,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+it.company.sielte,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+it.company.sielte,android.permission.CAMERA,dangerous,take pictures and videos
+it.company.sielte,android.permission.FLASHLIGHT,normal,control flashlight
+it.company.sielte,android.permission.INTERNET,normal,full Internet access
+it.company.sielte,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+it.company.sielte,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+it.company.sielte,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+it.company.sielte,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+it.company.sielte,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+it.company.sielte,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+it.company.sielte,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.arcot.otp1,android.permission.INTERNET,normal,full Internet access
+com.arcot.otp1,android.permission.READ_LOGS,dangerous,read sensitive log data
+com.arcot.otp1,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.arcot.otp1,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.arcot.otp1,android.permission.CAMERA,dangerous,take pictures and videos
+com.arcot.otp1,android.permission.VIBRATE,normal,control vibrator
+com.arcot.otp1,android.permission.FLASHLIGHT,normal,control flashlight
+com.arcot.otp1,com.android.browser.permission.READ_HISTORY_BOOKMARKS,unknown,Unknown permission
+com.arcot.otp1,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.arcot.otp1,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.arcot.otp1,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+sg.worktable.pingoauth,android.permission.CAMERA,dangerous,take pictures and videos
+sg.worktable.pingoauth,android.permission.USE_BIOMETRIC,normal,
+sg.worktable.pingoauth,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+sg.worktable.pingoauth,android.permission.INTERNET,normal,full Internet access
+sg.worktable.pingoauth,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+sg.worktable.pingoauth,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+sg.worktable.pingoauth,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+sg.worktable.pingoauth,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.gemalto.idprove,android.permission.CAMERA,dangerous,take pictures and videos
+com.gemalto.idprove,android.permission.FLASHLIGHT,normal,control flashlight
+com.gemalto.idprove,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.gemalto.idprove,android.permission.INTERNET,normal,full Internet access
+com.gemalto.idprove,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.gemalto.idprove,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+vn.mk.token.baseotp,android.permission.USE_BIOMETRIC,normal,
+vn.mk.token.baseotp,android.permission.CAMERA,dangerous,take pictures and videos
+vn.mk.token.baseotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.mk.token.baseotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+vn.mk.token.baseotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.mk.token.baseotp,android.permission.INTERNET,normal,full Internet access
+vn.mk.token.baseotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vn.mk.token.baseotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+vn.mk.token.baseotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.zenithbank.zenithetoken,android.permission.INTERNET,normal,full Internet access
+com.zenithbank.zenithetoken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.zenithbank.zenithetoken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.zenithbank.zenithetoken,android.permission.VIBRATE,normal,control vibrator
+com.net2recharge.otp,android.permission.VIBRATE,normal,control vibrator
+com.net2recharge.otp,android.permission.INTERNET,normal,full Internet access
+com.net2recharge.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.novoload.otp,android.permission.VIBRATE,normal,control vibrator
+com.novoload.otp,android.permission.INTERNET,normal,full Internet access
+com.novoload.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.aircuve.aircuvemobile,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.aircuve.aircuvemobile,android.permission.VIBRATE,normal,control vibrator
+com.aircuve.aircuvemobile,android.permission.CAMERA,dangerous,take pictures and videos
+com.aircuve.aircuvemobile,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.aircuve.aircuvemobile,android.permission.INTERNET,normal,full Internet access
+com.aircuve.aircuvemobile,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.aircuve.aircuvemobile,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.aircuve.aircuvemobile,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.pentasecurity.isignplus.mobileotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.pentasecurity.isignplus.mobileotp,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.pentasecurity.isignplus.mobileotp,android.permission.VIBRATE,normal,control vibrator
+ar.gob.afip.mobile.android.internal.seginfo,android.permission.CAMERA,dangerous,take pictures and videos
+ar.gob.afip.mobile.android.internal.seginfo,android.permission.INTERNET,normal,full Internet access
+two.factor.secure.otp.authentication,android.permission.INTERNET,normal,full Internet access
+two.factor.secure.otp.authentication,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+two.factor.secure.otp.authentication,android.permission.CAMERA,dangerous,take pictures and videos
+two.factor.secure.otp.authentication,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.goldtime.authy,android.permission.INTERNET,normal,full Internet access
+com.goldtime.authy,android.permission.CAMERA,dangerous,take pictures and videos
+com.goldtime.authy,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.goldtime.authy,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+org.fedorahosted.freeotp,android.permission.CAMERA,dangerous,take pictures and videos
+org.fedorahosted.freeotp,android.permission.INTERNET,normal,full Internet access
+org.fedorahosted.freeotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.beemdevelopment.aegis,android.permission.CAMERA,dangerous,take pictures and videos
+com.beemdevelopment.aegis,android.permission.USE_BIOMETRIC,normal,
+com.beemdevelopment.aegis,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.inwebo.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+com.inwebo.authenticator,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.inwebo.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.inwebo.authenticator,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.inwebo.authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.inwebo.authenticator,android.permission.USE_BIOMETRIC,normal,
+com.inwebo.authenticator,android.permission.INTERNET,normal,full Internet access
+com.inwebo.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.inwebo.authenticator,android.permission.VIBRATE,normal,control vibrator
+com.inwebo.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.inwebo.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.inwebo.authenticator,com.inwebo.authenticator.permission.C2D_MESSAGE,unknown,Unknown permission
+com.trumotp.club,android.permission.INTERNET,normal,full Internet access
+com.trumotp.club,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+com.trumotp.club,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.trumotp.club,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.trumotp.club,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.trumotp.club,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,dangerous,mount and unmount file systems
+com.trumotp.club,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.lenovo.otp,android.permission.INTERNET,normal,full Internet access
+com.lenovo.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.lenovo.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.lenovo.otp,android.permission.VIBRATE,normal,control vibrator
+com.lenovo.otp,android.permission.REQUEST_INSTALL_PACKAGES,dangerous,Allows an application to request installing packages.
+hr.asseco.android.intesa.isbd.alex,android.permission.INTERNET,normal,full Internet access
+hr.asseco.android.intesa.isbd.alex,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+hr.asseco.android.intesa.isbd.alex,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+hr.asseco.android.intesa.isbd.alex,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+hr.asseco.android.intesa.isbd.alex,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+hr.asseco.android.intesa.isbd.alex,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+hr.asseco.android.intesa.isbd.alex,android.permission.VIBRATE,normal,control vibrator
+hr.asseco.android.intesa.isbd.alex,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+hr.asseco.android.intesa.isbd.alex,android.permission.MODIFY_AUDIO_SETTINGS,normal,change your audio settings
+hr.asseco.android.intesa.isbd.alex,android.permission.RECORD_AUDIO,dangerous,record audio
+hr.asseco.android.intesa.isbd.alex,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+hr.asseco.android.intesa.isbd.alex,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+hr.asseco.android.intesa.isbd.alex,android.permission.CAMERA,dangerous,take pictures and videos
+hr.asseco.android.intesa.isbd.alex,android.permission.FLASHLIGHT,normal,control flashlight
+hr.asseco.android.intesa.isbd.alex,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+hr.asseco.android.intesa.isbd.alex,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+hr.asseco.android.intesa.isbd.alex,android.permission.READ_CONTACTS,dangerous,read contact data
+hr.asseco.android.intesa.isbd.alex,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+hr.asseco.android.intesa.isbd.alex,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+hr.asseco.android.intesa.isbd.alex,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+hr.asseco.android.intesa.isbd.alex,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+hr.asseco.android.intesa.isbd.alex,android.permission.BLUETOOTH,normal,create Bluetooth connections
+hr.asseco.android.intesa.isbd.alex,com.google.android.c2dm.intent.RECEIVE,signature,C2DM permissions
+vn.com.eximbank.softotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.com.eximbank.softotp,android.permission.INTERNET,normal,full Internet access
+vn.com.eximbank.softotp,android.permission.CAMERA,dangerous,take pictures and videos
+vn.com.eximbank.softotp,android.permission.sec.OTP_PROVISION,unknown,Unknown permission
+vn.com.eximbank.softotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vn.com.eximbank.softotp,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+vn.com.eximbank.softotp,android.permission.FOREGROUND_SERVICE,normal,
+vn.com.eximbank.softotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+vn.com.eximbank.softotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.sgn.sgotp.lotte,android.permission.INTERNET,normal,full Internet access
+com.sgn.sgotp.lotte,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sgn.sgotp.lotte,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.sgn.sgotp.lotte,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.sgn.sgotp.lotte,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.sgn.sgotp.lotte,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.sgn.sgotp.lotte,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+netinfo.eu.symantec,android.permission.INTERNET,normal,full Internet access
+netinfo.eu.symantec,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+netinfo.eu.symantec,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+netinfo.eu.symantec,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+netinfo.eu.symantec,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+netinfo.eu.symantec,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+netinfo.eu.symantec,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.halcom.ng.mobile.puppaltr,android.permission.CAMERA,dangerous,take pictures and videos
+com.halcom.ng.mobile.puppaltr,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.halcom.ng.mobile.puppaltr,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.halcom.ng.mobile.puppaltr,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.halcom.ng.mobile.puppaltr,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.halcom.ng.mobile.puppaltr,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.halcom.ng.mobile.puppaltr,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+com.halcom.ng.mobile.puppaltr,android.permission.INTERNET,normal,full Internet access
+com.halcom.ng.mobile.puppaltr,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+com.halcom.ng.mobile.puppaltr,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.halcom.ng.mobile.puppaltr,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.halcom.ng.mobile.puppaltr,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.halcom.ng.mobile.puppaltr,android.permission.FLASHLIGHT,normal,control flashlight
+com.dreammirae.anyauth.android,com.dreammirae.anyotp.migration.provider,unknown,Unknown permission
+com.dreammirae.anyauth.android,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.dreammirae.anyauth.android,android.permission.INTERNET,normal,full Internet access
+com.dreammirae.anyauth.android,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.dreammirae.anyauth.android,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.dreammirae.anyauth.android,android.permission.CAMERA,dangerous,take pictures and videos
+com.dreammirae.anyauth.android,android.permission.USE_BIOMETRIC,normal,
+com.dreammirae.anyauth.android,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.dreammirae.anyauth.android,com.dreammirae.anyotp.provider,unknown,Unknown permission
+com.dreammirae.anyauth.android,android.permission.USE_FULL_SCREEN_INTENT,normal,
+com.dreammirae.anyauth.android,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.dreammirae.anyauth.android,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.dreammirae.anyauth.android,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.dreammirae.anyauth.android,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.FAISATOKEN,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.FAISATOKEN,android.permission.CAMERA,dangerous,take pictures and videos
+com.FAISATOKEN,android.permission.VIBRATE,normal,control vibrator
+com.FAISATOKEN,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.FAISATOKEN,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.FAISATOKEN,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+me.jmh.authenticatorpro,android.permission.CAMERA,dangerous,take pictures and videos
+me.jmh.authenticatorpro,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,normal,
+me.jmh.authenticatorpro,android.permission.FLASHLIGHT,normal,control flashlight
+me.jmh.authenticatorpro,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+me.jmh.authenticatorpro,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+me.jmh.authenticatorpro,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+me.jmh.authenticatorpro,android.permission.FOREGROUND_SERVICE,normal,
+me.jmh.authenticatorpro,android.permission.USE_BIOMETRIC,normal,
+me.jmh.authenticatorpro,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+at.tugraz.iaik.signapp,android.permission.INTERNET,normal,full Internet access
+at.tugraz.iaik.signapp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+at.tugraz.iaik.signapp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+at.tugraz.iaik.signapp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+at.tugraz.iaik.signapp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.entrust.identityGuard.mobile,android.permission.FOREGROUND_SERVICE,normal,
+com.entrust.identityGuard.mobile,android.permission.INTERNET,normal,full Internet access
+com.entrust.identityGuard.mobile,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.entrust.identityGuard.mobile,android.permission.VIBRATE,normal,control vibrator
+com.entrust.identityGuard.mobile,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.entrust.identityGuard.mobile,android.permission.CAMERA,dangerous,take pictures and videos
+com.entrust.identityGuard.mobile,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.entrust.identityGuard.mobile,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.entrust.identityGuard.mobile,android.permission.sec.OTP_PROVISION,unknown,Unknown permission
+com.entrust.identityGuard.mobile,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.entrust.identityGuard.mobile,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.entrust.identityGuard.mobile,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.entrust.identityGuard.mobile,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.entrust.identityGuard.mobile,android.permission.WRITE_SETTINGS,dangerous,modify global system settings
+com.gstotpauthenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.gstotpauthenticator,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.gstotpauthenticator,android.permission.INTERNET,normal,full Internet access
+com.gstotpauthenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.gstotpauthenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.gstotpauthenticator,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+hr.asseco.android.mtoken.ht.test,android.permission.INTERNET,normal,full Internet access
+hr.asseco.android.mtoken.ht.test,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+hr.asseco.android.mtoken.ht.test,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.dxc.ipwr,android.permission.INTERNET,normal,full Internet access
+com.dxc.ipwr,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.systemat.SeeZam_OTP,android.permission.VIBRATE,normal,control vibrator
+com.systemat.SeeZam_OTP,android.permission.INTERNET,normal,full Internet access
+com.systemat.SeeZam_OTP,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.systemat.SeeZam_OTP,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.systemat.SeeZam_OTP,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.authy.authy,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.authy.authy,android.permission.CAMERA,dangerous,take pictures and videos
+com.authy.authy,android.permission.INTERNET,normal,full Internet access
+com.authy.authy,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.authy.authy,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.authy.authy,android.permission.VIBRATE,normal,control vibrator
+com.authy.authy,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.authy.authy,android.permission.FOREGROUND_SERVICE,normal,
+com.authy.authy,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+teakwang.tsis.motp,android.permission.INTERNET,normal,full Internet access
+teakwang.tsis.motp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+teakwang.tsis.motp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+teakwang.tsis.motp,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+teakwang.tsis.motp,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+teakwang.tsis.motp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+teakwang.tsis.motp,android.permission.GET_TASKS,dangerous,retrieve running applications
+teakwang.tsis.motp,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+teakwang.tsis.motp,teakwang.tsis.motp.permission.C2D_MESSAGE,unknown,Unknown permission
+teakwang.tsis.motp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+teakwang.tsis.motp,android.permission.GET_ACCOUNTS,dangerous,list accounts
+teakwang.tsis.motp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+teakwang.tsis.motp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+teakwang.tsis.motp,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+teakwang.tsis.motp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.protectimus.totpburner.nfc,android.permission.INTERNET,normal,full Internet access
+com.protectimus.totpburner.nfc,android.permission.NFC,normal,control Near-Field Communication
+com.protectimus.totpburner.nfc,android.permission.CAMERA,dangerous,take pictures and videos
+com.protectimus.totpburner.nfc,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.protectimus.totpburner.nfc,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.protectimus.totpburner.nfc,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.protectimus.totpburner.nfc,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.protectimus.totpburner.nfc,com.protectimus.totpburner.nfc.permission.C2D_MESSAGE,unknown,Unknown permission
+it.aruba.pec.mobile.otp,android.permission.INTERNET,normal,full Internet access
+it.aruba.pec.mobile.otp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+it.aruba.pec.mobile.otp,android.permission.USE_BIOMETRIC,normal,
+it.aruba.pec.mobile.otp,android.permission.CAMERA,dangerous,take pictures and videos
+it.aruba.pec.mobile.otp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+it.aruba.pec.mobile.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+it.aruba.pec.mobile.otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+it.aruba.pec.mobile.otp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.protectimus.android,android.permission.VIBRATE,normal,control vibrator
+com.protectimus.android,android.permission.INTERNET,normal,full Internet access
+com.protectimus.android,android.permission.CAMERA,dangerous,take pictures and videos
+com.protectimus.android,android.permission.FLASHLIGHT,normal,control flashlight
+com.protectimus.android,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.protectimus.android,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.vpbank.vpbanksmartotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.vpbank.vpbanksmartotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.vpbank.vpbanksmartotp,android.permission.INTERNET,normal,full Internet access
+com.vpbank.vpbanksmartotp,android.permission.USE_BIOMETRIC,normal,
+com.vpbank.vpbanksmartotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.vpbank.vpbanksmartotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.vpbank.vpbanksmartotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.vpbank.vpbanksmartotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.vpbank.vpbanksmartotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.vpbank.vpbanksmartotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+br.com.powersoftware.otpsafe,android.permission.INTERNET,normal,full Internet access
+br.com.powersoftware.otpsafe,android.permission.CAMERA,dangerous,take pictures and videos
+br.com.powersoftware.otpsafe,android.permission.FLASHLIGHT,normal,control flashlight
+br.com.powersoftware.otpsafe,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+br.com.powersoftware.otpsafe,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.atsolution.android.uotp2,android.permission.INTERNET,normal,full Internet access
+com.atsolution.android.uotp2,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.atsolution.android.uotp2,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+com.atsolution.android.uotp2,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+org.shadowice.flocke.andotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.aircuve.motpkey_miraeasset,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.aircuve.motpkey_miraeasset,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.aircuve.motpkey_miraeasset,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+com.aircuve.motpkey_miraeasset,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.aircuve.motpkey_miraeasset,android.permission.INTERNET,normal,full Internet access
+com.aircuve.motpkey_miraeasset,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.aircuve.motpkey_miraeasset,android.permission.CAMERA,dangerous,take pictures and videos
+com.changingtec.motp.pro,android.permission.INTERNET,normal,full Internet access
+com.changingtec.motp.pro,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.changingtec.motp.pro,android.permission.CAMERA,dangerous,take pictures and videos
+com.changingtec.motp.pro,android.permission.VIBRATE,normal,control vibrator
+com.changingtec.motp.pro,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+com.changingtec.motp.pro,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.changingtec.motp.pro,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.changingtec.motp.pro,com.changingtec.motp.pro.permission.C2D_MESSAGE,unknown,Unknown permission
+com.changingtec.motp.pro,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.changingtec.motp.pro,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.pacifico.pacificid,android.permission.INTERNET,normal,full Internet access
+com.pacifico.pacificid,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.pacifico.pacificid,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.pacifico.pacificid,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.pacifico.pacificid,com.easysolutions.detectid_otp.permission.C2D_MESSAGE,unknown,Unknown permission
+com.pacifico.pacificid,android.permission.CAMERA,dangerous,take pictures and videos
+com.pacifico.pacificid,android.permission.EXPAND_STATUS_BAR,normal,expand/collapse status bar
+com.pacifico.pacificid,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.pacifico.pacificid,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.pacifico.pacificid,android.permission.VIBRATE,normal,control vibrator
+com.pacifico.pacificid,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.pacifico.pacificid,android.permission.RECORD_AUDIO,dangerous,record audio
+com.pacifico.pacificid,android.permission.WRITE_SETTINGS,dangerous,modify global system settings
+com.pacifico.pacificid,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+com.pacifico.pacificid,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+com.pacifico.pacificid,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.pacifico.pacificid,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+com.pacifico.pacificid,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+com.pacifico.pacificid,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+com.pacifico.pacificid,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+com.pacifico.pacificid,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+com.pacifico.pacificid,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+com.pacifico.pacificid,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.pacifico.pacificid,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.pacifico.pacificid,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.pacifico.pacificid,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.pacifico.pacificid,android.permission.READ_APP_BADGE,unknown,Unknown permission
+com.pacifico.pacificid,com.oppo.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.pacifico.pacificid,com.oppo.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.pacifico.pacificid,me.everything.badger.permission.BADGE_COUNT_READ,unknown,Unknown permission
+com.pacifico.pacificid,me.everything.badger.permission.BADGE_COUNT_WRITE,unknown,Unknown permission
+com.pacifico.pacificid,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.pacifico.pacificid,com.pacifico.pacificid.permission.C2D_MESSAGE,unknown,Unknown permission
+com.BANKABC,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.BANKABC,android.permission.CAMERA,dangerous,take pictures and videos
+com.BANKABC,android.permission.VIBRATE,normal,control vibrator
+com.BANKABC,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.BANKABC,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.BANKABC,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.BANKABC,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+eu.netinfo.netteller.cqur.motp,android.permission.INTERNET,normal,full Internet access
+eu.netinfo.netteller.cqur.motp,android.permission.USE_BIOMETRIC,normal,
+eu.netinfo.netteller.cqur.motp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+eu.netinfo.netteller.cqur.motp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+eu.netinfo.netteller.cqur.motp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+eu.netinfo.netteller.cqur.motp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+eu.netinfo.netteller.cqur.motp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.vn.vib.smeotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.vn.vib.smeotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.vn.vib.smeotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.vn.vib.smeotp,android.permission.INTERNET,normal,full Internet access
+com.vn.vib.smeotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.vn.vib.smeotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.vn.vib.smeotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.vn.vib.smeotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.vn.vib.smeotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+vn.com.sacombank.msign,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.com.sacombank.msign,android.permission.INTERNET,normal,full Internet access
+vn.com.sacombank.msign,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vn.com.sacombank.msign,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+vn.com.sacombank.msign,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.com.sacombank.msign,android.permission.CAMERA,dangerous,take pictures and videos
+vn.com.sacombank.msign,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.kiwoom.unitycert,android.permission.INTERNET,normal,full Internet access
+com.kiwoom.unitycert,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.kiwoom.unitycert,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.kiwoom.unitycert,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.kiwoom.unitycert,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.kiwoom.unitycert,android.permission.VIBRATE,normal,control vibrator
+com.kiwoom.unitycert,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.kiwoom.unitycert,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+com.kiwoom.unitycert,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.ezmcom.cimb.softtoken.ezidv4,android.permission.CAMERA,dangerous,take pictures and videos
+com.ezmcom.cimb.softtoken.ezidv4,android.permission.INTERNET,normal,full Internet access
+com.ezmcom.cimb.softtoken.ezidv4,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.ezmcom.cimb.softtoken.ezidv4,android.permission.VIBRATE,normal,control vibrator
+com.feelanet.artstrongid.sec,android.permission.INTERNET,normal,full Internet access
+com.feelanet.artstrongid.sec,android.permission.CAMERA,dangerous,take pictures and videos
+com.feelanet.artstrongid.sec,android.permission.VIBRATE,normal,control vibrator
+com.feelanet.artstrongid.sec,android.permission.USE_BIOMETRIC,normal,
+com.feelanet.artstrongid.sec,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.feelanet.artstrongid.sec,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.feelanet.artstrongid.sec,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.feelanet.artstrongid.sec,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.feelanet.artstrongid.sec,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+io.faceotp.faceotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+io.faceotp.faceotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+io.faceotp.faceotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+io.faceotp.faceotp,android.permission.INTERNET,normal,full Internet access
+io.faceotp.faceotp,android.permission.CAMERA,dangerous,take pictures and videos
+io.faceotp.faceotp,android.permission.READ_CONTACTS,dangerous,read contact data
+io.faceotp.faceotp,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+io.faceotp.faceotp,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+io.faceotp.faceotp,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+io.faceotp.faceotp,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+io.faceotp.faceotp,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+io.faceotp.faceotp,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+io.faceotp.faceotp,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+io.faceotp.faceotp,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+io.faceotp.faceotp,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+io.faceotp.faceotp,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+io.faceotp.faceotp,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+io.faceotp.faceotp,android.permission.READ_APP_BADGE,unknown,Unknown permission
+io.faceotp.faceotp,com.oppo.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+io.faceotp.faceotp,com.oppo.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+io.faceotp.faceotp,me.everything.badger.permission.BADGE_COUNT_READ,unknown,Unknown permission
+io.faceotp.faceotp,me.everything.badger.permission.BADGE_COUNT_WRITE,unknown,Unknown permission
+io.faceotp.faceotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+io.faceotp.faceotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+io.faceotp.faceotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+ru.yandex.key,android.permission.CAMERA,dangerous,take pictures and videos
+ru.yandex.key,android.permission.VIBRATE,normal,control vibrator
+ru.yandex.key,android.permission.INTERNET,normal,full Internet access
+ru.yandex.key,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+ru.yandex.key,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+ru.yandex.key,android.permission.USE_CREDENTIALS,dangerous,use the authentication credentials of an account
+ru.yandex.key,android.permission.GET_ACCOUNTS,dangerous,list accounts
+ru.yandex.key,android.permission.MANAGE_ACCOUNTS,dangerous,manage the accounts list
+ru.yandex.key,android.permission.AUTHENTICATE_ACCOUNTS,dangerous,act as an account authenticator
+dev.cat.coffee.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+dev.cat.coffee.authenticator,android.permission.GET_ACCOUNTS,dangerous,list accounts
+dev.cat.coffee.authenticator,android.permission.INTERNET,normal,full Internet access
+dev.cat.coffee.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+dev.cat.coffee.authenticator,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+dev.cat.coffee.authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+dev.cat.coffee.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+dev.cat.coffee.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+dev.cat.coffee.authenticator,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+ro.len.mobile,android.permission.INTERNET,normal,full Internet access
+ro.len.mobile,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+ro.len.mobile,android.permission.VIBRATE,normal,control vibrator
+com.sgn.sgotp,android.permission.INTERNET,normal,full Internet access
+com.sgn.sgotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sgn.sgotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.sgn.sgotp,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.sgn.sgotp,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.sgn.sgotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.sgn.sgotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.sgn.sgotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.sgn.sgotp,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.portwise.mid.clients.android,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.portwise.mid.clients.android,android.permission.INTERNET,normal,full Internet access
+com.portwise.mid.clients.android,android.permission.FOREGROUND_SERVICE,normal,
+com.canopus.otpmacgenerator.finductive,android.permission.INTERNET,normal,full Internet access
+com.canopus.otpmacgenerator.finductive,android.permission.CAMERA,dangerous,take pictures and videos
+vn.tpb.token.baseotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.tpb.token.baseotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+vn.tpb.token.baseotp,android.permission.INTERNET,normal,full Internet access
+vn.tpb.token.baseotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+vn.tpb.token.baseotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.tpb.token.baseotp,android.permission.USE_BIOMETRIC,normal,
+vn.tpb.token.baseotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vn.tpb.token.baseotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+vn.tpb.token.baseotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.jeptoken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.jeptoken,android.permission.INTERNET,normal,full Internet access
+com.jeptoken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.jeptoken,android.permission.USE_BIOMETRIC,normal,
+com.jeptoken,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.jeptoken,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.jeptoken,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+eu.netinfo.bcb.otp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+eu.netinfo.bcb.otp,android.permission.INTERNET,normal,full Internet access
+eu.netinfo.bcb.otp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+eu.netinfo.bcb.otp,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+eu.netinfo.bcb.otp,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+eu.netinfo.bcb.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+eu.netinfo.bcb.otp,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.ca.sec.aa.authenticator,android.permission.INTERNET,normal,full Internet access
+com.ca.sec.aa.authenticator,android.permission.READ_LOGS,dangerous,read sensitive log data
+com.ca.sec.aa.authenticator,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ca.sec.aa.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.ca.sec.aa.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+com.ca.sec.aa.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.ca.sec.aa.authenticator,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.ca.sec.aa.authenticator,com.arcot.otp1.storage.CustomContentProvider.READPERMISSION,unknown,Unknown permission
+com.ca.sec.aa.authenticator,android.permission.VIBRATE,normal,control vibrator
+com.ca.sec.aa.authenticator,android.permission.FLASHLIGHT,normal,control flashlight
+com.ca.sec.aa.authenticator,com.android.browser.permission.READ_HISTORY_BOOKMARKS,unknown,Unknown permission
+com.ca.sec.aa.authenticator,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.ca.sec.aa.authenticator,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.ca.sec.aa.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.ca.sec.aa.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.ca.sec.aa.authenticator,com.ca.sec.aa.authenticator.permission.C2D_MESSAGE,unknown,Unknown permission
+com.bncr.detectid_otp,android.permission.INTERNET,normal,full Internet access
+com.bncr.detectid_otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.bncr.detectid_otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.bncr.detectid_otp,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.bncr.detectid_otp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.bncr.detectid_otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.bncr.detectid_otp,com.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,com.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,com.android.launcher.permission.INSTALL_SHORTCUT,unknown,Unknown permission
+com.bncr.detectid_otp,com.android.launcher.permission.UNINSTALL_SHORTCUT,unknown,Unknown permission
+com.bncr.detectid_otp,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+com.bncr.detectid_otp,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+com.bncr.detectid_otp,android.permission.VIBRATE,normal,control vibrator
+com.bncr.detectid_otp,android.permission.EXPAND_STATUS_BAR,normal,expand/collapse status bar
+com.bncr.detectid_otp,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+com.bncr.detectid_otp,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+com.bncr.detectid_otp,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+com.bncr.detectid_otp,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+com.bncr.detectid_otp,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+com.bncr.detectid_otp,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+com.bncr.detectid_otp,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,android.permission.READ_APP_BADGE,unknown,Unknown permission
+com.bncr.detectid_otp,com.oppo.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,com.oppo.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.bncr.detectid_otp,me.everything.badger.permission.BADGE_COUNT_READ,unknown,Unknown permission
+com.bncr.detectid_otp,me.everything.badger.permission.BADGE_COUNT_WRITE,unknown,Unknown permission
+com.bncr.detectid_otp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.bncr.detectid_otp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.pozitron.qib,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.pozitron.qib,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+com.pozitron.qib,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.pozitron.qib,android.permission.INTERNET,normal,full Internet access
+com.pozitron.qib,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.pozitron.qib,android.permission.READ_CONTACTS,dangerous,read contact data
+com.pozitron.qib,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.pozitron.qib,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.pozitron.qib,android.permission.CLEAR_APP_CACHE,signatureOrSystem,delete all application cache data
+com.pozitron.qib,android.permission.CAMERA,dangerous,take pictures and videos
+com.pozitron.qib,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.pozitron.qib,android.permission.BLUETOOTH,normal,create Bluetooth connections
+com.pozitron.qib,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.pozitron.qib,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.pozitron.qib,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.pozitron.qib,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.pozitron.qib,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.pozitron.qib,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.pozitron.qib,android.permission.USE_BIOMETRIC,normal,
+com.cibcorptoken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.cibcorptoken,android.permission.CAMERA,dangerous,take pictures and videos
+com.cibcorptoken,android.permission.INTERNET,normal,full Internet access
+com.cibcorptoken,android.permission.VIBRATE,normal,control vibrator
+com.cibcorptoken,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.cibcorptoken,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.cibcorptoken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.cibcorptoken,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.sophos.sophtoken,android.permission.CAMERA,dangerous,take pictures and videos
+com.sophos.sophtoken,android.permission.VIBRATE,normal,control vibrator
+com.sophos.sophtoken,android.permission.FLASHLIGHT,normal,control flashlight
+com.lpb.softotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.lpb.softotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.lpb.softotp,android.permission.INTERNET,normal,full Internet access
+com.lpb.softotp,android.permission.USE_BIOMETRIC,normal,
+com.lpb.softotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.lpb.softotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.lpb.softotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.lpb.softotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.lpb.softotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.lpb.softotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+cy.com.netinfo.crdbotp,android.permission.INTERNET,normal,full Internet access
+cy.com.netinfo.crdbotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+cy.com.netinfo.crdbotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+cy.com.netinfo.crdbotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+org.juanjcsr.newcloudotp,android.permission.CAMERA,dangerous,take pictures and videos
+org.juanjcsr.newcloudotp,android.permission.INTERNET,normal,full Internet access
+org.juanjcsr.newcloudotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+org.juanjcsr.newcloudotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ncs.secureconnect.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.ncs.secureconnect.otp,android.permission.INTERNET,normal,full Internet access
+com.ncs.secureconnect.otp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.rcdevs.auth,android.permission.INTERNET,normal,full Internet access
+com.rcdevs.auth,android.permission.CAMERA,dangerous,take pictures and videos
+com.rcdevs.auth,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.rcdevs.auth,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.rcdevs.auth,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.rcdevs.auth,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.rcdevs.auth,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.rcdevs.auth,android.permission.RECORD_AUDIO,dangerous,record audio
+com.rcdevs.auth,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.rcdevs.auth,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.rcdevs.auth,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.rcdevs.auth,android.permission.VIBRATE,normal,control vibrator
+com.rcdevs.auth,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+com.rcdevs.auth,com.rcdevs.auth.permission.MAPS_RECEIVE,unknown,Unknown permission
+com.rcdevs.auth,android.permission.USE_BIOMETRIC,normal,
+com.rcdevs.auth,android.permission.BLUETOOTH,normal,create Bluetooth connections
+com.rcdevs.auth,android.permission.BLUETOOTH_ADMIN,normal,bluetooth administration
+com.rcdevs.auth,android.permission.FLASHLIGHT,normal,control flashlight
+com.rcdevs.auth,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.rcdevs.auth,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+com.rcdevs.auth,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+com.rcdevs.auth,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.rcdevs.auth,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+com.rcdevs.auth,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+com.rcdevs.auth,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+com.rcdevs.auth,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+com.rcdevs.auth,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+com.rcdevs.auth,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+com.rcdevs.auth,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.rcdevs.auth,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.rcdevs.auth,android.permission.READ_APP_BADGE,unknown,Unknown permission
+com.rcdevs.auth,com.oppo.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+com.rcdevs.auth,com.oppo.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+com.rcdevs.auth,me.everything.badger.permission.BADGE_COUNT_READ,unknown,Unknown permission
+com.rcdevs.auth,me.everything.badger.permission.BADGE_COUNT_WRITE,unknown,Unknown permission
+eu.netinfo.cdb.otp,android.permission.INTERNET,normal,full Internet access
+eu.netinfo.cdb.otp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.aircuve.airotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.aircuve.airotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.aircuve.airotp,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+com.aircuve.airotp,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.aircuve.airotp,android.permission.INTERNET,normal,full Internet access
+com.aircuve.airotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.aircuve.airotp,com.google.android.providers.gsf.permission.WRITE_GSERVICES,signatureOrSystem,modify the Google services map
+com.aircuve.airotp,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+com.aircuve.airotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.aircuve.airotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.aircuve.airotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+jp.konami.android.otp_token,android.permission.INTERNET,normal,full Internet access
+jp.konami.android.otp_token,com.android.vending.BILLING,unknown,Unknown permission
+com.pvcombank.smartotp,android.permission.INTERNET,normal,full Internet access
+com.pvcombank.smartotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.pvcombank.smartotp,android.permission.VIBRATE,normal,control vibrator
+com.pvcombank.smartotp,android.permission.RECORD_AUDIO,dangerous,record audio
+com.pvcombank.smartotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.pvcombank.smartotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.pvcombank.smartotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.pvcombank.smartotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.pvcombank.smartotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.dreammirae.otp.android.mirae,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.dreammirae.otp.android.mirae,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.dreammirae.otp.android.mirae,android.permission.INTERNET,normal,full Internet access
+com.dreammirae.otp.android.mirae,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.dreammirae.otp.android.mirae,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.dreammirae.otp.android.mirae,android.permission.RESTART_PACKAGES,normal,kill background processes
+com.nhn.hangameotp,android.permission.INTERNET,normal,full Internet access
+com.nhn.hangameotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.nhn.hangameotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.nhn.hangameotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.nhn.hangameotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.nhn.hangameotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.nhn.hangameotp,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.nhn.hangameotp,com.nhn.hangameotp.toast.push.permission.RECEIVE,unknown,Unknown permission
+com.nhn.hangameotp,com.nhn.hangameotp.toast.push.permission.SEND,unknown,Unknown permission
+com.nhn.hangameotp,android.permission.VIBRATE,normal,control vibrator
+com.nhn.hangameotp,com.android.vending.BILLING,unknown,Unknown permission
+com.nhn.hangameotp,android.permission.GET_PACKAGE_SIZE,normal,measure application storage space
+com.u2fa.secur,android.permission.CAMERA,dangerous,take pictures and videos
+com.authenticator.authservice2,com.android.vending.BILLING,unknown,Unknown permission
+com.authenticator.authservice2,android.permission.INTERNET,normal,full Internet access
+com.authenticator.authservice2,android.permission.CAMERA,dangerous,take pictures and videos
+com.authenticator.authservice2,android.permission.MODIFY_AUDIO_SETTINGS,normal,change your audio settings
+com.authenticator.authservice2,android.permission.VIBRATE,normal,control vibrator
+com.authenticator.authservice2,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.authenticator.authservice2,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.authenticator.authservice2,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.authenticator.authservice2,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.authenticator.authservice2,android.permission.USE_BIOMETRIC,normal,
+com.authenticator.authservice2,android.permission.FLASHLIGHT,normal,control flashlight
+com.authenticator.authservice2,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.authenticator.authservice2,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.authenticator.authservice2,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.deepnet.andmob5,android.permission.CAMERA,dangerous,take pictures and videos
+com.deepnet.andmob5,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.deepnet.andmob5,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.deepnet.andmob5,android.permission.VIBRATE,normal,control vibrator
+com.deepnet.andmob5,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.deepnet.andmob5,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.deepnet.andmob5,android.permission.INTERNET,normal,full Internet access
+com.deepnet.andmob5,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.deepnet.andmob5,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+sk.otp.viamo,android.permission.INTERNET,normal,full Internet access
+sk.otp.viamo,android.permission.READ_CONTACTS,dangerous,read contact data
+sk.otp.viamo,android.permission.WRITE_CONTACTS,dangerous,write contact data
+sk.otp.viamo,android.permission.READ_PROFILE,dangerous,read the user's personal profile data
+sk.otp.viamo,android.permission.CAMERA,dangerous,take pictures and videos
+sk.otp.viamo,android.permission.BLUETOOTH,normal,create Bluetooth connections
+sk.otp.viamo,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+sk.otp.viamo,android.permission.VIBRATE,normal,control vibrator
+sk.otp.viamo,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+sk.otp.viamo,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+sk.otp.viamo,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+sk.otp.viamo,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+sk.otp.viamo,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+sk.otp.viamo,sk.otp.viamo.permission.C2D_MESSAGE,unknown,Unknown permission
+sk.otp.viamo,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+sk.otp.viamo,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.bankofamerica.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+com.bankofamerica.authenticator,android.permission.INTERNET,normal,full Internet access
+com.bankofamerica.authenticator,android.permission.VIBRATE,normal,control vibrator
+com.bankofamerica.authenticator,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.bankofamerica.authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.bankofamerica.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.bankofamerica.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.bankofamerica.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.bankofamerica.authenticator,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+tm.asmanoky.otp,android.permission.INTERNET,normal,full Internet access
+tm.asmanoky.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+tm.asmanoky.otp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+tm.asmanoky.otp,android.permission.CAMERA,dangerous,take pictures and videos
+tm.asmanoky.otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+tm.asmanoky.otp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+tm.asmanoky.otp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.google.android.apps.authenticator2,android.permission.VIBRATE,normal,control vibrator
+com.google.android.apps.authenticator2,android.permission.INTERNET,normal,full Internet access
+com.google.android.apps.authenticator2,android.permission.USE_BIOMETRIC,normal,
+com.google.android.apps.authenticator2,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.google.android.apps.authenticator2,android.permission.USE_CREDENTIALS,dangerous,use the authentication credentials of an account
+com.google.android.apps.authenticator2,android.permission.AUTHENTICATE_ACCOUNTS,dangerous,act as an account authenticator
+com.google.android.apps.authenticator2,android.permission.NFC,normal,control Near-Field Communication
+com.google.android.apps.authenticator2,android.permission.CAMERA,dangerous,take pictures and videos
+com.google.android.apps.authenticator2,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.google.android.apps.authenticator2,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.google.android.apps.authenticator2,android.permission.GET_PACKAGE_SIZE,normal,measure application storage space
+com.google.android.apps.authenticator2,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+otl.snkl.SnorkelOTP,android.permission.INTERNET,normal,full Internet access
+otl.snkl.SnorkelOTP,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+otl.snkl.SnorkelOTP,android.permission.CAMERA,dangerous,take pictures and videos
+kr.co.neople.neopleotp,android.permission.INTERNET,normal,full Internet access
+kr.co.neople.neopleotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+kr.co.neople.neopleotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+kr.co.neople.neopleotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+kr.co.neople.neopleotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+kr.co.neople.neopleotp,kr.co.neople.neopleotp.permission.C2D_MESSAGE,unknown,Unknown permission
+de.otp.main,android.permission.INTERNET,normal,full Internet access
+de.otp.main,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+de.otp.main,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+de.otp.main,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+de.otp.main,android.permission.BLUETOOTH,normal,create Bluetooth connections
+de.otp.main,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+de.otp.main,android.permission.CAMERA,dangerous,take pictures and videos
+de.otp.main,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+de.otp.main,android.permission.FOREGROUND_SERVICE,normal,
+net.aftnet.OTPManager,android.permission.CAMERA,dangerous,take pictures and videos
+no.buypass.mobile.bpcode.bp,android.permission.INTERNET,normal,full Internet access
+no.buypass.mobile.bpcode.bp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+no.buypass.mobile.bpcode.bp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+no.buypass.mobile.bpcode.bp,android.permission.USE_BIOMETRIC,normal,
+no.buypass.mobile.bpcode.bp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+no.buypass.mobile.bpcode.bp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+no.buypass.mobile.bpcode.bp,android.permission.FOREGROUND_SERVICE,normal,
+no.buypass.mobile.bpcode.bp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+no.buypass.mobile.bpcode.bp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+no.buypass.mobile.bpcode.bp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+org.liberty.android.freeotpplus,android.permission.CAMERA,dangerous,take pictures and videos
+org.liberty.android.freeotpplus,android.permission.INTERNET,normal,full Internet access
+org.liberty.android.freeotpplus,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+org.liberty.android.freeotpplus,android.permission.USE_BIOMETRIC,normal,
+org.liberty.android.freeotpplus,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+otl.snkl.HDFCSnorkelOTP,android.permission.INTERNET,normal,full Internet access
+otl.snkl.HDFCSnorkelOTP,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+otl.snkl.HDFCSnorkelOTP,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+otl.snkl.HDFCSnorkelOTP,android.permission.USE_BIOMETRIC,normal,
+otl.snkl.HDFCSnorkelOTP,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+otl.snkl.HDFCSnorkelOTP,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+otl.snkl.HDFCSnorkelOTP,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+otl.snkl.HDFCSnorkelOTP,otl.snkl.HDFCSnorkelOTP.permission.C2D_MESSAGE,unknown,Unknown permission
+com.sitin.sitinotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+hr.asseco.android.jimba.otpretailng,android.permission.INTERNET,normal,full Internet access
+hr.asseco.android.jimba.otpretailng,android.permission.VIBRATE,normal,control vibrator
+hr.asseco.android.jimba.otpretailng,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+hr.asseco.android.jimba.otpretailng,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+hr.asseco.android.jimba.otpretailng,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+hr.asseco.android.jimba.otpretailng,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+hr.asseco.android.jimba.otpretailng,android.permission.CAMERA,dangerous,take pictures and videos
+hr.asseco.android.jimba.otpretailng,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+hr.asseco.android.jimba.otpretailng,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+hr.asseco.android.jimba.otpretailng,hr.asseco.android.jimba.otpretailng.permission.MAPS_RECEIVE,unknown,Unknown permission
+hr.asseco.android.jimba.otpretailng,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+hr.asseco.android.jimba.otpretailng,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+hr.asseco.android.jimba.otpretailng,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+hr.asseco.android.jimba.otpretailng,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+hr.asseco.android.jimba.otpretailng,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+hr.asseco.android.jimba.otpretailng,android.permission.FLASHLIGHT,normal,control flashlight
+com.egypt.ais.aismotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.egypt.ais.aismotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.egypt.ais.aismotp,android.permission.INTERNET,normal,full Internet access
+com.egypt.ais.aismotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.egypt.ais.aismotp,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+com.egypt.ais.aismotp,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.egypt.ais.aismotp,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.egypt.ais.aismotp,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.egypt.ais.aismotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.egypt.ais.aismotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.egypt.ais.aismotp,android.permission.USE_BIOMETRIC,normal,
+com.egypt.ais.aismotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.square_enix_software_token,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.square_enix_software_token,android.permission.INTERNET,normal,full Internet access
+com.square_enix_software_token,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+ua.com.cs.ifobs.mobile.android.otp,android.permission.INTERNET,normal,full Internet access
+ua.com.cs.ifobs.mobile.android.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+ua.com.cs.ifobs.mobile.android.otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+ua.com.cs.ifobs.mobile.android.otp,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+ua.com.cs.ifobs.mobile.android.otp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+ua.com.cs.ifobs.mobile.android.otp,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+ua.com.cs.ifobs.mobile.android.otp,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+ua.com.cs.ifobs.mobile.android.otp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+ua.com.cs.ifobs.mobile.android.otp,android.permission.READ_CONTACTS,dangerous,read contact data
+ua.com.cs.ifobs.mobile.android.otp,android.permission.CAMERA,dangerous,take pictures and videos
+ua.com.cs.ifobs.mobile.android.otp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+ua.com.cs.ifobs.mobile.android.otp,android.permission.VIBRATE,normal,control vibrator
+ua.com.cs.ifobs.mobile.android.otp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+ua.com.cs.ifobs.mobile.android.otp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.unlimit.magicauth,android.permission.INTERNET,normal,full Internet access
+vn.unlimit.magicauth,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+vn.unlimit.magicauth,android.permission.CAMERA,dangerous,take pictures and videos
+vn.unlimit.magicauth,com.android.vending.BILLING,unknown,Unknown permission
+vn.unlimit.magicauth,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+vn.unlimit.magicauth,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+vn.unlimit.magicauth,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.unlimit.magicauth,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.unlimit.magicauth,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vn.unlimit.magicauth,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+vn.unlimit.magicauth,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.CIBEgyptSecureToken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.CIBEgyptSecureToken,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.CIBEgyptSecureToken,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.CIBEgyptSecureToken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.CIBEgyptSecureToken,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.vtc.main.otpapp,android.permission.INTERNET,normal,full Internet access
+com.vtc.main.otpapp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.vtc.main.otpapp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.vtc.main.otpapp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.vtc.main.otpapp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+nh.smart.signone,android.permission.NFC,normal,control Near-Field Communication
+nh.smart.signone,android.permission.INTERNET,normal,full Internet access
+nh.smart.signone,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+nh.smart.signone,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+nh.smart.signone,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+nh.smart.signone,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+nh.smart.signone,android.permission.RESTART_PACKAGES,normal,kill background processes
+nh.smart.signone,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+nh.smart.signone,android.permission.CHANGE_NETWORK_STATE,normal,change network connectivity
+nh.smart.signone,android.permission.ACCESS_NETWORK,unknown,Unknown permission
+nh.smart.signone,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+nh.smart.signone,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+nh.smart.signone,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+nh.smart.signone,android.permission.CAMERA,dangerous,take pictures and videos
+nh.smart.signone,android.permission.GET_TASKS,dangerous,retrieve running applications
+nh.smart.signone,android.permission.KILL_BACKGROUND_PROCESSES,normal,kill background processes
+nh.smart.signone,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+nh.smart.signone,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+nh.smart.signone,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+nh.smart.signone,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+no.SpareBank1.MobileOTP,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+no.SpareBank1.MobileOTP,android.permission.USE_BIOMETRIC,normal,
+no.SpareBank1.MobileOTP,android.permission.INTERNET,normal,full Internet access
+no.SpareBank1.MobileOTP,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+no.SpareBank1.MobileOTP,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+no.SpareBank1.MobileOTP,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+no.SpareBank1.MobileOTP,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+no.SpareBank1.MobileOTP,android.permission.GET_TASKS,dangerous,retrieve running applications
+no.SpareBank1.MobileOTP,android.permission.REORDER_TASKS,normal,reorder applications running
+no.SpareBank1.MobileOTP,android.permission.QUERY_ALL_PACKAGES,normal,
+com.mastersam.android.mastersamotp,android.permission.CAMERA,dangerous,take pictures and videos
+token.security.m2m.com.generateotp,android.permission.GET_ACCOUNTS,dangerous,list accounts
+token.security.m2m.com.generateotp,android.permission.READ_PROFILE,dangerous,read the user's personal profile data
+token.security.m2m.com.generateotp,android.permission.READ_CONTACTS,dangerous,read contact data
+token.security.m2m.com.generateotp,android.permission.INTERNET,normal,full Internet access
+com.bitrixsoft.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.bitrixsoft.otp,android.permission.VIBRATE,normal,control vibrator
+com.bitrixsoft.otp,android.permission.FLASHLIGHT,normal,control flashlight
+com.BankMisrSoftToken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.BankMisrSoftToken,android.permission.CAMERA,dangerous,take pictures and videos
+com.BankMisrSoftToken,android.permission.VIBRATE,normal,control vibrator
+com.BankMisrSoftToken,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.BankMisrSoftToken,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.BankMisrSoftToken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.viafirma.otp,android.permission.VIBRATE,normal,control vibrator
+eu.sia.siaotp,android.permission.CAMERA,dangerous,take pictures and videos
+eu.sia.siaotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+eu.sia.siaotp,android.permission.INTERNET,normal,full Internet access
+kr.kjun.NaverSetup,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+kr.kjun.NaverSetup,android.permission.INTERNET,normal,full Internet access
+kr.kjun.NaverSetup,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+br.com.voegol.tokenagenciasgol,android.permission.INTERNET,normal,full Internet access
+br.com.voegol.tokenagenciasgol,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+br.com.voegol.tokenagenciasgol,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+br.com.voegol.tokenagenciasgol,android.permission.GET_ACCOUNTS,dangerous,list accounts
+br.com.voegol.tokenagenciasgol,com.easysolutions.detectid_otp.permission.C2D_MESSAGE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,android.permission.CAMERA,dangerous,take pictures and videos
+br.com.voegol.tokenagenciasgol,android.permission.EXPAND_STATUS_BAR,normal,expand/collapse status bar
+br.com.voegol.tokenagenciasgol,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+br.com.voegol.tokenagenciasgol,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,android.permission.VIBRATE,normal,control vibrator
+br.com.voegol.tokenagenciasgol,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+br.com.voegol.tokenagenciasgol,android.permission.RECORD_AUDIO,dangerous,record audio
+br.com.voegol.tokenagenciasgol,android.permission.WRITE_SETTINGS,dangerous,modify global system settings
+br.com.voegol.tokenagenciasgol,com.sec.android.provider.badge.permission.READ,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.sec.android.provider.badge.permission.WRITE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.htc.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.htc.launcher.permission.UPDATE_SHORTCUT,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.sonyericsson.home.permission.BROADCAST_BADGE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.anddoes.launcher.permission.UPDATE_COUNT,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.majeur.launcher.permission.UPDATE_BADGE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.huawei.android.launcher.permission.CHANGE_BADGE,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.huawei.android.launcher.permission.READ_SETTINGS,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,com.huawei.android.launcher.permission.WRITE_SETTINGS,unknown,Unknown permission
+br.com.voegol.tokenagenciasgol,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+br.com.voegol.tokenagenciasgol,br.com.voegol.tokenagenciasgol.permission.C2D_MESSAGE,unknown,Unknown permission
+com.techcombank.stk.corp,android.permission.INTERNET,normal,full Internet access
+com.techcombank.stk.corp,android.permission.CAMERA,dangerous,take pictures and videos
+com.techcombank.stk.corp,android.permission.USE_BIOMETRIC,normal,
+com.techcombank.stk.corp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.techcombank.stk.corp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.techcombank.stk.corp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.techcombank.stk.corp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.techcombank.stk.corp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.techcombank.stk.corp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.techcombank.stk.corp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.ftsafe.otp.activity,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ftsafe.otp.activity,android.permission.INTERNET,normal,full Internet access
+com.ftsafe.otp.activity,android.permission.REORDER_TASKS,normal,reorder applications running
+com.ftsafe.otp.activity,android.permission.VIBRATE,normal,control vibrator
+com.ftsafe.otp.activity,android.permission.CAMERA,dangerous,take pictures and videos
+com.ftsafe.otp.activity,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,dangerous,mount and unmount file systems
+com.ftsafe.otp.activity,android.permission.WRITE_SETTINGS,dangerous,modify global system settings
+com.ftsafe.otp.activity,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.ftsafe.otp.activity,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.ftsafe.otp.activity,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.ftsafe.otp.activity,android.permission.ACCESS_NOTIFICATION_POLICY ,unknown,Unknown permission
+com.ftsafe.otp.activity,android.permission.DISABLE_KEYGUARD,normal,
+com.ftsafe.otp.activity,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.ftsafe.otp.activity,android.permission.FLASHLIGHT,normal,control flashlight
+com.ftsafe.otp.activity,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.ftsafe.otp.activity,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.ftsafe.otp.activity,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.ftsafe.otp.activity,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.ftsafe.otp.activity,com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER,unknown,Unknown permission
+com.ftsafe.otp.activity,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.ftsafe.otp.activity,com.ftsafe.otp.activity.permission.MIPUSH_RECEIVE,unknown,Unknown permission
+com.ftsafe.otp.activity,android.permission.REQUEST_INSTALL_PACKAGES,dangerous,Allows an application to request installing packages.
+com.ftsafe.otp.activity,com.ftsafe.otp.activity.permission.PROCESS_PUSH_MSG,unknown,Unknown permission
+vietcombank.itcenter.vcbsmartoptv10,android.permission.INTERNET,normal,full Internet access
+vietcombank.itcenter.vcbsmartoptv10,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+vietcombank.itcenter.vcbsmartoptv10,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+vietcombank.itcenter.vcbsmartoptv10,android.Manifest.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+vietcombank.itcenter.vcbsmartoptv10,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+vietcombank.itcenter.vcbsmartoptv10,android.permission.USE_BIOMETRIC,normal,
+vietcombank.itcenter.vcbsmartoptv10,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vietcombank.itcenter.vcbsmartoptv10,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+vietcombank.itcenter.vcbsmartoptv10,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+vietcombank.itcenter.vcbsmartoptv10,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vietcombank.itcenter.vcbsmartoptv10,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.cbcapp.otp.activity,android.permission.INTERNET,normal,full Internet access
+com.cbcapp.otp.activity,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.cbcapp.otp.activity,android.permission.VIBRATE,normal,control vibrator
+com.cbcapp.otp.activity,android.permission.MOUNT_UNMOUNT_FILESYSTEMS,dangerous,mount and unmount file systems
+com.cbcapp.otp.activity,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.cbcapp.otp.activity,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.cbcapp.otp.activity,android.permission.FLASHLIGHT,normal,control flashlight
+com.cbcapp.otp.activity,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.cbcapp.otp.activity,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.cbcapp.otp.activity,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+de.sbeh.rdp_otp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+it.netknights.piauthenticator,android.permission.CAMERA,dangerous,take pictures and videos
+it.netknights.piauthenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+it.netknights.piauthenticator,android.permission.INTERNET,normal,full Internet access
+it.netknights.piauthenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+it.netknights.piauthenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.mdmobiasbancadigipass,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.mdmobiasbancadigipass,android.permission.CAMERA,dangerous,take pictures and videos
+com.mdmobiasbancadigipass,android.permission.VIBRATE,normal,control vibrator
+com.mdmobiasbancadigipass,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.mdmobiasbancadigipass,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.mdmobiasbancadigipass,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.mdmobiasbancadigipass,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+hr.asseco.android.otp,android.permission.INTERNET,normal,full Internet access
+hr.asseco.android.otp,android.permission.CAMERA,dangerous,take pictures and videos
+hr.asseco.android.otp,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+hr.asseco.android.otp,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+hr.asseco.android.otp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+hr.asseco.android.otp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+hr.asseco.android.otp,hr.asseco.android.otp.permission.C2D_MESSAGE,unknown,Unknown permission
+hr.asseco.android.otp,android.permission.GET_TASKS,dangerous,retrieve running applications
+hr.asseco.android.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.azure.authenticator,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+com.azure.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+com.azure.authenticator,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.azure.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.azure.authenticator,android.permission.VIBRATE,normal,control vibrator
+com.azure.authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.azure.authenticator,android.permission.USE_BIOMETRIC,normal,
+com.azure.authenticator,android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,normal,
+com.azure.authenticator,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.azure.authenticator,android.permission.INTERNET,normal,full Internet access
+com.azure.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.azure.authenticator,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.azure.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.azure.authenticator,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.azure.authenticator,com.azure.authenticator.knox.SUPPORT_PERMISSION,unknown,Unknown permission
+com.azure.authenticator,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.azure.authenticator,android.permission.AUTHENTICATE_ACCOUNTS,dangerous,act as an account authenticator
+com.azure.authenticator,android.permission.USE_CREDENTIALS,dangerous,use the authentication credentials of an account
+com.azure.authenticator,android.permission.MANAGE_ACCOUNTS,dangerous,manage the accounts list
+com.azure.authenticator,android.permission.KILL_BACKGROUND_PROCESSES,normal,kill background processes
+com.azure.authenticator,com.samsung.android.knox.permission.KNOX_ENTERPRISE_DEVICE_ADMIN,unknown,Unknown permission
+com.azure.authenticator,com.samsung.android.knox.permission.KNOX_CERTIFICATE,unknown,Unknown permission
+com.azure.authenticator,com.samsung.android.knox.permission.KNOX_SECURITY,unknown,Unknown permission
+com.azure.authenticator,com.samsung.android.knox.permission.KNOX_CERT_PROVISIONING,unknown,Unknown permission
+com.azure.authenticator,android.permission.sec.ENTERPRISE_DEVICE_ADMIN,unknown,Unknown permission
+com.azure.authenticator,android.permission.sec.MDM_SECURITY,unknown,Unknown permission
+com.azure.authenticator,android.permission.sec.MDM_CERTIFICATE,unknown,Unknown permission
+com.azure.authenticator,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.azure.authenticator,android.permission.FOREGROUND_SERVICE,normal,
+com.nof.makanoh.openkeypos,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.nof.makanoh.openkeypos,android.permission.INTERNET,normal,full Internet access
+com.nof.makanoh.openkeypos,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.nof.makanoh.openkeypos,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com18deglab.cylocklite,android.permission.INTERNET,normal,full Internet access
+com18deglab.cylocklite,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com18deglab.cylocklite,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com18deglab.cylocklite,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com18deglab.cylocklite,android.permission.CAMERA,dangerous,take pictures and videos
+com18deglab.cylocklite,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com18deglab.cylocklite,com.android.vending.BILLING,unknown,Unknown permission
+com18deglab.cylocklite,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com18deglab.cylocklite,com18deglab.cylocklite.permission.C2D_MESSAGE,unknown,Unknown permission
+com.namirial.android.virtualotp,android.permission.INTERNET,normal,full Internet access
+com.namirial.android.virtualotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.namirial.android.virtualotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.namirial.android.virtualotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.namirial.android.virtualotp,android.permission.BLUETOOTH,normal,create Bluetooth connections
+com.namirial.android.virtualotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.namirial.android.virtualotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.namirial.android.virtualotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.isprint.SWIFTToken,android.permission.CAMERA,dangerous,take pictures and videos
+com.isprint.SWIFTToken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.isprint.SWIFTToken,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.isprint.SWIFTToken,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.isprint.SWIFTToken,android.permission.VIBRATE,normal,control vibrator
+com.isprint.SWIFTToken,android.permission.FLASHLIGHT,normal,control flashlight
+com.isprint.SWIFTToken,android.permission.INTERNET,normal,full Internet access
+com.isprint.SWIFTToken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.isprint.SWIFTToken,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.eset.esa,android.permission.INTERNET,normal,full Internet access
+com.eset.esa,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.eset.esa,android.permission.VIBRATE,normal,control vibrator
+com.eset.esa,android.permission.CAMERA,dangerous,take pictures and videos
+com.eset.esa,android.permission.FLASHLIGHT,normal,control flashlight
+com.eset.esa,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.eset.esa,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.eset.esa,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.eset.esa,com.eset.esa.permission.C2D_MESSAGE,unknown,Unknown permission
+com.egypt.ais.masriacard.mcmotp,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.egypt.ais.masriacard.mcmotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.egypt.ais.masriacard.mcmotp,android.permission.INTERNET,normal,full Internet access
+com.egypt.ais.masriacard.mcmotp,com.google.android.providers.gsf.permission.READ_GSERVICES,unknown,Unknown permission
+com.egypt.ais.masriacard.mcmotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.egypt.ais.masriacard.mcmotp,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.egypt.ais.masriacard.mcmotp,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.egypt.ais.masriacard.mcmotp,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.egypt.ais.masriacard.mcmotp,android.permission.USE_BIOMETRIC,normal,
+com.egypt.ais.masriacard.mcmotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.canopus.otpmacgenerator,android.permission.CAMERA,dangerous,take pictures and videos
+com.LuxTrustMobile,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.LuxTrustMobile,android.permission.INTERNET,normal,full Internet access
+com.LuxTrustMobile,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+com.LuxTrustMobile,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.LuxTrustMobile,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.LuxTrustMobile,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.LuxTrustMobile,android.permission.CAMERA,dangerous,take pictures and videos
+com.LuxTrustMobile,android.permission.MODIFY_AUDIO_SETTINGS,normal,change your audio settings
+com.LuxTrustMobile,android.permission.RECORD_AUDIO,dangerous,record audio
+com.LuxTrustMobile,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.LuxTrustMobile,android.permission.USE_BIOMETRIC,normal,
+com.LuxTrustMobile,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.LuxTrustMobile,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.LuxTrustMobile,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.LuxTrustMobile,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.LuxTrustMobile,android.permission.FOREGROUND_SERVICE,normal,
+com.LuxTrustMobile,android.permission.VIBRATE,normal,control vibrator
+com.LuxTrustMobile,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.LuxTrustMobile,android.permission.FLASHLIGHT,normal,control flashlight
+com.LuxTrustMobile,android.permission.BLUETOOTH,normal,create Bluetooth connections
+com.LuxTrustMobile,android.permission.BLUETOOTH_ADMIN,normal,bluetooth administration
+com.LuxTrustMobile,android.permission.QUERY_ALL_PACKAGES,normal,
+com.ideasventure.otptoken,android.permission.VIBRATE,normal,control vibrator
+com.kienlongbank.etoken,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.kienlongbank.etoken,android.permission.CHANGE_WIFI_STATE,normal,change Wi-Fi status
+com.kienlongbank.etoken,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.kienlongbank.etoken,android.permission.RESTART_PACKAGES,normal,kill background processes
+com.kienlongbank.etoken,android.permission.CHANGE_CONFIGURATION,signatureOrSystem,change your UI settings
+com.kienlongbank.etoken,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.kienlongbank.etoken,android.permission.INTERNET,normal,full Internet access
+com.kienlongbank.etoken,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.kienlongbank.etoken,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.kienlongbank.etoken,android.permission.USE_BIOMETRIC,normal,
+com.kienlongbank.etoken,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.kienlongbank.etoken,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.kienlongbank.etoken,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.kienlongbank.etoken,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.kienlongbank.etoken,com.kienlongbank.etoken.permission.C2D_MESSAGE,unknown,Unknown permission
+kr.or.kftc.fsc,android.permission.INTERNET,normal,full Internet access
+kr.or.kftc.fsc,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+kr.or.kftc.fsc,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+kr.or.kftc.fsc,android.permission.GET_TASKS,dangerous,retrieve running applications
+kr.or.kftc.fsc,android.permission.SYSTEM_ALERT_WINDOW,dangerous,display system-level alerts
+kr.or.kftc.fsc,android.permission.FOREGROUND_SERVICE,normal,
+kr.or.kftc.fsc,android.permission.REQUEST_DELETE_PACKAGES,normal,
+kr.or.kftc.fsc,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+kr.or.kftc.fsc,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+kr.or.kftc.fsc,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+kr.or.kftc.fsc,kr.or.kftc.fsc.permission.C2D_MESSAGE,unknown,Unknown permission
+vn.savis.smartid,android.permission.USE_BIOMETRIC,normal,
+vn.savis.smartid,android.permission.CAMERA,dangerous,take pictures and videos
+vn.savis.smartid,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.sbi.SBISecure,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.sbi.SBISecure,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sbi.SBISecure,android.permission.INTERNET,normal,full Internet access
+com.khla.otpapp.callhttpclient,android.permission.INTERNET,normal,full Internet access
+com.khla.otpapp.callhttpclient,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.khla.otpapp.callhttpclient,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.khla.otpapp.callhttpclient,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.INTERNET,normal,full Internet access
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.RESTART_PACKAGES,normal,kill background processes
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.CAMERA,dangerous,take pictures and videos
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.FLASHLIGHT,normal,control flashlight
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.VIBRATE,normal,control vibrator
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.USE_FULL_SCREEN_INTENT,normal,
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.dreammirae.otp.android.mirae.multiid.market,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.dreammirae.otp.android.mirae.multiid.market,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.dreammirae.otp.android.mirae.multiid.market,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.vietinbank.softotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.vietinbank.softotp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.vietinbank.softotp,android.permission.INTERNET,normal,full Internet access
+com.vietinbank.softotp,android.permission.USE_BIOMETRIC,normal,
+com.vietinbank.softotp,android.permission.CAMERA,dangerous,take pictures and videos
+com.vietinbank.softotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.vietinbank.softotp,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.vietinbank.softotp,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.vietinbank.softotp,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+it.previnet.authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+it.previnet.authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+it.previnet.authenticator,android.permission.INTERNET,normal,full Internet access
+it.previnet.authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+it.previnet.authenticator,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+it.previnet.authenticator,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.aff.otpdirekt,android.permission.INTERNET,normal,full Internet access
+com.aff.otpdirekt,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.aff.otpdirekt,android.permission.ACCESS_COARSE_LOCATION,dangerous,coarse (network-based) location
+com.aff.otpdirekt,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.aff.otpdirekt,android.permission.GET_TASKS,dangerous,retrieve running applications
+com.aff.otpdirekt,android.permission.BLUETOOTH,normal,create Bluetooth connections
+com.aff.otpdirekt,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.aff.otpdirekt,android.permission.CAMERA,dangerous,take pictures and videos
+com.aff.otpdirekt,android.permission.FLASHLIGHT,normal,control flashlight
+com.aff.otpdirekt,android.permission.VIBRATE,normal,control vibrator
+com.aff.otpdirekt,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.aff.otpdirekt,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.aff.otpdirekt,android.permission.INTERACT_ACROSS_USERS_FULL,unknown,Unknown permission
+com.aff.otpdirekt,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.aff.otpdirekt,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.aff.otpdirekt,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.aff.otpdirekt,com.aff.otpdirekt.gcm.permission.C2D_MESSAGE,unknown,Unknown permission
+com.aff.otpdirekt,com.aff.otpdirekt.permission.C2D_MESSAGE,unknown,Unknown permission
+com.aff.otpdirekt,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.ncb.bank.otp,android.permission.USE_BIOMETRIC,normal,
+com.ncb.bank.otp,android.permission.CAMERA,dangerous,take pictures and videos
+com.ncb.bank.otp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.ncb.bank.otp,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+com.ncb.bank.otp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.ncb.bank.otp,android.permission.INTERNET,normal,full Internet access
+it.aruba.pec.mobile.otpfvg,android.permission.INTERNET,normal,full Internet access
+it.aruba.pec.mobile.otpfvg,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+it.aruba.pec.mobile.otpfvg,android.permission.USE_BIOMETRIC,normal,
+it.aruba.pec.mobile.otpfvg,android.permission.CAMERA,dangerous,take pictures and videos
+it.aruba.pec.mobile.otpfvg,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+it.aruba.pec.mobile.otpfvg,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+it.aruba.pec.mobile.otpfvg,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+it.aruba.pec.mobile.otpfvg,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+iSec.Authenticator,android.permission.ACCESS_WIFI_STATE,normal,view Wi-Fi status
+iSec.Authenticator,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+iSec.Authenticator,android.permission.INTERNET,normal,full Internet access
+iSec.Authenticator,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+iSec.Authenticator,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+iSec.Authenticator,android.permission.CAMERA,dangerous,take pictures and videos
+iSec.Authenticator,android.permission.FLASHLIGHT,normal,control flashlight
+iSec.Authenticator,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+iSec.Authenticator,android.permission.VIBRATE,normal,control vibrator
+vn.funtap.smartotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+vn.funtap.smartotp,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+vn.funtap.smartotp,android.permission.VIBRATE,normal,control vibrator
+vn.funtap.smartotp,android.permission.INTERNET,normal,full Internet access
+vn.funtap.smartotp,android.permission.USE_CREDENTIALS,dangerous,use the authentication credentials of an account
+vn.funtap.smartotp,android.permission.AUTHENTICATE_ACCOUNTS,dangerous,act as an account authenticator
+vn.funtap.smartotp,android.permission.NFC,normal,control Near-Field Communication
+vn.funtap.smartotp,android.permission.CAMERA,dangerous,take pictures and videos
+vn.funtap.smartotp,android.permission.CALL_PHONE,dangerous,directly call phone numbers
+com.qrail.token,android.permission.CAMERA,dangerous,take pictures and videos
+com.qrail.token,android.permission.ACCESS_FINE_LOCATION,dangerous,fine (GPS) location
+com.qrail.token,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,unknown,Unknown permission
+com.qrail.token,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.qrail.token,android.permission.INTERNET,normal,full Internet access
+com.qrail.token,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.qrail.token,android.permission.VIBRATE,normal,control vibrator
+com.qrail.token,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.qrail.token,android.permission.GET_ACCOUNTS,dangerous,list accounts
+com.qrail.token,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.qrail.token,com.google.android.c2dm.permission.REGISTER,unknown,Unknown permission
+com.qrail.token,com.qrail.token.permission.C2D_MESSAGE,unknown,Unknown permission
+com.qrail.token,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.qrail.token,com.qrail.token.receiver.EzTokenpermission,unknown,Unknown permission
+com.qrail.token,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.qrail.token,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.qrail.token,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+com.netfiles.netfilesotp,android.permission.INTERNET,normal,full Internet access
+com.scrignosa,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.scrignosa,android.permission.INTERNET,normal,full Internet access
+com.scrignosa,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.scrignosa,android.permission.CAMERA,dangerous,take pictures and videos
+com.scrignosa,android.permission.USE_FINGERPRINT,normal,allow use of fingerprint
+com.scrignosa,android.permission.USE_BIOMETRIC,normal,
+com.scrignosa,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.scrignosa,android.permission.RECEIVE_BOOT_COMPLETED,normal,automatically start at boot
+com.scrignosa,android.permission.FOREGROUND_SERVICE,normal,
+com.scrignosa,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.scrignosa,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,unknown,Unknown permission
+com.atsolution.android.bcotp,android.permission.INTERNET,normal,full Internet access
+br.gov.caixa.codigocaixa,android.permission.CAMERA,dangerous,take pictures and videos
+br.gov.caixa.codigocaixa,android.permission.READ_EXTERNAL_STORAGE,dangerous,read external storage contents
+br.gov.caixa.codigocaixa,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+br.gov.caixa.codigocaixa,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+br.gov.caixa.codigocaixa,android.permission.INTERNET,normal,full Internet access
+br.gov.caixa.codigocaixa,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.hpe.icewall.smartotp,android.permission.INTERNET,normal,full Internet access
+com.hpe.icewall.smartotp,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sbi.SBIFreedomPlus,android.permission.WAKE_LOCK,normal,prevent phone from sleeping
+com.sbi.SBIFreedomPlus,android.permission.CAMERA,dangerous,take pictures and videos
+com.sbi.SBIFreedomPlus,android.permission.RECORD_AUDIO,dangerous,record audio
+com.sbi.SBIFreedomPlus,android.permission.INTERNET,normal,full Internet access
+com.sbi.SBIFreedomPlus,android.permission.ACCESS_NETWORK_STATE,normal,view network status
+com.sbi.SBIFreedomPlus,com.sbi.SBIFreedomPlus.permission.C2D_MESSAGE,unknown,Unknown permission
+com.sbi.SBIFreedomPlus,com.google.android.c2dm.permission.RECEIVE,signature,C2DM permissions
+com.sbi.SBIFreedomPlus,android.permission.VIBRATE,normal,control vibrator
+com.sbi.SBIFreedomPlus,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.sbi.SBIFreedomPlus,android.permission.WRITE_EXTERNAL_STORAGE,dangerous,read/modify/delete external storage contents
+com.mollatech.android.apps.authenticators,android.permission.VIBRATE,normal,control vibrator
+com.mollatech.android.apps.authenticators,android.permission.INTERNET,normal,full Internet access
+com.mollatech.android.apps.authenticators,android.permission.READ_PHONE_STATE,dangerous,read phone state and identity
+com.mollatech.android.apps.authenticators,android.permission.ACCESS_NETWORK_STATE,normal,view network status

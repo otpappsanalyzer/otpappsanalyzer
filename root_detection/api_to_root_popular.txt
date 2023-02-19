@@ -1,0 +1,35 @@
+API/System Call Flag & Total & Detection & \# of Apps \\ 
+SafetyNet.getClient & 7 & (-)  & 7(100.0\%)  \\ 
+Runtime.exec & 72 & (+)  & 23(31.94\%)  \\ 
+Runtime.exec & 72 & (-)  & 49(68.06\%)  \\ 
+RootTools & 3 & (+)  & 1(33.33\%)  \\ 
+RootTools & 3 & (-)  & 2(66.67\%)  \\ 
+RootBeer.isRooted & 11 & (+)  & 2(18.18\%)  \\ 
+RootBeer.isRooted & 11 & (-)  & 9(81.82\%)  \\ 
+PackageManager.getPackageInfo & 166 & (+)  & 23(13.86\%)  \\ 
+PackageManager.getPackageInfo & 166 & (-)  & 143(86.14\%)  \\ 
+Os.stat & 126 & (+)  & 14(11.11\%)  \\ 
+Os.stat & 126 & (-)  & 112(88.89\%)  \\ 
+------------------------------------------------------------- \\ 
+-------------------------------------------------------------\\ 
+API/System Call Flag & Total & Detection & Popular & \# of Apps \\ 
+SafetyNet.getClient & 7 & (-)  & True & 5(71.43\%)  \\ 
+SafetyNet.getClient & 7 & (-)  & False & 2(28.57\%)  \\ 
+Runtime.exec & 72 & (-)  & True & 26(36.11\%)  \\ 
+Runtime.exec & 72 & (-)  & False & 23(31.94\%)  \\ 
+Runtime.exec & 72 & (+)  & True & 9(12.5\%)  \\ 
+Runtime.exec & 72 & (+)  & False & 14(19.44\%)  \\ 
+RootTools & 3 & (-)  & False & 2(66.67\%)  \\ 
+RootTools & 3 & (+)  & False & 1(33.33\%)  \\ 
+RootBeer.isRooted & 11 & (-)  & True & 4(36.36\%)  \\ 
+RootBeer.isRooted & 11 & (-)  & False & 5(45.45\%)  \\ 
+RootBeer.isRooted & 11 & (+)  & True & 1(9.09\%)  \\ 
+RootBeer.isRooted & 11 & (+)  & False & 1(9.09\%)  \\ 
+PackageManager.getPackageInfo & 166 & (-)  & True & 52(31.33\%)  \\ 
+PackageManager.getPackageInfo & 166 & (-)  & False & 91(54.82\%)  \\ 
+PackageManager.getPackageInfo & 166 & (+)  & True & 9(5.42\%)  \\ 
+PackageManager.getPackageInfo & 166 & (+)  & False & 14(8.43\%)  \\ 
+Os.stat & 126 & (+)  & True & 6(4.76\%)  \\ 
+Os.stat & 126 & (-)  & True & 45(35.71\%)  \\ 
+Os.stat & 126 & (-)  & False & 67(53.17\%)  \\ 
+Os.stat & 126 & (+)  & False & 8(6.35\%)  \\ 

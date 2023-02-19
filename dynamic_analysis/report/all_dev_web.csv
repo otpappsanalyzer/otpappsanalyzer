@@ -1,0 +1,183 @@
+app_id,dev_web
+com.nof.makanoh.openkeypos,http://laneresaparfum2.jux.in/
+com.forgerock.authenticator,http://www.forgerock.com
+com.authy.authy,https://authy.com
+vn.unlimit.magicauth,https://vpngate-connector.com
+no.buypass.mobile.bpcode.bp,https://www.buypass.no/produkter-og-tjenester/buypass-code
+com.cbcapp.otp.activity,http://www.chinabank.ph/
+com.mastersam.android.mastersamotp,http://www.mastersam.com
+com.egypt.ais.masriacard.mcmotp,http://www.masriacard.com
+com.dreammirae.otp.android.mirae.multiid.market,http://www.mirae-tech.co.kr
+token.security.m2m.com.generateotp,http://www.maubank.mu
+com.deepnet.andmob5,http://www.deepnetsecurity.com
+hr.asseco.android.jimba.otpretailng,https://www.otpbanka.hr/hr/gradani/otp-mobilno-bankarstvo
+com.mts.opt2,metadata unavailable
+com.inwebo.authenticator,http://www.inwebo.com
+net.secuwiz.prudentialotp,metadata unavailable
+netinfo.eu.symantec,http://www.eurobank.com.cy
+br.com.powersoftware.otpsafe,http://www.powersoftware.com.br
+com.canopus.otpmacgenerator,http://www.canopus.ru
+hr.asseco.android.mtoken.ht.test,http://www.t.ht.hr/
+com.dreammirae.otp.android.mirae,http://otp.nttgame.com
+it.aruba.pec.mobile.otpfvg,http://www.aruba.it
+com.feelanet.artstrongid.sec,metadata unavailable
+com.aircuve.aircuvemobile,http://www.aircuve.com
+com.nhn.hangameotp,https://m.hangame.com/
+it.aruba.pec.mobile.otp,http://www.aruba.it
+com.bankofamerica.authenticator,https://safepass.bankofamerica.com/
+com.novoload.otp,http://www.schematicitsolutions.com
+com.portwise.mid.clients.android,https://www.nexusgroup.com
+io.faceotp.faceotp,https://www.faceotp.org
+com.atsolution.android.uotp2,http://www.u-otp.kr
+com.namirial.android.virtualotp,https://www.namirial.com/it/trust-services/
+com.mollatech.android.apps.authenticators,http://www.acledabank.com.kh
+com.bncr.detectid_otp,https://www.bncr.fi.cr
+it.previnet.authenticator,http://www.previnet.it
+com.rcdevs.auth,http://www.rcdevs.com
+com.sgn.sgotp,http://www.sgni.co.kr
+kr.co.neople.neopleotp,http://www.neople.co.kr
+eu.netinfo.netteller.cqur.motp,https://www.cqurbank.com
+club.nagavip.otp,file unavailable
+ngn.com.vn.totp,http://ngn.com.vn
+com.halcom.ng.mobile.puppaltr,http://www.halcom.si/en/
+com.yubico.yubiclip,http://www.yubico.com
+org.arcon.arcos.otp1,http://www.arconnet.com
+ru.yandex.key,http://www.yandex.ru
+com.vietinbank.softotp,metadata unavailable
+otl.snkl.SnorkelOTP,http://www.southindianbank.com
+de.sbeh.rdp_otp,http://www.cartzlink.com
+cy.com.netinfo.crdbotp,http://www.crdbbank.co.tz
+hr.asseco.android.otp,http://www.asseco-see.com
+com.GlowOTP,http://www.kbc.com
+com.aff.otpdirekt,https://www.otpbank.hu/portal/mobile/SmartBank
+com.zenithbank.zenithetoken,https://www.zenithbank.com/personal-banking/etoken-app/
+com.CIBEgyptSecureToken,http://www.cibeg.com
+com.goldtime.authy,file unavailable
+vn.tpb.token.baseotp,http://tpb.vn
+com.BankMisrSoftToken,https://www.banquemisr.com/
+com.sitin.sitinotp,file unavailable
+com.protectimus.totpburner.nfc,https://www.protectimus.com/slim-mini/
+com.sgn.sgotp.lotte,http://www.sgni.co.kr
+oracle.idm.mobile.authenticator,http://www.oracle.com/us/products/middleware/identity-management/overview/index.html
+com.sgn.secureguardotp,http://www.sgni.co.kr
+com.dreammirae.anyauth.android,http://www.mirae-tech.co.kr
+dev.cat.coffee.authenticator,metadata unavailable
+com.google.android.apps.authenticator2,https://support.google.com/accounts/bin/answer.py?hl=en&answer=1066447
+com.LuxTrustMobile,https://www.luxtrust.com/
+sg.worktable.pingoauth,metadata unavailable
+vn.com.sacombank.msign,https://www.sacombank.com.vn/en/
+com.kiwoom.unitycert,http://m.kiwoom.com
+com.techcombank.stk.corp,https://www.techcombank.com.vn
+eu.netinfo.cdb.otp,file unavailable
+com.bitrixsoft.otp,http://www.bitrixsoft.com
+org.juanjcsr.newcloudotp,https://jcsr.me
+com.square_enix_software_token,https://www.jp.square-enix.com/
+com.trumotp.club,metadata unavailable
+com.gemalto.idprove,http://www.gemalto.com
+com.ncb.bank.otp,https://ncb-bank.vn
+org.cry.otp,http://code.google.com/p/motp/
+me.jmh.authenticatorpro,https://github.com/jamie-mh/AuthenticatorPro
+wibmo.com.wibmoAuthApp,https://www.wibmo.co/
+vn.com.bidv.softotp,http://bidv.com.vn
+it.company.sielte,http://www.sielteid.it
+com.u2fa.secur,https://potatoproject.co
+eu.sia.siaotp,http://www.sia.eu
+br.gov.caixa.codigocaixa,http://www.caixa.gov.br
+nh.smart.signone,http://www.nonghyup.com
+com.isprint.SWIFTToken,http://www.i-sprint.com/
+com.dxc.ipwr,https://www.dxc.technology/
+com.vn.vib.smeotp,https://www.vib.com.vn/wps/portal/en/news
+org.fedorahosted.freeotp,https://fedorahosted.org/freeotp
+sk.otp.viamo,https://www.otpbanka.sk/viamo
+com.sbi.SBISecure,http://www.sbi.co.in
+com.yubico.yubioath,https://www.yubico.com
+tdb.otp,http://www.tdbm.mn
+tm.asmanoky.otp,https://asmanoky.com
+no.SpareBank1.MobileOTP,http://www.sparebank1.no/
+at.tugraz.iaik.signapp,https://www.transsped.ro
+eu.sebbe.www.qrsa,https://github.com/sebastiannielsen/QRSA
+com.ca.sec.aa.authenticator,https://support.broadcom.com/
+com.ncs.secureconnect.otp,file unavailable
+com.ftsafe.otp.activity,http://www.ftsafe.com.cn
+kr.kjun.NaverSetup,http://kjun.kr
+iSec.Authenticator,file unavailable
+com.ws.a.otp,file unavailable
+ro.len.mobile,http://www.len.ro
+com.protectimus.android,https://www.protectimus.com/protectimus-smart
+com.systemat.SeeZam_OTP,http://www.seezam.com
+com.vivokey.vivoauth,http://www.vivokey.com
+com.kmcert.myotp,http://www.myotp.co.kr
+com.mobilians.motp,http://www.motp.co.kr
+com.vtc.main.otpapp,http://vtcpay.vn
+org.shadowice.flocke.andotp,https://github.com/andOTP/andOTP
+com.arcot.otp1,http://www.ca.com/us/contact.aspx?tab=support 
+teakwang.tsis.motp,http://www.tsis.co.kr
+com.jeptoken,http://www.coopjep.fin.ec
+ar.gob.afip.mobile.android.internal.seginfo,http://www.afip.gob.ar
+com.ADIBSDIGIPASS,https://www.adib.ae
+com.pentasecurity.isignplus.mobileotp,http://www.pentasecurity.com
+com.gstotpauthenticator,http://www.accountgst.com
+com.hidglobal.ia.token.generic,http://www.hidglobal.com
+com.eset.esa,https://www.eset.com/int/business/endpoint-security/two-factor-authentication/
+com.Sigma,http://www.sigma.se
+de.otp.main,http://www.telesec.de/onetimepass
+org.liberty.android.freeotpplus,http://anymemo.org
+vn.funtap.smartotp,https://funtapcorp.vn/ho-tro
+com.beemdevelopment.aegis,https://getaegis.app/
+ua.com.cs.ifobs.mobile.android.otp,https://www.otpsmart.com.ua/
+com.khla.otpapp.callhttpclient,http://pgbank.com.vn
+org.kamrul.android.myauth,metadata unavailable
+otl.snkl.HDFCSnorkelOTP,https://corporate.hdfcbank.com
+com.mds.canarabankapp,http://www.canarabank.com
+com.netfiles.netfilesotp,https://www.netfiles.de
+it.uiv.uivotp,http://www.unioneitalianavini.it/
+com.pvcombank.smartotp,metadata unavailable
+eu.netinfo.bcb.otp,http://www.bcb.bm
+com.net2recharge.otp,http://www.mobile2income.com
+com.entrust.identityGuard.mobile,http://www.entrust.com
+com.stove.otp.google.android,https://help.onstove.com
+com.FAISATOKEN,http://www.mib.com.mv
+com.sophos.sophtoken,http://www.sophos.com
+com.BANKABC,http://www.bank-abc.com
+com.pozitron.qib,http://www.qib.com.qa
+com18deglab.cylocklite,file unavailable
+com.mdmobiasbancadigipass,http://mobiasbanca.md
+com.vpbank.vpbanksmartotp,https://vpbankonline.vn
+com.changingtec.motp.pro,http://www.changingtec.com/EN/motp.html
+com.aircuve.motpkey_miraeasset,http://www.aircuve.com
+com.pacifico.pacificid,http://www.bancodelpacifico.com
+com.andxor.mobile.jsotp.piteco,http://www.pitecolab.it
+net.marinits.android.droidotp,http://marinits.net/cms/android
+vn.com.eximbank.softotp,http://www.eximbank.com.vn
+com.lenovo.otp,https://otp.lenovo.com
+com.aircuve.airotp,http://www.aircuve.com
+com.kienlongbank.etoken,https://kienlongbank.com/
+hr.asseco.android.intesa.isbd.alex,https://www.alexbank.com/
+com.ezmcom.cimb.softtoken.ezidv4,file unavailable
+it.netknights.piauthenticator,http://www.netknights.it
+jp.konami.android.otp_token,https://my.konami.net/otp.html
+com.cibcorptoken,http://www.cibeg.com
+com.securekiotp,http://www.secureki.com
+com.viafirma.otp,http://www.viafirma.com
+vn.savis.smartid,http://www.savis.vn
+net.aftnet.OTPManager,https://www.aftnet.net/
+com.ocb.iotp,http://www.ocb.com.vn
+com.azure.authenticator,http://msdn.microsoft.com/en-us/library/azure/dn858223.aspx
+two.factor.secure.otp.authentication,file unavailable
+vietcombank.itcenter.vcbsmartoptv10,https://www.vietcombank.com.vn
+jp.co.nttdata.onetimepassworda,https://dlsp.otp-auth.net/otpd/app/manuala/manualIndex.html
+com.hpe.icewall.smartotp,https://www.hpe.com/jp/ja/software/icewall/option.html
+com.scrignosa,https://www.popso.it/
+com.canopus.otpmacgenerator.finductive,http://www.finductive.com
+vn.mk.token.baseotp,http://www.mk.com.vn
+br.com.voegol.tokenagenciasgol,http://www.voegol.com.br
+com.qrail.token,http://www.ezmcom.com
+com.ideasventure.otptoken,http://www.ideasventure.com
+com.sbi.SBIFreedomPlus,http://www.sbi.co.in
+kr.or.kftc.fsc,http://www.kftc.or.kr
+com.egypt.ais.aismotp,http://www.ais-egypt.com
+org.arcon.pam.otp,http://www.arconnet.com
+com.lpb.softotp,https://lienvietpostbank.com.vn/
+com.atsolution.android.bcotp,http://www.atsolution.co.kr
+com.authenticator.authservice2,https://www.binaryboot.com/totp-authenticator
+cy.nbg.nbgcyotp,https://www.nbg.com.cy

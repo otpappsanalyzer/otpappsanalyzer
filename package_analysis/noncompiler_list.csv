@@ -1,0 +1,270 @@
+file_name,classes,component
+com.nof.makanoh.openkeypos.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check']"
+com.authy.authy.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible VM check']"
+com.authy.authy.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.authy.authy.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+vn.unlimit.magicauth.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+vn.unlimit.magicauth.apk,anti_vm,['Build.FINGERPRINT check']
+no.buypass.mobile.bpcode.bp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+no.buypass.mobile.bpcode.bp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.cbcapp.otp.activity.apk,anti_vm,['subscriber ID check']
+com.mastersam.android.mastersamotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check']"
+com.mastersam.android.mastersamotp.apk,manipulator,['dexmerge']
+com.egypt.ais.masriacard.mcmotp.apk,anti_vm,"['Build.HARDWARE check', 'Build.TAGS check']"
+com.dreammirae.otp.android.mirae.multiid.market.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.dreammirae.otp.android.mirae.multiid.market.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+token.security.m2m.com.generateotp.apk,manipulator,['dexmerge']
+com.deepnet.andmob5.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+hr.asseco.android.jimba.otpretailng.apk,anti_debug,['Debug.isDebuggerConnected() check']
+hr.asseco.android.jimba.otpretailng.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+com.inwebo.authenticator.apk,anti_vm,['Build.MANUFACTURER check']
+netinfo.eu.symantec.apk,anti_debug,['Debug.isDebuggerConnected() check']
+netinfo.eu.symantec.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'ro.hardware check', 'ro.kernel.qemu check', 'possible ro.secure check', 'possible VM check']"
+br.com.powersoftware.otpsafe.apk,anti_debug,['Debug.isDebuggerConnected() check']
+br.com.powersoftware.otpsafe.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.canopus.otpmacgenerator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check']"
+com.canopus.otpmacgenerator.apk,manipulator,['dexmerge']
+it.aruba.pec.mobile.otpfvg.apk,anti_debug,['Debug.isDebuggerConnected() check']
+it.aruba.pec.mobile.otpfvg.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.feelanet.artstrongid.sec.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.feelanet.artstrongid.sec.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.aircuve.aircuvemobile.apk,anti_disassembly,['illegal class name']
+com.aircuve.aircuvemobile.apk,anti_vm,"['possible Build.SERIAL check', 'Build.TAGS check', 'possible ro.secure check']"
+com.aircuve.aircuvemobile.apk,obfuscator,['DexGuard']
+com.nhn.hangameotp.apk,packer,['AppGuard (TOAST-NHNent)']
+com.nhn.hangameotp.apk,anti_vm,"['Build.MANUFACTURER check', 'SIM operator check', 'network operator name check']"
+it.aruba.pec.mobile.otp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+it.aruba.pec.mobile.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.bankofamerica.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.novoload.otp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.novoload.otp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+io.faceotp.faceotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+io.faceotp.faceotp.apk,anti_vm,['possible Build.SERIAL check']
+io.faceotp.faceotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.namirial.android.virtualotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.namirial.android.virtualotp.apk,anti_disassembly,['illegal class name']
+com.namirial.android.virtualotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible VM check']"
+com.namirial.android.virtualotp.apk,obfuscator,['DexGuard']
+com.bncr.detectid_otp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.bncr.detectid_otp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.bncr.detectid_otp.apk,anti_vm,['Build.MODEL check']
+it.previnet.authenticator.apk,anti_debug,['Debug.isDebuggerConnected() check']
+it.previnet.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.rcdevs.auth.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible VM check']"
+com.sgn.sgotp.apk,anti_vm,"['Build.MANUFACTURER check', 'network interface name check']"
+com.sgn.sgotp.apk,manipulator,['dexmerge']
+kr.co.neople.neopleotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'network operator name check', 'possible VM check']"
+kr.co.neople.neopleotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+kr.co.neople.neopleotp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+eu.netinfo.netteller.cqur.motp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+eu.netinfo.netteller.cqur.motp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"
+club.nagavip.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check', 'possible VM check']"
+ngn.com.vn.totp.apk,manipulator,['dexmerge']
+com.halcom.ng.mobile.puppaltr.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.halcom.ng.mobile.puppaltr.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.halcom.ng.mobile.puppaltr.apk,obfuscator,['DexGuard']
+com.halcom.ng.mobile.puppaltr.apk,anti_vm,['Build.FINGERPRINT check']
+org.arcon.arcos.otp1.apk,manipulator,['dexmerge']
+ru.yandex.key.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'SIM operator check', 'network operator name check']"
+com.vietinbank.softotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.vietinbank.softotp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"
+otl.snkl.SnorkelOTP.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
+cy.com.netinfo.crdbotp.apk,anti_vm,['Build.MANUFACTURER check']
+hr.asseco.android.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
+com.GlowOTP.apk,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+com.aff.otpdirekt.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'possible VM check']"
+com.aff.otpdirekt.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible ro.secure check', 'possible VM check']"
+com.zenithbank.zenithetoken.apk,anti_vm,['Build.FINGERPRINT check']
+com.CIBEgyptSecureToken.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.goldtime.authy.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+vn.tpb.token.baseotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+vn.tpb.token.baseotp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"
+com.BankMisrSoftToken.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+com.protectimus.totpburner.nfc.apk,anti_vm,['Build.MANUFACTURER check']
+com.protectimus.totpburner.nfc.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
+com.sgn.sgotp.lotte.apk,manipulator,['dexmerge']
+oracle.idm.mobile.authenticator.apk,anti_vm,['network operator name check']
+com.dreammirae.anyauth.android.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.dreammirae.anyauth.android.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible ro.secure check']"
+dev.cat.coffee.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+dev.cat.coffee.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
+com.google.android.apps.authenticator2.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.LuxTrustMobile.apk,obfuscator,['Obfuscator-LLVM version 3.5']
+com.LuxTrustMobile.apk,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check', 'possible VM check']"
+com.LuxTrustMobile.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.LuxTrustMobile.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.LuxTrustMobile.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+sg.worktable.pingoauth.apk,anti_debug,['Debug.isDebuggerConnected() check']
+sg.worktable.pingoauth.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+vn.com.sacombank.msign.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.TAGS check']"
+com.kiwoom.unitycert.apk,packer,['AppSuit']
+com.kiwoom.unitycert.apk,anti_vm,['possible VM check']
+com.kiwoom.unitycert.apk,obfuscator,"['AppSuit', 'unreadable field names', 'unreadable method names']"
+com.kiwoom.unitycert.apk,anti_vm,['emulator file check']
+com.techcombank.stk.corp.apk,obfuscator,['Gemalto']
+com.techcombank.stk.corp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.techcombank.stk.corp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'subscriber ID check']"
+com.techcombank.stk.corp.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+eu.netinfo.cdb.otp.apk,anti_vm,['Build.MANUFACTURER check']
+com.bitrixsoft.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.bitrixsoft.otp.apk,manipulator,['dexmerge']
+org.juanjcsr.newcloudotp.apk,anti_vm,"['Build.FINGERPRINT check', 'possible Build.SERIAL check']"
+com.square_enix_software_token.apk,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+com.trumotp.club.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'network operator name check', 'possible VM check']"
+com.trumotp.club.apk,manipulator,['dexmerge']
+com.gemalto.idprove.apk,anti_vm,"['possible Build.SERIAL check', 'Build.TAGS check', 'subscriber ID check']"
+com.ncb.bank.otp.apk,anti_vm,"['Build.MANUFACTURER check', 'Build.TAGS check', 'possible ro.secure check']"
+org.cry.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+me.jmh.authenticatorpro.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'possible VM check']"
+wibmo.com.wibmoAuthApp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+wibmo.com.wibmoAuthApp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'possible ro.secure check', 'possible VM check']"
+vn.com.bidv.softotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+vn.com.bidv.softotp.apk,anti_disassembly,['illegal class name']
+vn.com.bidv.softotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+vn.com.bidv.softotp.apk,obfuscator,['DexGuard']
+it.company.sielte.apk,anti_vm,"['Build.MANUFACTURER check', 'Build.HARDWARE check', 'possible VM check']"
+com.u2fa.secur.apk,anti_vm,['Build.MANUFACTURER check']
+eu.sia.siaotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check']"
+nh.smart.signone.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'SIM operator check', 'network operator name check', 'subscriber ID check']"
+nh.smart.signone.apk,obfuscator,['unreadable field names']
+nh.smart.signone.apk,anti_debug,['Debug.isDebuggerConnected() check']
+nh.smart.signone.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check', 'SIM operator check', 'network operator name check', 'device ID check', 'subscriber ID check', 'possible VM check']"
+nh.smart.signone.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.isprint.SWIFTToken.apk,anti_vm,['emulator file check']
+com.vn.vib.smeotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.vn.vib.smeotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+org.fedorahosted.freeotp.apk,manipulator,['dexmerge']
+sk.otp.viamo.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.sbi.SBISecure.apk,packer,['Kony']
+com.sbi.SBISecure.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check', 'possible ro.secure check']"
+com.sbi.SBISecure.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.sbi.SBISecure.apk,obfuscator,['Arxan']
+tm.asmanoky.otp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+tm.asmanoky.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check']"
+no.SpareBank1.MobileOTP.apk,obfuscator,['Obfuscator-LLVM version 3.5']
+no.SpareBank1.MobileOTP.apk,anti_debug,['Debug.isDebuggerConnected() check']
+no.SpareBank1.MobileOTP.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+no.SpareBank1.MobileOTP.apk,obfuscator,"['Gemalto', 'unreadable field names', 'unreadable method names']"
+at.tugraz.iaik.signapp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+at.tugraz.iaik.signapp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+com.ca.sec.aa.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.ncs.secureconnect.otp.apk,manipulator,['dexmerge']
+com.ftsafe.otp.activity.apk,packer,"[""Tencent's Legu""]"
+com.ftsafe.otp.activity.apk,anti_disassembly,"['non-zero link size', 'non-zero link offset']"
+com.ftsafe.otp.activity.apk,packer,['Mobile Tencent Protect']
+kr.kjun.NaverSetup.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.DEVICE check', 'Build.PRODUCT check']"
+iSec.Authenticator.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'network operator name check']"
+com.ws.a.otp.apk,manipulator,['dexmerge']
+ro.len.mobile.apk,anti_debug,['Debug.isDebuggerConnected() check']
+ro.len.mobile.apk,manipulator,['dexmerge']
+com.protectimus.android.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.protectimus.android.apk,anti_vm,['Build.FINGERPRINT check']
+com.systemat.SeeZam_OTP.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.systemat.SeeZam_OTP.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.kmcert.myotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'possible VM check']"
+com.kmcert.myotp.apk,manipulator,['dexmerge']
+com.kmcert.myotp.apk,anti_vm,['possible VM check']
+com.mobilians.motp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.mobilians.motp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+org.shadowice.flocke.andotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.arcot.otp1.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible VM check']"
+teakwang.tsis.motp.apk,anti_vm,"['Build.TAGS check', 'possible ro.secure check']"
+com.jeptoken.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+ar.gob.afip.mobile.android.internal.seginfo.apk,anti_debug,['Debug.isDebuggerConnected() check']
+ar.gob.afip.mobile.android.internal.seginfo.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.ADIBSDIGIPASS.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+com.pentasecurity.isignplus.mobileotp.apk,anti_vm,['Build.MANUFACTURER check']
+com.gstotpauthenticator.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.gstotpauthenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+com.Sigma.apk,manipulator,['dexmerge']
+de.otp.main.apk,anti_vm,['Build.FINGERPRINT check']
+org.liberty.android.freeotpplus.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+vn.funtap.smartotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.TAGS check']"
+vn.funtap.smartotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.beemdevelopment.aegis.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+ua.com.cs.ifobs.mobile.android.otp.apk,anti_vm,['Build.MANUFACTURER check']
+ua.com.cs.ifobs.mobile.android.otp.apk,obfuscator,['DexGuard']
+ua.com.cs.ifobs.mobile.android.otp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+ua.com.cs.ifobs.mobile.android.otp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.khla.otpapp.callhttpclient.apk,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+org.kamrul.android.myauth.apk,anti_vm,['Build.MANUFACTURER check']
+otl.snkl.HDFCSnorkelOTP.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check']"
+com.mds.canarabankapp.apk,anti_vm,['Build.TAGS check']
+com.pvcombank.smartotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'device ID check', 'subscriber ID check', 'ro.hardware check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check', 'possible VM check']"
+eu.netinfo.bcb.otp.apk,anti_vm,['Build.MANUFACTURER check']
+com.entrust.identityGuard.mobile.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible ro.secure check']"
+com.stove.otp.google.android.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
+com.FAISATOKEN.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+com.sophos.sophtoken.apk,anti_vm,"['Build.HARDWARE check', 'Build.TAGS check']"
+com.BANKABC.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check']"
+com.pozitron.qib.apk,packer,['DexProtector']
+com.pozitron.qib.apk,anti_vm,"['Build.FINGERPRINT check', 'possible Build.SERIAL check']"
+com.pozitron.qib.apk,anti_vm,"['Build.MANUFACTURER check', 'possible Build.SERIAL check']"
+com.pozitron.qib.apk,anti_vm,['Build.MANUFACTURER check']
+com.pozitron.qib.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.mdmobiasbancadigipass.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.vpbank.vpbanksmartotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.vpbank.vpbanksmartotp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"
+com.changingtec.motp.pro.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.changingtec.motp.pro.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check']"
+com.pacifico.pacificid.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.BRAND check', 'Build.DEVICE check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'network operator name check']"
+com.pacifico.pacificid.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.andxor.mobile.jsotp.piteco.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.andxor.mobile.jsotp.piteco.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.andxor.mobile.jsotp.piteco.apk,manipulator,['dexmerge']
+vn.com.eximbank.softotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+vn.com.eximbank.softotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'Build.TAGS check', 'possible ro.secure check']"
+com.aircuve.airotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.kienlongbank.etoken.apk,anti_disassembly,['illegal class name']
+com.kienlongbank.etoken.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'network operator name check', 'possible ro.secure check']"
+hr.asseco.android.intesa.isbd.alex.apk,anti_debug,['Debug.isDebuggerConnected() check']
+hr.asseco.android.intesa.isbd.alex.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check']"
+hr.asseco.android.intesa.isbd.alex.apk,anti_vm,"['Build.MANUFACTURER check', 'Build.HARDWARE check']"
+hr.asseco.android.intesa.isbd.alex.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check', 'SIM operator check', 'ro.kernel.qemu check', 'possible VM check']"
+com.ezmcom.cimb.softtoken.ezidv4.apk,anti_disassembly,['illegal class name']
+com.ezmcom.cimb.softtoken.ezidv4.apk,obfuscator,['DexGuard']
+it.netknights.piauthenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check']"
+com.cibcorptoken.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.securekiotp.apk,manipulator,['dexmerge']
+vn.savis.smartid.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+com.ocb.iotp.apk,obfuscator,['Obfuscator-LLVM version 3.5']
+com.ocb.iotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.ocb.iotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'possible VM check']"
+com.ocb.iotp.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+com.ocb.iotp.apk,anti_vm,"['possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+com.azure.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.azure.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'network operator name check']"
+com.azure.authenticator.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.azure.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check', 'possible Build.SERIAL check']"
+com.azure.authenticator.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.BOARD check']"
+two.factor.secure.otp.authentication.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible VM check']"
+vietcombank.itcenter.vcbsmartoptv10.apk,obfuscator,['Obfuscator-LLVM version 3.5']
+vietcombank.itcenter.vcbsmartoptv10.apk,anti_debug,['Debug.isDebuggerConnected() check']
+vietcombank.itcenter.vcbsmartoptv10.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'possible Build.SERIAL check', 'possible VM check']"
+vietcombank.itcenter.vcbsmartoptv10.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+vietcombank.itcenter.vcbsmartoptv10.apk,anti_vm,"['possible Build.SERIAL check', 'possible VM check']"
+jp.co.nttdata.onetimepassworda.apk,anti_vm,"['Build.MODEL check', 'possible Build.SERIAL check']"
+com.scrignosa.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.canopus.otpmacgenerator.finductive.apk,anti_vm,['possible VM check']
+com.canopus.otpmacgenerator.finductive.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.canopus.otpmacgenerator.finductive.apk,anti_vm,"['Build.MODEL check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible VM check']"
+vn.mk.token.baseotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+vn.mk.token.baseotp.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"
+br.com.voegol.tokenagenciasgol.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'network operator name check']"
+br.com.voegol.tokenagenciasgol.apk,anti_vm,"['Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check']"
+com.qrail.token.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.qrail.token.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'ro.hardware check', 'ro.product.device check', 'ro.kernel.qemu check', 'emulator file check']"
+com.qrail.token.apk,obfuscator,['DexGuard']
+com.sbi.SBIFreedomPlus.apk,packer,['Kony']
+com.sbi.SBIFreedomPlus.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'possible Build.SERIAL check', 'device ID check', 'possible ro.secure check']"
+com.sbi.SBIFreedomPlus.apk,obfuscator,"['unreadable field names', 'unreadable method names']"
+kr.or.kftc.fsc.apk,anti_debug,['Debug.isDebuggerConnected() check']
+kr.or.kftc.fsc.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.BOARD check', 'possible Build.SERIAL check', 'Build.TAGS check', 'possible VM check']"
+kr.or.kftc.fsc.apk,obfuscator,['unreadable method names']
+kr.or.kftc.fsc.apk,anti_disassembly,"['non-zero link size', 'non-zero link offset']"
+com.lpb.softotp.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.lpb.softotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.TAGS check', 'possible ro.secure check']"
+com.authenticator.authservice2.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MANUFACTURER check', 'Build.HARDWARE check', 'Build.TAGS check']"
+com.authenticator.authservice2.apk,anti_debug,['Debug.isDebuggerConnected() check']
+com.authenticator.authservice2.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.BOARD check', 'Build.TAGS check', 'possible VM check']"
+cy.nbg.nbgcyotp.apk,anti_vm,"['Build.FINGERPRINT check', 'Build.MODEL check', 'Build.MANUFACTURER check', 'Build.PRODUCT check', 'Build.HARDWARE check', 'Build.TAGS check', 'possible ro.secure check']"

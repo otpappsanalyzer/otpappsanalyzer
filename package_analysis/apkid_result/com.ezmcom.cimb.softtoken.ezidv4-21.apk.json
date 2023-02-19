@@ -1,0 +1,1 @@
+{"apkid_version": "2.1.2", "files": [{"filename": "/home/budi/OTP_project/apk_list/com.ezmcom.cimb.softtoken.ezidv4-21.apk!classes.dex", "matches": {"anti_disassembly": ["illegal class name"], "compiler": ["dexlib 2.x"], "obfuscator": ["DexGuard"]}}], "rules_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"}

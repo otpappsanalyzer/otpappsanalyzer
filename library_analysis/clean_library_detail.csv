@@ -1,0 +1,102 @@
+app_id,lib_name,lib_type
+com.nof.makanoh.openkeypos,Google Ads,ads
+com.forgerock.authenticator,Squareup,Payment
+com.authy.authy,Squareup,Payment
+com.authy.authy,Google Ads,ads
+vn.unlimit.magicauth,Facebook,social_media
+vn.unlimit.magicauth,Google Ads,ads
+com.deepnet.andmob5,Google Ads,ads
+hr.asseco.android.jimba.otpretailng,Squareup,Payment
+hr.asseco.android.jimba.otpretailng,Google Ads,ads
+netinfo.eu.symantec,Google Ads,ads
+com.canopus.otpmacgenerator,Squareup,Payment
+com.feelanet.artstrongid.sec,Google Ads,ads
+io.faceotp.faceotp,Facebook,social_media
+io.faceotp.faceotp,Google Ads,ads
+com.namirial.android.virtualotp,Google Ads,ads
+com.bncr.detectid_otp,Google Ads,ads
+it.previnet.authenticator,Squareup,Payment
+it.previnet.authenticator,Google Ads,ads
+kr.co.neople.neopleotp,Google Ads,ads
+kr.co.neople.neopleotp,Google Analytics,Analytics
+eu.netinfo.netteller.cqur.motp,Squareup,Payment
+eu.netinfo.netteller.cqur.motp,Google Ads,ads
+club.nagavip.otp,Facebook,social_media
+club.nagavip.otp,Google Ads,ads
+com.halcom.ng.mobile.puppaltr,Facebook,social_media
+com.halcom.ng.mobile.puppaltr,Google Ads,ads
+ru.yandex.key,Squareup,Payment
+com.vietinbank.softotp,Google Ads,ads
+hr.asseco.android.otp,Google Ads,ads
+com.aff.otpdirekt,Facebook,social_media
+com.aff.otpdirekt,Google Ads,ads
+com.aff.otpdirekt,Google Analytics,Analytics
+com.aff.otpdirekt,Squareup,Payment
+com.goldtime.authy,Facebook,social_media
+vn.tpb.token.baseotp,Google Ads,ads
+com.protectimus.totpburner.nfc,Google Ads,ads
+com.protectimus.totpburner.nfc,Google Analytics,Analytics
+dev.cat.coffee.authenticator,Google Ads,ads
+com.LuxTrustMobile,Google Ads,ads
+com.LuxTrustMobile,Squareup,Payment
+com.LuxTrustMobile,Facebook,social_media
+sg.worktable.pingoauth,Google Ads,ads
+com.kiwoom.unitycert,Facebook,social_media
+com.techcombank.stk.corp,Google Ads,ads
+com.bitrixsoft.otp,Squareup,Payment
+org.juanjcsr.newcloudotp,Squareup,Payment
+com.trumotp.club,Facebook,social_media
+wibmo.com.wibmoAuthApp,Google Ads,ads
+br.gov.caixa.codigocaixa,Squareup,Payment
+org.fedorahosted.freeotp,Squareup,Payment
+sk.otp.viamo,Facebook,social_media
+sk.otp.viamo,Google Ads,ads
+tm.asmanoky.otp,Squareup,Payment
+tm.asmanoky.otp,Google Ads,ads
+no.SpareBank1.MobileOTP,Google Ads,ads
+at.tugraz.iaik.signapp,Google Ads,ads
+com.ca.sec.aa.authenticator,Google Ads,ads
+com.ncs.secureconnect.otp,Squareup,Payment
+com.ftsafe.otp.activity,Tencent,ads
+kr.kjun.NaverSetup,Google Ads,ads
+com.systemat.SeeZam_OTP,Google Ads,ads
+com.kmcert.myotp,Google Ads,ads
+com.mobilians.motp,Google Ads,ads
+teakwang.tsis.motp,Facebook,social_media
+teakwang.tsis.motp,Squareup,Payment
+ar.gob.afip.mobile.android.internal.seginfo,Squareup,Payment
+com.gstotpauthenticator,Google Ads,ads
+com.eset.esa,Google Ads,ads
+org.liberty.android.freeotpplus,Squareup,Payment
+org.kamrul.android.myauth,Squareup,Payment
+otl.snkl.HDFCSnorkelOTP,Google Ads,ads
+otl.snkl.HDFCSnorkelOTP,Google Analytics,Analytics
+com.mds.canarabankapp,Squareup,Payment
+com.pvcombank.smartotp,Facebook,social_media
+com.entrust.identityGuard.mobile,Google Ads,ads
+com.stove.otp.google.android,Google Ads,ads
+com.stove.otp.google.android,Google Analytics,Analytics
+com.pozitron.qib,Google Ads,ads
+com.pozitron.qib,Squareup,Payment
+com.vpbank.vpbanksmartotp,Google Ads,ads
+com.pacifico.pacificid,Google Ads,ads
+com.pacifico.pacificid,Google Analytics,Analytics
+vn.com.eximbank.softotp,Google Ads,ads
+com.kienlongbank.etoken,Google Ads,ads
+hr.asseco.android.intesa.isbd.alex,Google Ads,ads
+hr.asseco.android.intesa.isbd.alex,Facebook,social_media
+com.ocb.iotp,Google Ads,ads
+com.azure.authenticator,adjust,Analytics
+com.azure.authenticator,Facebook,social_media
+com.azure.authenticator,Google Ads,ads
+com.azure.authenticator,Squareup,Payment
+two.factor.secure.otp.authentication,Google Ads,ads
+two.factor.secure.otp.authentication,Squareup,Payment
+vietcombank.itcenter.vcbsmartoptv10,Google Ads,ads
+com.canopus.otpmacgenerator.finductive,Squareup,Payment
+vn.mk.token.baseotp,Google Ads,ads
+br.com.voegol.tokenagenciasgol,Google Ads,ads
+br.com.voegol.tokenagenciasgol,Google Analytics,Analytics
+com.qrail.token,Google Ads,ads
+kr.or.kftc.fsc,Google Ads,ads
+com.authenticator.authservice2,Google Ads,ads
