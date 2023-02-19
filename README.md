@@ -3,6 +3,7 @@ This is complimentary repository for USENIX paper with a title of "More Than Jus
 On the Security and Privacy of Android One-Time Password Authenticator Apps".
 
 Herewith the explation for each folder content.
+
 **1. Metadata.**
 The scripts inside this folder is used to scrap the metadata of OTP apps from the Google Play Store. The python script needs javascript from the folder **apps_screening**. Make sure you have installed the Google-play-scraper NPM library in your environment. 
 For more information about installing NPM can be found in :
