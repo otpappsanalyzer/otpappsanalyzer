@@ -1,5 +1,8 @@
 ### Hi there 👋
-This is complimentary repository for USENIX paper.
+This is complimentary repository for USENIX paper with a title of "More Than Just a Random Number Generator!
+On the Security and Privacy of Android One-Time Password Authenticator Apps".
+
+Herewith the explation for each folder content.
 
 <!--
 **otpappsanalyzer/otpappsanalyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
