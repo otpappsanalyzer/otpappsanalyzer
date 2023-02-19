@@ -7,9 +7,9 @@ import json
 import pandas as pd
 import csv
 
-node_js_path = '/home/budi/crypto_project/crypto_code/apps_screening/'
+node_js_path = '/home/budi//OTP_project/OTP_code/apps_screening/'
 selected_app_id = '/home/budi/OTP_project/OTP_code/metadata/csv_apk_id.csv'
-selected_metadata = '/home/budi/OTP_project/metadata_result/'
+selected_metadata = '/home/budi/OTP_project/metadata_result/' # the file size is too big to upload to github, please contact author after publication
 # sum_metadata_file = '/home/budi/OTP_project/OTP_code/metadata/sum_metadata.csv'
 sum_metadata_file = '/home/budi/OTP_project/OTP_code/metadata/sum_metadata_next.csv'
 apps_not_found = '/home/budi/OTP_project/OTP_code/metadata/metadata_not_found.csv'
