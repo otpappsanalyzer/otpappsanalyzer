@@ -1,0 +1,17 @@
+Vulnerability & Component Type & Popular & # of component & # of apps (\%) \\ 
+Unprotected exported component & Activity & False & 23 & 18(9.89\%)\\ 
+Unprotected exported component & Activity & True & 38 & 16(8.79\%)\\ 
+Unprotected exported component & Broadcast Receiver & False & 5 & 4(2.2\%)\\ 
+Unprotected exported component & Broadcast Receiver & True & 8 & 7(3.85\%)\\ 
+Unprotected exported component & Content Provider & False & 1 & 1(0.55\%)\\ 
+Unprotected exported component & Content Provider & True & 2 & 2(1.1\%)\\ 
+Unprotected exported component & Service & False & 34 & 21(11.54\%)\\ 
+Unprotected exported component & Service & True & 47 & 25(13.74\%)\\ 
+Unprotected intent-filter & Activity & False & 64 & 37(20.33\%)\\ 
+Unprotected intent-filter & Activity & True & 98 & 26(14.29\%)\\ 
+Unprotected intent-filter & Activity-Alias & False & 2 & 1(0.55\%)\\ 
+Unprotected intent-filter & Activity-Alias & True & 1 & 1(0.55\%)\\ 
+Unprotected intent-filter & Broadcast Receiver & False & 17 & 13(7.14\%)\\ 
+Unprotected intent-filter & Broadcast Receiver & True & 15 & 9(4.95\%)\\ 
+Unprotected intent-filter & Service & False & 19 & 15(8.24\%)\\ 
+Unprotected intent-filter & Service & True & 28 & 19(10.44\%)\\ 

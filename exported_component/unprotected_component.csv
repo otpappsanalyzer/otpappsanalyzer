@@ -1,0 +1,403 @@
+app_id,vulnerable,comp_type,comp_name
+com.mobilians.motp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.vivokey.vivoauth,Unprotected intent-filter,Activity,com.vivokey.vivoauth.ui.add.AddCredentialActivity
+jp.co.nttdata.onetimepassworda,Unprotected intent-filter,Service,jp.co.nttdata.onetimepassworda.common.GcmIntentService
+jp.co.nttdata.onetimepassworda,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+jp.co.nttdata.onetimepassworda,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+jp.co.nttdata.onetimepassworda,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+oracle.idm.mobile.authenticator,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+oracle.idm.mobile.authenticator,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+wibmo.com.wibmoAuthApp,Unprotected intent-filter,Service,com.wibmo.FCM.MyFirebaseMessagingService
+wibmo.com.wibmoAuthApp,Unprotected intent-filter,Service,com.wibmo.FCM.MyFirebaseInstanceIDService
+wibmo.com.wibmoAuthApp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+wibmo.com.wibmoAuthApp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+wibmo.com.wibmoAuthApp,Unprotected exported component,Broadcast Receiver,com.clevertap.android.sdk.InstallReferrerBroadcastReceiver
+com.forgerock.authenticator,Unprotected intent-filter,Activity,com.forgerock.authenticator.IdentityActivity
+com.forgerock.authenticator,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.forgerock.authenticator,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.stove.otp.google.android,Unprotected exported component,Activity,androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+com.stove.otp.google.android,Unprotected intent-filter,Activity,androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+com.stove.otp.google.android,Unprotected intent-filter,Activity,androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+com.stove.otp.google.android,Unprotected intent-filter,Activity,androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+com.stove.otp.google.android,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.stove.otp.google.android,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.stove.otp.google.android,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+com.stove.otp.google.android,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.ocb.iotp,Unprotected intent-filter,Service,com.ocb.iotp.push.OcbFirebaseMessageService
+com.ocb.iotp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.ocb.iotp,Unprotected exported component,Service,com.google.android.play.core.assetpacks.AssetPackExtractionService
+com.ocb.iotp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.kmcert.myotp,Unprotected intent-filter,Broadcast Receiver,com.kmcert.myotp.receiver.ConnReceiver
+com.kmcert.myotp,Unprotected intent-filter,Service,com.kmcert.myotp.gcm.MyInstanceIDListenerService
+com.kmcert.myotp,Unprotected intent-filter,Service,com.kmcert.myotp.activities.GCMIntentService
+com.kmcert.myotp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.kmcert.myotp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+cy.nbg.nbgcyotp,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+club.nagavip.otp,Unprotected intent-filter,Broadcast Receiver,com.onesignal.BootUpReceiver
+club.nagavip.otp,Unprotected intent-filter,Broadcast Receiver,com.onesignal.UpgradeReceiver
+club.nagavip.otp,Unprotected exported component,Broadcast Receiver,com.learnium.RNDeviceInfo.RNDeviceReceiver
+com.yubico.yubioath,Unprotected intent-filter,Activity,com.yubico.yubioath.ui.add.AddCredentialActivity
+tdb.otp,Unprotected intent-filter,Activity,tdb.otp.OTP_Main
+com.sgn.secureguardotp,Unprotected intent-filter,Activity,com.sgn.sgotp.activity.TOTP_Activity
+it.company.sielte,Unprotected intent-filter,Service,crc645efd5392a8495b56.FirebaseNotificationService
+it.company.sielte,Unprotected intent-filter,Service,crc645efd5392a8495b56.MyFirebaseIIDService
+it.company.sielte,Unprotected intent-filter,Activity,crc645efd5392a8495b56.MainActivity
+it.company.sielte,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+it.company.sielte,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.arcot.otp1,Unprotected intent-filter,Activity,com.arcot.otp1.ArcotApplication
+com.arcot.otp1,Unprotected intent-filter,Activity,com.arcot.otp1.StartActivity
+com.arcot.otp1,Unprotected exported component,Content Provider,com.arcot.otp1.storage.CustomContentProvider
+com.arcot.otp1,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.arcot.otp1,Unprotected intent-filter,Activity,com.google.zxing.client.android.encode.EncodeActivity
+com.arcot.otp1,Unprotected intent-filter,Activity,com.google.zxing.client.android.book.SearchBookContentsActivity
+com.arcot.otp1,Unprotected intent-filter,Activity,com.google.zxing.client.android.share.ShareActivity
+sg.worktable.pingoauth,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.gemalto.idprove,Unprotected intent-filter,Activity,com.gemalto.protiva.activity.WidgetConfiguragtionActivity
+com.gemalto.idprove,Unprotected intent-filter,Broadcast Receiver,com.gemalto.protiva.provider.WidgetProvider3x1
+com.gemalto.idprove,Unprotected intent-filter,Broadcast Receiver,com.gemalto.protiva.provider.WidgetProvider1x1
+vn.mk.token.baseotp,Unprotected intent-filter,Activity,vn.acb.token.activitys.DeeplinkActivity
+com.aircuve.aircuvemobile,Unprotected intent-filter,Activity,.Views.p4_Main.Activitys.MainActivity
+com.aircuve.aircuvemobile,Unprotected intent-filter,Activity,.Views.p5_AuthRequest.Activitys.ShowPushMsgActivity
+com.aircuve.aircuvemobile,Unprotected intent-filter,Broadcast Receiver,.MiniFramework.utils.PackageReceiver
+com.aircuve.aircuvemobile,Unprotected intent-filter,Service,.MiniFramework.FCM.AirCuveFcmListenerService
+com.aircuve.aircuvemobile,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.aircuve.aircuvemobile,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+two.factor.secure.otp.authentication,Unprotected intent-filter,Activity,two.factor.secure.otp.authentication.Activities.MainActivity
+two.factor.secure.otp.authentication,Unprotected intent-filter,Activity,two.factor.secure.otp.authentication.Activities.PanicResponderActivity
+two.factor.secure.otp.authentication,Unprotected intent-filter,Broadcast Receiver,two.factor.secure.otp.authentication.Receivers.PlainTextBackupBroadcastReceiver
+two.factor.secure.otp.authentication,Unprotected intent-filter,Broadcast Receiver,two.factor.secure.otp.authentication.Receivers.EncryptedBackupBroadcastReceiver
+com.beemdevelopment.aegis,Unprotected intent-filter,Activity,com.beemdevelopment.aegis.ui.PanicResponderActivity
+com.beemdevelopment.aegis,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.iwMainActivity
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewUserDataPrivacy
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewAbout
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewServices
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewOtp
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewOtpEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewSynchronize
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewNewSN
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewNewSNEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewSynchronizeEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewSynchronizeDefinePin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewAddService
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewAddServiceEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewAddServiceDefinePin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewGenerateSiteId
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewGenerateSiteIdResult
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalActivation
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalActivationDefinePin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalActivationEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalUnlock
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalUnlockEnterPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.modalUnlockResetPin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewChangePin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.inwebo.authenticator.viewUpgradePin
+com.inwebo.authenticator,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.inwebo.authenticator,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.inwebo.authenticator,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.trumotp.club,Unprotected exported component,Content Provider,com.facebook.FacebookContentProvider
+hr.asseco.android.intesa.isbd.alex,Unprotected intent-filter,Service,hr.asseco.android.intesa.isbd.gcm.ISBDFirebaseMessagingService
+hr.asseco.android.intesa.isbd.alex,Unprotected exported component,Activity,com.facebook.CustomTabActivity
+vn.com.eximbank.softotp,Unprotected exported component,Activity,com.google.firebase.auth.internal.GenericIdpActivity
+vn.com.eximbank.softotp,Unprotected exported component,Activity,com.google.firebase.auth.internal.RecaptchaActivity
+eu.sebbe.www.qrsa,Unprotected intent-filter,Activity,eu.sebbe.www.qrsa.MainActivity
+com.sgn.sgotp.lotte,Unprotected intent-filter,Activity,com.sgn.sgotp.lotte.OTPMain
+com.yubico.yubiclip,Unprotected intent-filter,Activity,com.yubico.yubiclip.HandleOTPActivity
+com.dreammirae.anyauth.android,Unprotected intent-filter,Activity,com.dreammirae.anyauth.android.ui.modules.dynamic.DynamicLinkActivity
+com.dreammirae.anyauth.android,Unprotected exported component,Service,com.dreammirae.remote.RemoteService
+com.dreammirae.anyauth.android,Unprotected intent-filter,Activity,com.dreammirae.fidocombo.fidoclient.MainActivity
+com.dreammirae.anyauth.android,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+me.jmh.authenticatorpro,Unprotected intent-filter,Service,crc64319ea93aa123870f.WearQueryService
+me.jmh.authenticatorpro,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+at.tugraz.iaik.signapp,Unprotected exported component,Activity,com.gae.scaffolder.plugin.FCMPluginActivity
+at.tugraz.iaik.signapp,Unprotected intent-filter,Service,com.gae.scaffolder.plugin.MyFirebaseMessagingService
+com.entrust.identityGuard.mobile,Unprotected exported component,Activity,com.entrust.identityGuard.mobile.OTPResponse
+com.entrust.identityGuard.mobile,Unprotected exported component,Activity,com.entrust.identityGuard.mobile.TransactionPending
+com.entrust.identityGuard.mobile,Unprotected exported component,Activity,com.entrust.identityGuard.mobile.TransactionProcess
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Activity,com.entrust.identityGuard.mobile.OtpWidgetConfigure
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Activity,com.entrust.identityGuard.mobile.OnlineActivation
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Activity,com.entrust.identityGuard.mobile.QrCaptureActivity
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Activity,com.entrust.identityGuard.mobile.QuickLinkActivity
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Activity,com.entrust.identityGuard.mobile.OfflineActivation
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Broadcast Receiver,com.entrust.identityGuard.mobile.OtpWidgetProvider
+com.entrust.identityGuard.mobile,Unprotected intent-filter,Service,com.entrust.identityGuard.mobile.StFirebaseMessagingService
+com.gstotpauthenticator,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+hr.asseco.android.mtoken.ht.test,Unprotected intent-filter,Activity,hr.asseco.android.login.LoginActivity
+com.authy.authy,Unprotected intent-filter,Activity,com.authy.authy.activities.registration.OpenTokenFilterActivity
+com.authy.authy,Unprotected intent-filter,Activity,com.authy.authy.activities.registration.PinRegistrationFilterActivity
+com.authy.authy,Unprotected intent-filter,Activity,com.authy.authy.activities.TokensActivity
+com.authy.authy,Unprotected intent-filter,Broadcast Receiver,com.authy.authy.widget.AuthyWidgetProvider
+teakwang.tsis.motp,Unprotected intent-filter,Service,teakwang.tsis.motp.service.SyncService
+teakwang.tsis.motp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.protectimus.totpburner.nfc,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.protectimus.totpburner.nfc,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.protectimus.totpburner.nfc,Unprotected intent-filter,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+com.protectimus.totpburner.nfc,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+it.aruba.pec.mobile.otp,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.protectimus.android,Unprotected exported component,Service,com.protectimus.android.watch.SyncService
+br.com.powersoftware.otpsafe,Unprotected intent-filter,Broadcast Receiver,nl.xservices.plugins.ShareChooserPendingIntent
+org.shadowice.flocke.andotp,Unprotected intent-filter,Activity,org.shadowice.flocke.andotp.Activities.PanicResponderActivity
+org.shadowice.flocke.andotp,Unprotected intent-filter,Broadcast Receiver,org.shadowice.flocke.andotp.Receivers.PlainTextBackupBroadcastReceiver
+org.shadowice.flocke.andotp,Unprotected intent-filter,Broadcast Receiver,org.shadowice.flocke.andotp.Receivers.EncryptedBackupBroadcastReceiver
+com.aircuve.motpkey_miraeasset,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.changingtec.motp.pro,Unprotected intent-filter,Service,com.changingtec.controller.service.PushIntentService
+com.changingtec.motp.pro,Unprotected intent-filter,Activity,com.changingtec.controller.UrlRegisterActivity
+com.pacifico.pacificid,Unprotected intent-filter,Activity,net.easysol.did.common.registration.agreement.AgreementBroadcast
+com.pacifico.pacificid,Unprotected intent-filter,Service,net.easysol.did.firebase_service.FirebaseGCMReceiverService
+com.pacifico.pacificid,Unprotected exported component,Activity,net.easysol.did.qr_auth.transaction.QRCodeTransactionActivity
+com.pacifico.pacificid,Unprotected exported component,Activity,net.easysol.did.push_auth.transaction.PushTransactionActivity
+com.pacifico.pacificid,Unprotected exported component,Activity,net.easysol.did.push_auth.alert.PushAlertActivity
+com.pacifico.pacificid,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+com.pacifico.pacificid,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.pacifico.pacificid,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.pacifico.pacificid,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+eu.netinfo.netteller.cqur.motp,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.vn.vib.smeotp,Unprotected intent-filter,Activity,com.vn.vib.smeotp.ui.activity.TermsAndConditionsActivity
+com.vn.vib.smeotp,Unprotected intent-filter,Service,com.vn.vib.smeotp.fcm.MyFcmListenerService
+vn.com.sacombank.msign,Unprotected intent-filter,Activity,au.com.saltgroup.msign.DeepLinkActivity
+vn.com.sacombank.msign,Unprotected intent-filter,Service,au.com.saltgroup.msign.FCMFirebaseMessagingService
+vn.com.sacombank.msign,Unprotected intent-filter,Activity,au.com.saltgroup.figaro.capture.CaptureActivity
+vn.com.sacombank.msign,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+vn.com.sacombank.msign,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.kiwoom.unitycert,Unprotected exported component,Service,com.kiwoom.remotebiotp.RemoteService
+com.kiwoom.unitycert,Unprotected intent-filter,Activity,com.dreammirae.fidocombo.fidoclient.MainActivity
+com.feelanet.artstrongid.sec,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+io.faceotp.faceotp,Unprotected intent-filter,Service,io.faceotp.faceotp.CustomMessagingService
+ru.yandex.key,Unprotected exported component,Service,com.yandex.metrica.MetricaService
+ru.yandex.key,Unprotected exported component,Broadcast Receiver,com.yandex.metrica.MetricaEventHandler
+dev.cat.coffee.authenticator,Unprotected intent-filter,Activity,com.dropbox.core.android.AuthActivity
+com.sgn.sgotp,Unprotected intent-filter,Activity,com.sgn.sgotp.OTPMain
+com.portwise.mid.clients.android,Unprotected intent-filter,Activity,com.portwise.mid.clients.android.TruId
+com.canopus.otpmacgenerator.finductive,Unprotected intent-filter,Broadcast Receiver,com.canopus.infosec.ui.login.LogoutTimeReceiver
+vn.tpb.token.baseotp,Unprotected intent-filter,Service,vn.tpb.token.FirebaseService
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.ca.sec.aa.authenticator.activity.MainActivity
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Service,com.ca.sec.aa.authenticator.services.MyFirebaseMessagingService
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Service,com.ca.sec.aa.authenticator.services.MyFirebaseInstanceIDService
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.ca.sec.aa.authenticator.activity.NotificationActivity
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.google.zxing.client.android.encode.EncodeActivity
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.google.zxing.client.android.book.SearchBookContentsActivity
+com.ca.sec.aa.authenticator,Unprotected intent-filter,Activity,com.google.zxing.client.android.share.ShareActivity
+com.ca.sec.aa.authenticator,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.ca.sec.aa.authenticator,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.bncr.detectid_otp,Unprotected intent-filter,Activity,net.easysol.did.common.registration.agreement.AgreementBroadcast
+com.bncr.detectid_otp,Unprotected exported component,Activity,net.easysol.did.push_auth.transaction.PushTransactionActivity
+com.bncr.detectid_otp,Unprotected exported component,Activity,net.easysol.did.push_auth.alert.PushAlertActivity
+com.bncr.detectid_otp,Unprotected intent-filter,Service,net.easysol.did.firebase_service.InstanceIDListenerService
+com.bncr.detectid_otp,Unprotected intent-filter,Service,net.easysol.did.firebase_service.FirebaseGCMReceiverService
+com.bncr.detectid_otp,Unprotected exported component,Activity,net.easysol.did.face_auth.registration.FaceRegistrationActivity
+com.bncr.detectid_otp,Unprotected exported component,Activity,net.easysol.did.face_auth.transaction.FaceAuthenticationActivity
+com.bncr.detectid_otp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.bncr.detectid_otp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.pozitron.qib,Unprotected intent-filter,Service,com.qib.omnichannel.qa.fcm_notification.MyFirebaseMessagingService
+com.pozitron.qib,Unprotected intent-filter,Service,com.qib.omnichannel.qa.fcm_notification.MyFirebaseInstanceIDService
+com.pozitron.qib,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.pozitron.qib,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+cy.com.netinfo.crdbotp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+org.juanjcsr.newcloudotp,Unprotected intent-filter,Activity,com.dropbox.core.android.AuthActivity
+com.rcdevs.auth,Unprotected intent-filter,Service,firebase.cloudmessaging.TiFirebaseMessagingService
+com.rcdevs.auth,Unprotected exported component,Activity,firebase.cloudmessaging.PushHandlerActivity
+com.rcdevs.auth,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.encode.EncodeActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.book.SearchBookContentsActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.share.ShareActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.history.HistoryActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.share.BookmarkPickerActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.share.AppPickerActivity
+com.rcdevs.auth,Unprotected intent-filter,Activity,com.google.zxing.client.android.HelpActivity
+com.aircuve.airotp,Unprotected intent-filter,Activity,com.google.zxing.client.android.CaptureActivity
+com.pvcombank.smartotp,Unprotected exported component,Broadcast Receiver,com.learnium.RNDeviceInfo.RNDeviceReceiver
+com.dreammirae.otp.android.mirae,Unprotected intent-filter,Broadcast Receiver,com.dreammirae.otp.android.mirae.OTPAppMonitorReceiver
+com.nhn.hangameotp,Unprotected intent-filter,Service,com.nhn.hangameotp.receiver.OtpFirebaseMessagingService
+com.nhn.hangameotp,Unprotected intent-filter,Service,com.toast.android.push.fcm.FirebaseMessageReceiver
+com.nhn.hangameotp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.authenticator.authservice2,Unprotected intent-filter,Broadcast Receiver,com.authenticator.authservice.controllers.widget.TotpAuthenticatorWidgetProvider
+com.authenticator.authservice2,Unprotected intent-filter,Broadcast Receiver,com.authenticator.authservice.controllers.widget.LargeTotpAuthenticatorWidgetProvider
+com.authenticator.authservice2,Unprotected intent-filter,Broadcast Receiver,com.authenticator.authservice.controllers.widget.DarkLargeWidgetProvider
+com.authenticator.authservice2,Unprotected intent-filter,Broadcast Receiver,com.authenticator.authservice.controllers.widget.DarkCompactWidgetProvider
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.home.HomeActivity
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.widget.AppWidgetConfiguration
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.widget.LargeWidgetConfiguration
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.widget.DarkCompactWidgetConfiguration
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.widget.DarkLargeWidgetConfiguration
+com.authenticator.authservice2,Unprotected intent-filter,Activity,com.authenticator.authservice.controllers.settings.PasscodeCheckActivity
+com.authenticator.authservice2,Unprotected exported component,Broadcast Receiver,com.authenticator.authservice.receivers.NotificationBroadcastReceiver
+com.authenticator.authservice2,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.deepnet.andmob5,Unprotected intent-filter,Activity,com.deepnet.andmob5.OOBAActivity
+com.deepnet.andmob5,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.deepnet.andmob5,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+sk.otp.viamo,Unprotected exported component,Activity,eu.mtrust.quikpay.MainActivity
+sk.otp.viamo,Unprotected intent-filter,Activity-Alias,eu.mtrust.quikpay.QuikPayActivityWithURLS
+sk.otp.viamo,Unprotected intent-filter,Activity-Alias,eu.mtrust.quikpay.QuikPayActivity
+sk.otp.viamo,Unprotected intent-filter,Service,io.invertase.firebase.messaging.RNFirebaseMessagingService
+sk.otp.viamo,Unprotected intent-filter,Service,io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+sk.otp.viamo,Unprotected intent-filter,Broadcast Receiver,eu.mtrust.quikpay.Widget
+sk.otp.viamo,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+sk.otp.viamo,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.bankofamerica.authenticator,Unprotected intent-filter,Service,com.vasco.digipass.sdk.utils.notification.client.NotificationIntentService
+com.google.android.apps.authenticator2,Unprotected exported component,Activity,com.google.android.libraries.social.licenses.LicenseMenuActivity
+com.google.android.apps.authenticator2,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.api.AuthenticateActivity
+com.google.android.apps.authenticator2,Unprotected exported component,Broadcast Receiver,com.google.android.libraries.phenotype.client.stable.PhenotypeStickyAccount$AccountRemovedBroadcastReceiver
+kr.co.neople.neopleotp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+kr.co.neople.neopleotp,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+kr.co.neople.neopleotp,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+kr.co.neople.neopleotp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+de.otp.main,Unprotected exported component,Service,de.otp.main.MessageService
+no.buypass.mobile.bpcode.bp,Unprotected exported component,Service,com.google.android.play.core.assetpacks.AssetPackExtractionService
+org.liberty.android.freeotpplus,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+otl.snkl.HDFCSnorkelOTP,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+otl.snkl.HDFCSnorkelOTP,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+otl.snkl.HDFCSnorkelOTP,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+otl.snkl.HDFCSnorkelOTP,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+hr.asseco.android.jimba.otpretailng,Unprotected intent-filter,Activity,hr.asseco.android.ActivityLogin
+hr.asseco.android.jimba.otpretailng,Unprotected intent-filter,Service,hr.asseco.android.push_notifications.MyFirebaseMessagingService
+com.egypt.ais.aismotp,Unprotected intent-filter,Activity,com.egypt.ais.aismotp.OTPList
+ua.com.cs.ifobs.mobile.android.otp,Unprotected intent-filter,Activity,ua.com.cs.ifobs.mobile.android.activity.ApplicationSettingsWebViewActivity
+ua.com.cs.ifobs.mobile.android.otp,Unprotected intent-filter,Activity,ua.com.cs.ifobs.mobile.android.activity.ConnectionSettingsWebViewActivity
+ua.com.cs.ifobs.mobile.android.otp,Unprotected exported component,Service,ua.com.cs.ifobs.mobile.android.gcm.GcmIntentService
+ua.com.cs.ifobs.mobile.android.otp,Unprotected intent-filter,Activity,ua.com.cs.ifobs.mobile.android.activity.PhotoActivity
+ua.com.cs.ifobs.mobile.android.otp,Unprotected exported component,Broadcast Receiver,ua.com.cs.ifobs.mobile.android.sms.SMSBroadcastReceiver
+ua.com.cs.ifobs.mobile.android.otp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+ua.com.cs.ifobs.mobile.android.otp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+vn.unlimit.magicauth,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.qr.QRActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.KeyLockActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.KeyLockActivityAPI19
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.NFCLocationViewActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.NFCLocationViewActivityAPI19
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.NFCCheckActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.FindNFCActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.nfc.NFCSimpleActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.smartotp.SmartOTPActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.simple.SimpleSrp
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.ic.NHICActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.set.UserGuideDetailView
+nh.smart.signone,Unprotected intent-filter,Service,btworks.codeguard.engine.MainService
+nh.smart.signone,Unprotected intent-filter,Broadcast Receiver,com.dreamsecurity.usim.smartcert3rd.client.SmartCertInstalledListener
+nh.smart.signone,Unprotected intent-filter,Activity,btworks.ssi.fido.fidoclient.ClientActivity
+nh.smart.signone,Unprotected intent-filter,Activity,btworks.ssi.fido.fidoasm.ASMActivity
+nh.smart.signone,Unprotected intent-filter,Activity,nh.smart.signone.app.fingercert.FinanceAcivity
+no.SpareBank1.MobileOTP,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+no.SpareBank1.MobileOTP,Unprotected intent-filter,Activity-Alias,.launcher_83b5da896f4bdf2c8cbf1644208b522b86d55ef4bcc11c294d37242072f10638
+org.arcon.arcos.otp1,Unprotected intent-filter,Activity,org.arcon.arcos.otp1.BaseActivity
+kr.kjun.NaverSetup,Unprotected intent-filter,Broadcast Receiver,md5bfb330f3b436006db6522cc484fa6b5d.BootReceiver
+br.com.voegol.tokenagenciasgol,Unprotected intent-filter,Activity,net.easysol.did.common.registration.agreement.AgreementBroadcast
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Activity,net.easysol.did.qr_auth.transaction.QRCodeTransactionActivity
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Activity,net.easysol.did.push_auth.transaction.PushTransactionActivity
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Activity,net.easysol.did.push_auth.alert.PushAlertActivity
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+br.com.voegol.tokenagenciasgol,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.ftsafe.otp.activity,Unprotected intent-filter,Activity,com.ftsafe.otp.activity.push.HWNotifyActivity
+com.ftsafe.otp.activity,Unprotected exported component,Service,com.xiaomi.mipush.sdk.PushMessageHandler
+com.ftsafe.otp.activity,Unprotected exported component,Broadcast Receiver,com.xiaomi.push.service.receivers.NetworkStatusReceiver
+com.ftsafe.otp.activity,Unprotected exported component,Broadcast Receiver,com.ftsafe.otp.push.PushReceiver
+com.ftsafe.otp.activity,Unprotected intent-filter,Broadcast Receiver,com.ftsafe.otp.push.huawei.HWNotifyReceiver
+com.ftsafe.otp.activity,Unprotected exported component,Service,com.huawei.hms.support.api.push.service.HmsMsgService
+vietcombank.itcenter.vcbsmartoptv10,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.cbcapp.otp.activity,Unprotected intent-filter,Broadcast Receiver,com.ftsafe.otp.push.PushBroadcastRecv
+com.cbcapp.otp.activity,Unprotected intent-filter,Broadcast Receiver,com.ftsafe.otp.push.NetListenService
+it.netknights.piauthenticator,Unprotected intent-filter,Service,io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+hr.asseco.android.otp,Unprotected intent-filter,Activity,hr.asseco.android.login.LoginActivity
+hr.asseco.android.otp,Unprotected intent-filter,Service,hr.asseco.android.AssecoFirebaseInstanceIdService
+hr.asseco.android.otp,Unprotected intent-filter,Service,hr.asseco.android.AssecoFirebaseMessagingService
+hr.asseco.android.otp,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+hr.asseco.android.otp,Unprotected intent-filter,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+hr.asseco.android.otp,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+hr.asseco.android.otp,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.azure.authenticator,Unprotected exported component,Activity,com.azure.authenticator.ui.MainActivity
+com.azure.authenticator,Unprotected exported component,Broadcast Receiver,com.azure.authenticator.BootReceiver
+com.azure.authenticator,Unprotected exported component,Broadcast Receiver,com.azure.authenticator.logging.LoggingReceiver
+com.azure.authenticator,Unprotected intent-filter,Broadcast Receiver,com.azure.authenticator.OnAppUpgradeReceiver
+com.azure.authenticator,Unprotected exported component,Activity,com.microsoft.identity.client.AccountChooserActivity
+com.azure.authenticator,Unprotected exported component,Activity,com.microsoft.workaccount.workplacejoin.core.JoinActivity
+com.azure.authenticator,Unprotected exported component,Activity,com.microsoft.workaccount.workplacejoin.core.LeaveActivity
+com.azure.authenticator,Unprotected exported component,Activity,com.microsoft.workaccount.workplacejoin.core.InstallCertActivity
+com.azure.authenticator,Unprotected intent-filter,Activity,com.microsoft.workaccount.workplacejoin.core.InstallCertDeepLinkActivity
+com.azure.authenticator,Unprotected intent-filter,Broadcast Receiver,com.microsoft.workaccount.workplacejoin.core.OnUpgradeReceiver
+com.azure.authenticator,Unprotected intent-filter,Broadcast Receiver,com.microsoft.workaccount.authenticatorservice.KeyMigrationBroadcastReceiver
+com.azure.authenticator,Unprotected exported component,Service,com.microsoft.workaccount.authenticatorservice.AuthenticatorService
+com.azure.authenticator,Unprotected exported component,Service,com.microsoft.aad.adal.BrokerAccountService
+com.azure.authenticator,Unprotected exported component,Service,com.microsoft.identity.client.MicrosoftAuthService
+com.azure.authenticator,Unprotected exported component,Service,com.microsoft.workaccount.workplacejoin.WPJService
+com.azure.authenticator,Unprotected exported component,Content Provider,com.microsoft.identity.client.BrokerContentProvider
+com.azure.authenticator,Unprotected intent-filter,Activity,com.microsoft.identity.client.BrokerBrowserRedirectActivity
+com.azure.authenticator,Unprotected exported component,Activity,net.openid.appauth.RedirectUriReceiverActivity
+com.azure.authenticator,Unprotected exported component,Service,com.microsoft.onlineid.internal.sso.service.MsaSsoService
+com18deglab.cylocklite,Unprotected intent-filter,Activity,com18deglab.cylocklite.MainActivity
+com18deglab.cylocklite,Unprotected intent-filter,Activity,com18deglab.cylocklite.WidgetConfigActivity
+com18deglab.cylocklite,Unprotected intent-filter,Broadcast Receiver,com18deglab.cylocklite.CyAuthWidgetProvider
+com18deglab.cylocklite,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.namirial.android.virtualotp,Unprotected intent-filter,Service,.firebase.VOTPFirebaseMessagingService
+com.eset.esa,Unprotected intent-filter,Service,md551d4d0eb71bf8716702d8bbf26b77eee.IIDService
+com.eset.esa,Unprotected intent-filter,Service,md551d4d0eb71bf8716702d8bbf26b77eee.MessagingService
+com.eset.esa,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.eset.esa,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.eset.esa,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.egypt.ais.masriacard.mcmotp,Unprotected intent-filter,Activity,com.egypt.ais.masriacard.mcmotp.OTPList
+com.canopus.otpmacgenerator,Unprotected intent-filter,Broadcast Receiver,com.canopus.infosec.ui.login.LogoutTimeReceiver
+com.LuxTrustMobile,Unprotected intent-filter,Activity,com.luxtrust.mobile.ui.onlineActivation.OnlineActivationActivity
+com.LuxTrustMobile,Unprotected intent-filter,Activity,com.LuxTrustMobile.ui.transaction.TransactionActivity
+com.LuxTrustMobile,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.LuxTrustMobile,Unprotected exported component,Activity,de.idnow.sdk.Activities_VideoLiveStreamActivity_IceLink
+com.ideasventure.otptoken,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.RegistrationActivity
+com.ideasventure.otptoken,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.SetPasswordActivity
+com.ideasventure.otptoken,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.SignInActivity2
+com.ideasventure.otptoken,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.OneTimePasswordActivity
+com.ideasventure.otptoken,Unprotected intent-filter,Activity,com.google.android.apps.authenticator.AuthenticatorActivity
+com.kienlongbank.etoken,Unprotected intent-filter,Service,vn.mk.token.baseotp.TokenService
+com.kienlongbank.etoken,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.kienlongbank.etoken,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.kienlongbank.etoken,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+com.kienlongbank.etoken,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+kr.or.kftc.fsc,Unprotected intent-filter,Service,kr.or.kftc.fsc.service.FscFirebaseMessagingService
+kr.or.kftc.fsc,Unprotected intent-filter,Service,kr.or.kftc.fsc.service.FscFirebaseInstanceIDService
+kr.or.kftc.fsc,Unprotected intent-filter,Service,btworks.codeguard.engine.MainService
+kr.or.kftc.fsc,Unprotected intent-filter,Service,kr.or.kftc.fsc.vguard2.RealtimeScanningService
+kr.or.kftc.fsc,Unprotected intent-filter,Activity,kr.or.kftc.fsc.activity.DlgNotiActivity
+kr.or.kftc.fsc,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+kr.or.kftc.fsc,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+vn.savis.smartid,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.IdinputActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.pin.PinVerificationActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.VerifyActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.OTPGenerateActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.MenuActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.SimpleAuthMenuActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.PushSettingActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.SWVersionActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.LicenseInformationActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.ClearActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.BackgroundSettingActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.HelpActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.DescActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Activity,com.dreammirae.otp.android.mirae.multiid.IdListActivity
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected intent-filter,Broadcast Receiver,com.dreammirae.otp.android.mirae.multiid.OTPAppMonitorReceiver
+com.dreammirae.otp.android.mirae.multiid.market,Unprotected exported component,Service,com.dreammirae.remote.RemoteService
+it.previnet.authenticator,Unprotected intent-filter,Activity,it.previnet.authenticator.activity.MainActivity
+com.aff.otpdirekt,Unprotected intent-filter,Service,com.aff.otpdirekt.SBFirebaseMessagingService
+com.aff.otpdirekt,Unprotected intent-filter,Activity,hu.eqlsoft.otpdirekt.framework.SBOuterFrameActivity
+com.aff.otpdirekt,Unprotected exported component,Activity,com.google.android.gms.tagmanager.TagManagerPreviewActivity
+com.aff.otpdirekt,Unprotected exported component,Broadcast Receiver,pro.piwik.sdk.extra.InstallReferrerReceiver
+com.aff.otpdirekt,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.aff.otpdirekt,Unprotected exported component,Activity,com.google.android.gms.appinvite.PreviewActivity
+com.aff.otpdirekt,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.ncb.bank.otp,Unprotected intent-filter,Activity,vn.ncb.token.activities.DeeplinkActivity
+it.aruba.pec.mobile.otpfvg,Unprotected exported component,Activity,androidx.biometric.DeviceCredentialHandlerActivity
+vn.funtap.smartotp,Unprotected intent-filter,Activity,vn.funtap.smartotp.modules.authenticator.AuthenticatorActivity
+vn.funtap.smartotp,Unprotected intent-filter,Broadcast Receiver,vn.funtap.smartotp.util.check_internet.CheckInternetConnectReceiver
+com.qrail.token,Unprotected exported component,Service,com.google.firebase.iid.FirebaseInstanceIdService
+com.qrail.token,Unprotected exported component,Service,com.google.firebase.messaging.FirebaseMessagingService
+com.scrignosa,Unprotected intent-filter,Activity,it.popso.identitel.homepage.MainActivity
+com.scrignosa,Unprotected intent-filter,Service,com.vasco.digipass.sdk.utils.notification.client.NotificationIntentService
+com.atsolution.android.bcotp,Unprotected intent-filter,Activity,com.atsolution.android.bcotp.LoginActivity
+br.gov.caixa.codigocaixa,Unprotected intent-filter,Activity,br.gov.caixa.codigocaixa.MainActivity
+br.gov.caixa.codigocaixa,Unprotected exported component,Service,br.gov.caixa.codigocaixa.RemoteService
+com.hpe.icewall.smartotp,Unprotected exported component,Broadcast Receiver,com.hpe.icewall.smartotp.InstallReceiver
+com.mollatech.android.apps.authenticators,Unprotected intent-filter,Activity,com.google.android.apps.authenticators.RegistrationActivity
+com.mollatech.android.apps.authenticators,Unprotected intent-filter,Activity,com.google.android.apps.authenticators.DestroyedTokenActivity
+com.mollatech.android.apps.authenticators,Unprotected intent-filter,Activity,com.google.android.apps.authenticators.SetPasswordActivity
+com.mollatech.android.apps.authenticators,Unprotected intent-filter,Activity,com.google.android.apps.authenticators.LoginActivity
+com.mollatech.android.apps.authenticators,Unprotected intent-filter,Activity,com.google.android.apps.authenticators.AuthenticatorActivity

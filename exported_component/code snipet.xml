@@ -1,0 +1,26 @@
+dream mirae
+
+<service android:exported="true" android:name="*.RemoteService"/>
+
+
+hu.eqlsoft.otpdirekt.
+
+<activity android:label="@string/app_name" android:name="hu.eqlsoft.otpdirekt.framework.SBOuterFrameActivity" android:screenOrientation="portrait" android:theme="@style/AppTheme.NoActionBar" android:windowSoftInputMode="adjustResize|stateHidden">
+    <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:host="otpbank.hu" android:path="/menu.html" android:scheme="smartbank"/>
+        <data android:host="otpbank.hu" android:scheme="smartbank"/>
+    </intent-filter>
+</activity>
+
+mollatech
+
+<activity android:label="@string/app_name" android:name="*.LoginActivity" "*">
+    <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+    </intent-filter>
+</activity>
+

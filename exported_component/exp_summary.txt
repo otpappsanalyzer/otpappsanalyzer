@@ -1,0 +1,5 @@
+component types&components&exported_components
+activities&12.08&1.32
+services&3.47&0.91
+receivers&2.34&0.99
+providers&1.07&0.02

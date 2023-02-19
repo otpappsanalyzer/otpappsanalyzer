@@ -1,0 +1,2 @@
+<service android:exported="true" android:name="*.RemoteService"/>
+
