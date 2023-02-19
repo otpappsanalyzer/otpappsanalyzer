@@ -4,13 +4,16 @@ from pandas.io.parsers import read_csv
 import numpy as np
 import statsmodels.api as sm # recommended import according to the docs
 import matplotlib.pyplot as plt
+import os
 
-
+"""Change the working directory"""
 sum_negative_review_path = '/home/budi/OTP_project/OTP_code/user_review/sum_negative_review.csv'
 total_write_path = '/home/budi/OTP_project/OTP_code/user_review/total_review.txt'
 
-def plot_negative_review(file):
 
+def plot_negative_review(file):
+    file_dir = os.path.dirname(os.path.realpath('__file__'))
+    print(file_dir)
     ori_path = '/home/budi/OTP_project/OTP_code/metadata/csv_apk_id.csv'
     ori_df = pd.read_csv(ori_path,names =['appId'] ,header=None)
     # print(ori_df)

@@ -1,0 +1,20 @@
+eu.netinfo.netteller.cqur.motp 	CQUR M-OTP 			10 	0.0
+it.aruba.pec.mobile.otpfvg 	OTP Friuli Venezia Giulia 	100 	0.0
+com.novoload.otp 		NOVOLOAD OTP 			100 	0.0
+net.secuwiz.prudentialotp 	UV1.0 OTP 			5000 	0.0
+com.bncr.detectid_otp 		BN Token Celular 		100000 	0.0
+
+
+1 & CQUR M-OTP 			& 10 	& 0.0 \\
+2 & OTP Friuli Venezia Giulia 	& 100 	& 0.0 \\
+3 & NOVOLOAD OTP 		& 100 	& 0.0 \\
+4 & UV1.0 OTP 			& 5000 	& 0.0 \\
+5 & BN Token Celular 		& 100000 & 0.0 \\
+
+
+eu.netinfo.netteller.cqur.motp 	CQUR M-OTP 			CQUR Bank LLC 	10 	0.0
+it.aruba.pec.mobile.otpfvg 	OTP Friuli Venezia Giulia 	Aruba S.p.A. 	100 	0.0
+com.novoload.otp 		NOVOLOAD OTP 			Schematic It Solutions 	100 	0.0
+net.secuwiz.prudentialotp 	UV1.0 OTP 			Secuwiz 	5000 	0.0
+com.bncr.detectid_otp 		BN Token Celular 		Banco Nacional de Costa Rica 	100000 	0.0
+

@@ -1,0 +1,51 @@
+appId,title,install,score
+club.nagavip.otp,error,0,0.0
+com.goldtime.authy,error,0,0.0
+com.sitin.sitinotp,error,0,0.0
+eu.netinfo.cdb.otp,error,0,0.0
+com.ncs.secureconnect.otp,error,0,0.0
+iSec.Authenticator,error,0,0.0
+com.ws.a.otp,error,0,0.0
+com18deglab.cylocklite,error,0,0.0
+com.ezmcom.cimb.softtoken.ezidv4,error,0,0.0
+two.factor.secure.otp.authentication,error,0,0.0
+com.mts.opt2,MTS OTP,1,0.0
+com.egypt.ais.masriacard.mcmotp,MC OTP,10,0.0
+eu.netinfo.netteller.cqur.motp,CQUR M-OTP,10,0.0
+vn.savis.smartid,SmartID OTP,10,0.0
+com.hpe.icewall.smartotp,HPE IceWall Smart OTP,10,0.0
+com.canopus.otpmacgenerator.finductive,Finductive OTP Token,50,0.0
+it.aruba.pec.mobile.otpfvg,OTP Friuli Venezia Giulia,100,0.0
+com.novoload.otp,NOVOLOAD OTP,100,0.0
+de.sbeh.rdp_otp,RDP OTP (Remote Desktop Protocol),100,3.1
+tm.asmanoky.otp,AsmanOky OTP,100,0.0
+it.uiv.uivotp,UIV OTP,100,0.0
+eu.netinfo.bcb.otp,BCB m-OTP App,100,0.0
+com.andxor.mobile.jsotp.piteco,Piteco OTP,100,0.0
+vn.mk.token.baseotp,Keypass SoftToken,100,0.0
+com.canopus.otpmacgenerator,Canopus OTP/MAC generator,500,3.4
+ngn.com.vn.totp,NGN OTP,500,5.0
+org.juanjcsr.newcloudotp,Cloud OTP,500,4.0
+com.u2fa.secur,Secur - Cross platform 2FA OTP authenticator,500,4.7
+eu.sia.siaotp,SIA Secure OTP,500,0.0
+com.dxc.ipwr,iPwR OTP Generator,500,0.0
+org.kamrul.android.myauth,My Authenticator (TOTP Generator),500,0.0
+com.securekiotp,SecureKi OTP,500,0.0
+vn.unlimit.magicauth,"Magic Authenticator - Fast 2FA, TOTP Client",1000,3.8
+com.mastersam.android.mastersamotp,MasterSAM OTP,1000,4.4
+hr.asseco.android.otp,Asseco OTP,1000,4.6
+com.protectimus.totpburner.nfc,PROTECTIMUS TOTP BURNER,1000,3.6
+com.sgn.sgotp.lotte,LOTTE OTP,1000,0.0
+com.sgn.secureguardotp,SecureGuard OTP V2.0,1000,3.1
+com.isprint.SWIFTToken,SWIFT Token,1000,3.7
+sk.otp.viamo,OTP VIAMO,1000,4.4
+at.tugraz.iaik.signapp,Trans Sped OTP,1000,3.3
+eu.sebbe.www.qrsa,QRSA OTP Authentication,1000,4.8
+ro.len.mobile,mOTP token,1000,3.6
+com.vivokey.vivoauth,VivoKey Authenticator,1000,4.7
+com.gstotpauthenticator,AccountGST OTP Authenticator,1000,4.6
+com.Sigma,Sigma OTP,1000,4.6
+vn.funtap.smartotp,Funtap OTP,1000,4.5
+com.netfiles.netfilesotp,netfiles OTP – Authenticator,1000,0.0
+com.pvcombank.smartotp,PV Smart OTP,1000,4.8
+net.aftnet.OTPManager,OTP Manager,1000,4.4

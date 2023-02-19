@@ -1,0 +1,65 @@
+appId,title,install,score
+com.azure.authenticator,Microsoft Authenticator,50000000,4.7
+com.google.android.apps.authenticator2,Google Authenticator,50000000,3.9
+com.sbi.SBIFreedomPlus,Yono Lite SBI - Mobile Banking,50000000,4.2
+com.authy.authy,Twilio Authy 2-Factor Authentication,10000000,3.9
+com.square_enix_software_token,SQUARE ENIX Software Token,1000000,2.9
+nh.smart.signone,NH스마트인증 - 안심보안/스마트OTP,1000000,3.2
+com.atsolution.android.uotp2,U-OTP+,1000000,2.1
+kr.co.neople.neopleotp,네오플 OTP,1000000,2.7
+br.gov.caixa.codigocaixa,Código Caixa,1000000,2.5
+com.mobilians.motp,MOTP-Mobilians,1000000,3.0
+com.entrust.identityGuard.mobile,Entrust Identity,1000000,3.6
+com.aff.otpdirekt,OTP SmartBank,1000000,4.4
+org.fedorahosted.freeotp,FreeOTP Authenticator,1000000,3.9
+com.sbi.SBISecure,SBI Secure OTP,1000000,2.1
+ru.yandex.key,Yandex.Key – your passwords,1000000,3.7
+ua.com.cs.ifobs.mobile.android.otp,OTP Smart,500000,3.8
+com.BankMisrSoftToken,BM Soft Token,500000,3.1
+com.pacifico.pacificid,PacificID,500000,2.9
+it.aruba.pec.mobile.otp,Aruba OTP,500000,3.0
+no.SpareBank1.MobileOTP,One time password (OTP),500000,3.1
+kr.or.kftc.fsc,디지털OTP(스마트보안카드),500000,2.0
+vietcombank.itcenter.vcbsmartoptv10,Vietcombank Smart OTP,500000,4.9
+org.cry.otp,Mobile-OTP,100000,3.7
+it.company.sielte,MySielteID,100000,4.5
+com.forgerock.authenticator,ForgeRock Authenticator,100000,3.8
+otl.snkl.HDFCSnorkelOTP,HDFC Bank e Token,100000,4.1
+com.zenithbank.zenithetoken,Zenith Bank eToken,100000,2.8
+com.CIBEgyptSecureToken,CIB OTP Token,100000,3.8
+com.kmcert.myotp,MyOTP,100000,4.5
+vn.tpb.token.baseotp,TPBank eToken,100000,3.4
+com.vtc.main.otpapp,VTC OTP,100000,2.1
+org.shadowice.flocke.andotp,andOTP - Android OTP Authenticator,100000,4.4
+oracle.idm.mobile.authenticator,Oracle Mobile Authenticator,100000,4.0
+com.eset.esa,ESET Secure Authentication,100000,4.2
+com.arcot.otp1,CA Mobile OTP,100000,3.1
+com.hidglobal.ia.token.generic,ActivID Token,100000,4.0
+vn.com.bidv.softotp,BIDV Smart OTP,100000,3.5
+com.LuxTrustMobile,LuxTrust Mobile,100000,4.2
+vn.com.sacombank.msign,Sacombank mSign,100000,3.7
+com.kiwoom.unitycert,키움통합인증,100000,1.9
+com.techcombank.stk.corp,TCB OTP,100000,3.8
+wibmo.com.wibmoAuthApp,CanPass,100000,2.6
+com.bitrixsoft.otp,Bitrix24 OTP,100000,2.9
+me.jmh.authenticatorpro,Authenticator Pro | offline 2FA Two Factor app,100000,4.7
+com.mds.canarabankapp,Canara OTP,100000,3.5
+com.yubico.yubioath,Yubico Authenticator,100000,3.6
+hr.asseco.android.intesa.isbd.alex,ALEXBANK O-Key,100000,3.6
+com.bncr.detectid_otp,BN Token Celular,100000,0.0
+hr.asseco.android.jimba.otpretailng,OTP mobile banking HR,100000,4.0
+br.com.voegol.tokenagenciasgol,Token | GOL,100000,3.1
+com.dreammirae.otp.android.mirae,AnyOTP,100000,2.1
+jp.konami.android.otp_token,KONAMI OTP TOKEN (World Wide),100000,3.6
+com.dreammirae.otp.android.mirae.multiid.market,Any OTP,100000,3.1
+com.bankofamerica.authenticator,Flagscape Authenticator™,100000,2.7
+com.portwise.mid.clients.android,Nexus TruID,100000,4.0
+no.buypass.mobile.bpcode.bp,Buypass Code,100000,3.5
+com.inwebo.authenticator,Authenticator 4,100000,3.3
+com.namirial.android.virtualotp,Namirial OTP,100000,4.3
+com.scrignosa,SCRIGNOIdentiTel,100000,4.2
+com.authenticator.authservice2,TOTP Authenticator – 2FA with Cloud Sync & Widgets,100000,4.2
+com.vietinbank.softotp,VietinBank OTP,100000,3.7
+com.sophos.sophtoken,Sophos Authenticator,100000,3.8
+com.vpbank.vpbanksmartotp,VPBank Smart OTP,100000,3.4
+com.pozitron.qib,QIB Mobile,100000,4.1
